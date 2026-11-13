@@ -1,0 +1,1501 @@
+mobility_id,city,state,location_name,mobility_type,latitude,longitude,simulated_daily_passengers,data_source,is_synthetic
+MOB_HYD_0001,Hyderabad,Telangana,Junction Metro Station 1,Metro Station,17.263365,78.554815,3752,Synthetic,True
+MOB_HYD_0002,Hyderabad,Telangana,East Public Transport Platform 2,Public Transport Platform,17.442882,78.439579,3336,Synthetic,True
+MOB_HYD_0003,Hyderabad,Telangana,North Metro Station 3,Metro Station,17.414646,78.406057,899,Synthetic,True
+MOB_HYD_0004,Hyderabad,Telangana,Main Road Bus Stop 4,Bus Stop,17.298326,78.643398,806,Synthetic,True
+MOB_HYD_0005,Hyderabad,Telangana,Junction Railway Station 5,Railway Station,17.386693,78.456828,3230,Synthetic,True
+MOB_HYD_0006,Hyderabad,Telangana,Central Bus Stop 6,Bus Stop,17.466173,78.641772,172,Synthetic,True
+MOB_HYD_0007,Hyderabad,Telangana,East Bus Stop 7,Bus Stop,17.406083,78.642791,3991,Synthetic,True
+MOB_HYD_0008,Hyderabad,Telangana,Main Road Public Transport Platform 8,Public Transport Platform,17.268559,78.281653,4783,Synthetic,True
+MOB_HYD_0009,Hyderabad,Telangana,East Railway Station 9,Railway Station,17.525754,78.608906,2288,Synthetic,True
+MOB_HYD_0010,Hyderabad,Telangana,Main Road Public Transport Platform 10,Public Transport Platform,17.547976,78.413419,2205,Synthetic,True
+MOB_HYD_0011,Hyderabad,Telangana,South Metro Station 11,Metro Station,17.226649,78.542179,1398,Synthetic,True
+MOB_HYD_0012,Hyderabad,Telangana,Market Bus Stop 12,Bus Stop,17.385067,78.341523,3971,Synthetic,True
+MOB_HYD_0013,Hyderabad,Telangana,Market Railway Station 13,Railway Station,17.350529,78.528574,3211,Synthetic,True
+MOB_HYD_0014,Hyderabad,Telangana,East Bus Stop 14,Bus Stop,17.393938,78.639481,1432,Synthetic,True
+MOB_HYD_0015,Hyderabad,Telangana,Junction Railway Station 15,Railway Station,17.531796,78.319931,1097,Synthetic,True
+MOB_HYD_0016,Hyderabad,Telangana,Market Bus Stop 16,Bus Stop,17.376212,78.60146,3015,Synthetic,True
+MOB_HYD_0017,Hyderabad,Telangana,Central Railway Station 17,Railway Station,17.211002,78.627829,2134,Synthetic,True
+MOB_HYD_0018,Hyderabad,Telangana,North Railway Station 18,Railway Station,17.299822,78.43689,1243,Synthetic,True
+MOB_HYD_0019,Hyderabad,Telangana,City Metro Station 19,Metro Station,17.238991,78.627786,1312,Synthetic,True
+MOB_HYD_0020,Hyderabad,Telangana,Junction Public Transport Platform 20,Public Transport Platform,17.469413,78.495911,4074,Synthetic,True
+MOB_HYD_0021,Hyderabad,Telangana,East Bus Stop 21,Bus Stop,17.353436,78.559421,1739,Synthetic,True
+MOB_HYD_0022,Hyderabad,Telangana,Junction Metro Station 22,Metro Station,17.425773,78.521407,1412,Synthetic,True
+MOB_HYD_0023,Hyderabad,Telangana,Main Road Public Transport Platform 23,Public Transport Platform,17.210747,78.597044,4597,Synthetic,True
+MOB_HYD_0024,Hyderabad,Telangana,Main Road Public Transport Platform 24,Public Transport Platform,17.486877,78.609096,2946,Synthetic,True
+MOB_HYD_0025,Hyderabad,Telangana,Central Bus Stop 25,Bus Stop,17.480419,78.276909,3220,Synthetic,True
+MOB_HYD_0026,Hyderabad,Telangana,Central Metro Station 26,Metro Station,17.289225,78.535903,1642,Synthetic,True
+MOB_HYD_0027,Hyderabad,Telangana,South Bus Stop 27,Bus Stop,17.413108,78.56713,1930,Synthetic,True
+MOB_HYD_0028,Hyderabad,Telangana,Main Road Railway Station 28,Railway Station,17.293368,78.607518,2761,Synthetic,True
+MOB_HYD_0029,Hyderabad,Telangana,Junction Metro Station 29,Metro Station,17.204135,78.593135,900,Synthetic,True
+MOB_HYD_0030,Hyderabad,Telangana,South Bus Stop 30,Bus Stop,17.35419,78.452063,4262,Synthetic,True
+MOB_HYD_0031,Hyderabad,Telangana,South Bus Stop 31,Bus Stop,17.320869,78.3189,2131,Synthetic,True
+MOB_HYD_0032,Hyderabad,Telangana,North Railway Station 32,Railway Station,17.291578,78.420999,4405,Synthetic,True
+MOB_HYD_0033,Hyderabad,Telangana,North Metro Station 33,Metro Station,17.440952,78.440045,1831,Synthetic,True
+MOB_HYD_0034,Hyderabad,Telangana,City Public Transport Platform 34,Public Transport Platform,17.205449,78.524496,2675,Synthetic,True
+MOB_HYD_0035,Hyderabad,Telangana,City Metro Station 35,Metro Station,17.251479,78.432597,4165,Synthetic,True
+MOB_HYD_0036,Hyderabad,Telangana,South Railway Station 36,Railway Station,17.481367,78.477159,3536,Synthetic,True
+MOB_HYD_0037,Hyderabad,Telangana,Central Metro Station 37,Metro Station,17.307126,78.644114,3992,Synthetic,True
+MOB_HYD_0038,Hyderabad,Telangana,East Metro Station 38,Metro Station,17.236629,78.585898,1176,Synthetic,True
+MOB_HYD_0039,Hyderabad,Telangana,South Railway Station 39,Railway Station,17.281393,78.57409,4950,Synthetic,True
+MOB_HYD_0040,Hyderabad,Telangana,Junction Public Transport Platform 40,Public Transport Platform,17.26126,78.30288,1718,Synthetic,True
+MOB_HYD_0041,Hyderabad,Telangana,East Metro Station 41,Metro Station,17.256957,78.344186,4703,Synthetic,True
+MOB_HYD_0042,Hyderabad,Telangana,Main Road Bus Stop 42,Bus Stop,17.541525,78.644132,4553,Synthetic,True
+MOB_HYD_0043,Hyderabad,Telangana,Central Public Transport Platform 43,Public Transport Platform,17.337164,78.576765,4691,Synthetic,True
+MOB_HYD_0044,Hyderabad,Telangana,Main Road Metro Station 44,Metro Station,17.380978,78.455874,454,Synthetic,True
+MOB_HYD_0045,Hyderabad,Telangana,Main Road Metro Station 45,Metro Station,17.250997,78.267913,1008,Synthetic,True
+MOB_HYD_0046,Hyderabad,Telangana,Main Road Bus Stop 46,Bus Stop,17.280507,78.605585,183,Synthetic,True
+MOB_HYD_0047,Hyderabad,Telangana,South Bus Stop 47,Bus Stop,17.361458,78.401761,421,Synthetic,True
+MOB_HYD_0048,Hyderabad,Telangana,East Bus Stop 48,Bus Stop,17.450203,78.298681,4537,Synthetic,True
+MOB_HYD_0049,Hyderabad,Telangana,Junction Bus Stop 49,Bus Stop,17.266273,78.403486,811,Synthetic,True
+MOB_HYD_0050,Hyderabad,Telangana,Central Railway Station 50,Railway Station,17.521044,78.344093,4580,Synthetic,True
+MOB_HYD_0051,Hyderabad,Telangana,North Railway Station 51,Railway Station,17.427456,78.506461,746,Synthetic,True
+MOB_HYD_0052,Hyderabad,Telangana,East Bus Stop 52,Bus Stop,17.296727,78.563215,4558,Synthetic,True
+MOB_HYD_0053,Hyderabad,Telangana,Market Metro Station 53,Metro Station,17.310202,78.413467,4872,Synthetic,True
+MOB_HYD_0054,Hyderabad,Telangana,City Railway Station 54,Railway Station,17.212204,78.329422,188,Synthetic,True
+MOB_HYD_0055,Hyderabad,Telangana,South Public Transport Platform 55,Public Transport Platform,17.5206,78.251403,2335,Synthetic,True
+MOB_HYD_0056,Hyderabad,Telangana,South Railway Station 56,Railway Station,17.353137,78.279813,210,Synthetic,True
+MOB_HYD_0057,Hyderabad,Telangana,South Bus Stop 57,Bus Stop,17.351498,78.608755,3244,Synthetic,True
+MOB_HYD_0058,Hyderabad,Telangana,Junction Public Transport Platform 58,Public Transport Platform,17.23221,78.255217,3269,Synthetic,True
+MOB_HYD_0059,Hyderabad,Telangana,Junction Railway Station 59,Railway Station,17.503626,78.533584,1891,Synthetic,True
+MOB_HYD_0060,Hyderabad,Telangana,Central Railway Station 60,Railway Station,17.482717,78.466662,873,Synthetic,True
+MOB_HYD_0061,Hyderabad,Telangana,Junction Public Transport Platform 61,Public Transport Platform,17.470349,78.437774,4332,Synthetic,True
+MOB_HYD_0062,Hyderabad,Telangana,North Bus Stop 62,Bus Stop,17.470552,78.554084,3571,Synthetic,True
+MOB_HYD_0063,Hyderabad,Telangana,Market Public Transport Platform 63,Public Transport Platform,17.30297,78.306331,4426,Synthetic,True
+MOB_HYD_0064,Hyderabad,Telangana,Main Road Public Transport Platform 64,Public Transport Platform,17.335945,78.433645,176,Synthetic,True
+MOB_HYD_0065,Hyderabad,Telangana,South Metro Station 65,Metro Station,17.395311,78.458016,4684,Synthetic,True
+MOB_HYD_0066,Hyderabad,Telangana,East Bus Stop 66,Bus Stop,17.385199,78.522851,4025,Synthetic,True
+MOB_HYD_0067,Hyderabad,Telangana,North Bus Stop 67,Bus Stop,17.210722,78.57114,3562,Synthetic,True
+MOB_HYD_0068,Hyderabad,Telangana,North Metro Station 68,Metro Station,17.358737,78.281014,3773,Synthetic,True
+MOB_HYD_0069,Hyderabad,Telangana,Central Public Transport Platform 69,Public Transport Platform,17.442625,78.344699,232,Synthetic,True
+MOB_HYD_0070,Hyderabad,Telangana,Main Road Bus Stop 70,Bus Stop,17.351065,78.530617,2986,Synthetic,True
+MOB_HYD_0071,Hyderabad,Telangana,Main Road Public Transport Platform 71,Public Transport Platform,17.333049,78.37109,694,Synthetic,True
+MOB_HYD_0072,Hyderabad,Telangana,North Bus Stop 72,Bus Stop,17.527084,78.626298,3826,Synthetic,True
+MOB_HYD_0073,Hyderabad,Telangana,North Railway Station 73,Railway Station,17.378674,78.638606,1014,Synthetic,True
+MOB_HYD_0074,Hyderabad,Telangana,East Public Transport Platform 74,Public Transport Platform,17.359921,78.532427,1180,Synthetic,True
+MOB_HYD_0075,Hyderabad,Telangana,Junction Public Transport Platform 75,Public Transport Platform,17.334784,78.323951,661,Synthetic,True
+MOB_HYD_0076,Hyderabad,Telangana,Main Road Bus Stop 76,Bus Stop,17.298116,78.493421,4901,Synthetic,True
+MOB_HYD_0077,Hyderabad,Telangana,Main Road Public Transport Platform 77,Public Transport Platform,17.35251,78.32081,1204,Synthetic,True
+MOB_HYD_0078,Hyderabad,Telangana,North Public Transport Platform 78,Public Transport Platform,17.379279,78.279779,487,Synthetic,True
+MOB_HYD_0079,Hyderabad,Telangana,North Railway Station 79,Railway Station,17.29324,78.302756,4584,Synthetic,True
+MOB_HYD_0080,Hyderabad,Telangana,Junction Railway Station 80,Railway Station,17.330497,78.583376,421,Synthetic,True
+MOB_HYD_0081,Hyderabad,Telangana,South Railway Station 81,Railway Station,17.472826,78.300568,4784,Synthetic,True
+MOB_HYD_0082,Hyderabad,Telangana,Main Road Metro Station 82,Metro Station,17.495597,78.396868,50,Synthetic,True
+MOB_HYD_0083,Hyderabad,Telangana,Central Bus Stop 83,Bus Stop,17.222179,78.409719,2853,Synthetic,True
+MOB_HYD_0084,Hyderabad,Telangana,Junction Public Transport Platform 84,Public Transport Platform,17.532724,78.433743,1780,Synthetic,True
+MOB_HYD_0085,Hyderabad,Telangana,Junction Metro Station 85,Metro Station,17.496666,78.438001,1505,Synthetic,True
+MOB_HYD_0086,Hyderabad,Telangana,North Metro Station 86,Metro Station,17.510598,78.604192,2343,Synthetic,True
+MOB_HYD_0087,Hyderabad,Telangana,Central Bus Stop 87,Bus Stop,17.231136,78.458068,4282,Synthetic,True
+MOB_HYD_0088,Hyderabad,Telangana,Main Road Metro Station 88,Metro Station,17.441097,78.536831,2019,Synthetic,True
+MOB_HYD_0089,Hyderabad,Telangana,Main Road Bus Stop 89,Bus Stop,17.54779,78.278995,4492,Synthetic,True
+MOB_HYD_0090,Hyderabad,Telangana,Central Railway Station 90,Railway Station,17.368515,78.273567,2928,Synthetic,True
+MOB_HYD_0091,Hyderabad,Telangana,City Bus Stop 91,Bus Stop,17.240659,78.398721,58,Synthetic,True
+MOB_HYD_0092,Hyderabad,Telangana,East Metro Station 92,Metro Station,17.510068,78.293683,755,Synthetic,True
+MOB_HYD_0093,Hyderabad,Telangana,Main Road Railway Station 93,Railway Station,17.349591,78.549013,407,Synthetic,True
+MOB_HYD_0094,Hyderabad,Telangana,Market Railway Station 94,Railway Station,17.531451,78.594878,3659,Synthetic,True
+MOB_HYD_0095,Hyderabad,Telangana,Main Road Bus Stop 95,Bus Stop,17.269863,78.263131,630,Synthetic,True
+MOB_HYD_0096,Hyderabad,Telangana,North Public Transport Platform 96,Public Transport Platform,17.43817,78.251841,4013,Synthetic,True
+MOB_HYD_0097,Hyderabad,Telangana,City Railway Station 97,Railway Station,17.50704,78.479601,2608,Synthetic,True
+MOB_HYD_0098,Hyderabad,Telangana,Junction Railway Station 98,Railway Station,17.279451,78.508344,4698,Synthetic,True
+MOB_HYD_0099,Hyderabad,Telangana,South Public Transport Platform 99,Public Transport Platform,17.407584,78.479234,3426,Synthetic,True
+MOB_HYD_0100,Hyderabad,Telangana,Main Road Railway Station 100,Railway Station,17.408312,78.361611,3918,Synthetic,True
+MOB_HYD_0101,Hyderabad,Telangana,South Bus Stop 101,Bus Stop,17.492716,78.285236,4266,Synthetic,True
+MOB_HYD_0102,Hyderabad,Telangana,East Metro Station 102,Metro Station,17.270765,78.374342,4460,Synthetic,True
+MOB_HYD_0103,Hyderabad,Telangana,Market Bus Stop 103,Bus Stop,17.515594,78.540141,629,Synthetic,True
+MOB_HYD_0104,Hyderabad,Telangana,Junction Bus Stop 104,Bus Stop,17.316302,78.311492,4649,Synthetic,True
+MOB_HYD_0105,Hyderabad,Telangana,Market Public Transport Platform 105,Public Transport Platform,17.439611,78.277488,2481,Synthetic,True
+MOB_HYD_0106,Hyderabad,Telangana,North Metro Station 106,Metro Station,17.353248,78.459607,2032,Synthetic,True
+MOB_HYD_0107,Hyderabad,Telangana,Main Road Railway Station 107,Railway Station,17.347237,78.27419,2286,Synthetic,True
+MOB_HYD_0108,Hyderabad,Telangana,Central Public Transport Platform 108,Public Transport Platform,17.460866,78.429122,4869,Synthetic,True
+MOB_HYD_0109,Hyderabad,Telangana,Junction Metro Station 109,Metro Station,17.511849,78.62238,4173,Synthetic,True
+MOB_HYD_0110,Hyderabad,Telangana,Junction Metro Station 110,Metro Station,17.538686,78.377168,1916,Synthetic,True
+MOB_HYD_0111,Hyderabad,Telangana,Junction Public Transport Platform 111,Public Transport Platform,17.342062,78.30516,438,Synthetic,True
+MOB_HYD_0112,Hyderabad,Telangana,North Railway Station 112,Railway Station,17.218576,78.576522,2316,Synthetic,True
+MOB_HYD_0113,Hyderabad,Telangana,South Bus Stop 113,Bus Stop,17.326037,78.49795,2937,Synthetic,True
+MOB_HYD_0114,Hyderabad,Telangana,North Bus Stop 114,Bus Stop,17.536322,78.313782,4674,Synthetic,True
+MOB_HYD_0115,Hyderabad,Telangana,Central Metro Station 115,Metro Station,17.407923,78.466337,2780,Synthetic,True
+MOB_HYD_0116,Hyderabad,Telangana,City Railway Station 116,Railway Station,17.214877,78.501578,2585,Synthetic,True
+MOB_HYD_0117,Hyderabad,Telangana,City Bus Stop 117,Bus Stop,17.511319,78.289892,732,Synthetic,True
+MOB_HYD_0118,Hyderabad,Telangana,East Bus Stop 118,Bus Stop,17.472618,78.626562,826,Synthetic,True
+MOB_HYD_0119,Hyderabad,Telangana,Main Road Bus Stop 119,Bus Stop,17.314987,78.367973,3696,Synthetic,True
+MOB_HYD_0120,Hyderabad,Telangana,Central Public Transport Platform 120,Public Transport Platform,17.440358,78.320859,244,Synthetic,True
+MOB_HYD_0121,Hyderabad,Telangana,North Public Transport Platform 121,Public Transport Platform,17.521782,78.376051,2245,Synthetic,True
+MOB_HYD_0122,Hyderabad,Telangana,Main Road Bus Stop 122,Bus Stop,17.549374,78.607188,1157,Synthetic,True
+MOB_HYD_0123,Hyderabad,Telangana,East Metro Station 123,Metro Station,17.515391,78.563973,4685,Synthetic,True
+MOB_HYD_0124,Hyderabad,Telangana,Central Railway Station 124,Railway Station,17.203701,78.593973,465,Synthetic,True
+MOB_HYD_0125,Hyderabad,Telangana,North Bus Stop 125,Bus Stop,17.238848,78.33584,1549,Synthetic,True
+MOB_HYD_0126,Hyderabad,Telangana,Junction Railway Station 126,Railway Station,17.354054,78.606239,2833,Synthetic,True
+MOB_HYD_0127,Hyderabad,Telangana,East Bus Stop 127,Bus Stop,17.298882,78.632345,4083,Synthetic,True
+MOB_HYD_0128,Hyderabad,Telangana,East Bus Stop 128,Bus Stop,17.446465,78.58781,3848,Synthetic,True
+MOB_HYD_0129,Hyderabad,Telangana,North Bus Stop 129,Bus Stop,17.447904,78.485955,3049,Synthetic,True
+MOB_HYD_0130,Hyderabad,Telangana,Market Bus Stop 130,Bus Stop,17.433249,78.581693,444,Synthetic,True
+MOB_HYD_0131,Hyderabad,Telangana,South Bus Stop 131,Bus Stop,17.300746,78.521015,1821,Synthetic,True
+MOB_HYD_0132,Hyderabad,Telangana,Central Railway Station 132,Railway Station,17.271142,78.608905,1020,Synthetic,True
+MOB_HYD_0133,Hyderabad,Telangana,Junction Bus Stop 133,Bus Stop,17.321873,78.625075,1807,Synthetic,True
+MOB_HYD_0134,Hyderabad,Telangana,Central Public Transport Platform 134,Public Transport Platform,17.377269,78.529492,2378,Synthetic,True
+MOB_HYD_0135,Hyderabad,Telangana,City Bus Stop 135,Bus Stop,17.389966,78.500744,818,Synthetic,True
+MOB_HYD_0136,Hyderabad,Telangana,North Metro Station 136,Metro Station,17.508175,78.49664,1477,Synthetic,True
+MOB_HYD_0137,Hyderabad,Telangana,North Railway Station 137,Railway Station,17.465988,78.347452,3112,Synthetic,True
+MOB_HYD_0138,Hyderabad,Telangana,Main Road Railway Station 138,Railway Station,17.215997,78.405169,322,Synthetic,True
+MOB_HYD_0139,Hyderabad,Telangana,South Bus Stop 139,Bus Stop,17.537314,78.477758,4781,Synthetic,True
+MOB_HYD_0140,Hyderabad,Telangana,Central Bus Stop 140,Bus Stop,17.339224,78.421389,4535,Synthetic,True
+MOB_HYD_0141,Hyderabad,Telangana,City Bus Stop 141,Bus Stop,17.391357,78.536852,3961,Synthetic,True
+MOB_HYD_0142,Hyderabad,Telangana,Central Railway Station 142,Railway Station,17.472403,78.608175,3973,Synthetic,True
+MOB_HYD_0143,Hyderabad,Telangana,Main Road Railway Station 143,Railway Station,17.45083,78.632567,1637,Synthetic,True
+MOB_HYD_0144,Hyderabad,Telangana,Junction Railway Station 144,Railway Station,17.403369,78.635272,3121,Synthetic,True
+MOB_HYD_0145,Hyderabad,Telangana,Central Metro Station 145,Metro Station,17.200973,78.446311,3138,Synthetic,True
+MOB_HYD_0146,Hyderabad,Telangana,North Metro Station 146,Metro Station,17.314832,78.337186,2900,Synthetic,True
+MOB_HYD_0147,Hyderabad,Telangana,City Bus Stop 147,Bus Stop,17.372631,78.644147,2614,Synthetic,True
+MOB_HYD_0148,Hyderabad,Telangana,Main Road Railway Station 148,Railway Station,17.514595,78.323458,916,Synthetic,True
+MOB_HYD_0149,Hyderabad,Telangana,Junction Public Transport Platform 149,Public Transport Platform,17.26432,78.274459,1580,Synthetic,True
+MOB_HYD_0150,Hyderabad,Telangana,Market Metro Station 150,Metro Station,17.476247,78.373086,830,Synthetic,True
+MOB_BEN_0001,Bengaluru,Karnataka,Central Bus Stop 1,Bus Stop,13.05803,77.411182,376,Synthetic,True
+MOB_BEN_0002,Bengaluru,Karnataka,Central Public Transport Platform 2,Public Transport Platform,12.924659,77.401967,4481,Synthetic,True
+MOB_BEN_0003,Bengaluru,Karnataka,Junction Public Transport Platform 3,Public Transport Platform,12.885042,77.453013,1005,Synthetic,True
+MOB_BEN_0004,Bengaluru,Karnataka,South Bus Stop 4,Bus Stop,12.937404,77.47698,1164,Synthetic,True
+MOB_BEN_0005,Bengaluru,Karnataka,Junction Bus Stop 5,Bus Stop,13.113735,77.517079,3789,Synthetic,True
+MOB_BEN_0006,Bengaluru,Karnataka,East Railway Station 6,Railway Station,12.913147,77.597958,1574,Synthetic,True
+MOB_BEN_0007,Bengaluru,Karnataka,Main Road Bus Stop 7,Bus Stop,13.007697,77.607759,3519,Synthetic,True
+MOB_BEN_0008,Bengaluru,Karnataka,Main Road Railway Station 8,Railway Station,12.938334,77.480831,2018,Synthetic,True
+MOB_BEN_0009,Bengaluru,Karnataka,Main Road Public Transport Platform 9,Public Transport Platform,13.079069,77.709661,1208,Synthetic,True
+MOB_BEN_0010,Bengaluru,Karnataka,North Public Transport Platform 10,Public Transport Platform,12.923803,77.465289,2145,Synthetic,True
+MOB_BEN_0011,Bengaluru,Karnataka,East Public Transport Platform 11,Public Transport Platform,13.111475,77.643216,1082,Synthetic,True
+MOB_BEN_0012,Bengaluru,Karnataka,East Bus Stop 12,Bus Stop,12.840087,77.680404,1377,Synthetic,True
+MOB_BEN_0013,Bengaluru,Karnataka,Central Metro Station 13,Metro Station,12.863326,77.551007,1428,Synthetic,True
+MOB_BEN_0014,Bengaluru,Karnataka,Main Road Bus Stop 14,Bus Stop,12.823634,77.717417,4346,Synthetic,True
+MOB_BEN_0015,Bengaluru,Karnataka,East Bus Stop 15,Bus Stop,13.052976,77.640238,4682,Synthetic,True
+MOB_BEN_0016,Bengaluru,Karnataka,South Bus Stop 16,Bus Stop,12.837246,77.439223,3626,Synthetic,True
+MOB_BEN_0017,Bengaluru,Karnataka,North Metro Station 17,Metro Station,12.916311,77.59271,4871,Synthetic,True
+MOB_BEN_0018,Bengaluru,Karnataka,East Railway Station 18,Railway Station,13.041594,77.564656,821,Synthetic,True
+MOB_BEN_0019,Bengaluru,Karnataka,Central Public Transport Platform 19,Public Transport Platform,13.04809,77.662644,2832,Synthetic,True
+MOB_BEN_0020,Bengaluru,Karnataka,East Metro Station 20,Metro Station,12.987242,77.682904,4996,Synthetic,True
+MOB_BEN_0021,Bengaluru,Karnataka,City Metro Station 21,Metro Station,12.991621,77.531403,1316,Synthetic,True
+MOB_BEN_0022,Bengaluru,Karnataka,Main Road Public Transport Platform 22,Public Transport Platform,13.081297,77.496639,2597,Synthetic,True
+MOB_BEN_0023,Bengaluru,Karnataka,City Bus Stop 23,Bus Stop,13.1484,77.448336,3955,Synthetic,True
+MOB_BEN_0024,Bengaluru,Karnataka,Central Metro Station 24,Metro Station,12.818891,77.59292,2462,Synthetic,True
+MOB_BEN_0025,Bengaluru,Karnataka,Market Metro Station 25,Metro Station,12.847345,77.73093,534,Synthetic,True
+MOB_BEN_0026,Bengaluru,Karnataka,City Railway Station 26,Railway Station,12.897099,77.570546,2333,Synthetic,True
+MOB_BEN_0027,Bengaluru,Karnataka,Main Road Metro Station 27,Metro Station,13.123594,77.701089,948,Synthetic,True
+MOB_BEN_0028,Bengaluru,Karnataka,South Bus Stop 28,Bus Stop,13.140878,77.734795,4779,Synthetic,True
+MOB_BEN_0029,Bengaluru,Karnataka,Central Metro Station 29,Metro Station,13.035594,77.657502,156,Synthetic,True
+MOB_BEN_0030,Bengaluru,Karnataka,Central Metro Station 30,Metro Station,13.021915,77.742536,2319,Synthetic,True
+MOB_BEN_0031,Bengaluru,Karnataka,Market Metro Station 31,Metro Station,13.098331,77.445705,3645,Synthetic,True
+MOB_BEN_0032,Bengaluru,Karnataka,North Public Transport Platform 32,Public Transport Platform,13.09767,77.444517,895,Synthetic,True
+MOB_BEN_0033,Bengaluru,Karnataka,North Metro Station 33,Metro Station,13.051248,77.4145,1120,Synthetic,True
+MOB_BEN_0034,Bengaluru,Karnataka,South Bus Stop 34,Bus Stop,12.917413,77.416462,2126,Synthetic,True
+MOB_BEN_0035,Bengaluru,Karnataka,Market Public Transport Platform 35,Public Transport Platform,12.80101,77.744526,520,Synthetic,True
+MOB_BEN_0036,Bengaluru,Karnataka,Market Railway Station 36,Railway Station,13.127216,77.55399,3815,Synthetic,True
+MOB_BEN_0037,Bengaluru,Karnataka,South Railway Station 37,Railway Station,13.116083,77.433584,4451,Synthetic,True
+MOB_BEN_0038,Bengaluru,Karnataka,Main Road Metro Station 38,Metro Station,13.068767,77.639325,1376,Synthetic,True
+MOB_BEN_0039,Bengaluru,Karnataka,South Bus Stop 39,Bus Stop,13.038923,77.684534,656,Synthetic,True
+MOB_BEN_0040,Bengaluru,Karnataka,Junction Public Transport Platform 40,Public Transport Platform,12.932342,77.612841,1353,Synthetic,True
+MOB_BEN_0041,Bengaluru,Karnataka,City Metro Station 41,Metro Station,13.130439,77.41021,2081,Synthetic,True
+MOB_BEN_0042,Bengaluru,Karnataka,City Railway Station 42,Railway Station,13.017031,77.537159,1285,Synthetic,True
+MOB_BEN_0043,Bengaluru,Karnataka,Market Bus Stop 43,Bus Stop,13.12861,77.54693,164,Synthetic,True
+MOB_BEN_0044,Bengaluru,Karnataka,North Bus Stop 44,Bus Stop,12.942052,77.709679,3471,Synthetic,True
+MOB_BEN_0045,Bengaluru,Karnataka,East Public Transport Platform 45,Public Transport Platform,13.133916,77.706955,382,Synthetic,True
+MOB_BEN_0046,Bengaluru,Karnataka,Market Public Transport Platform 46,Public Transport Platform,13.045149,77.725452,739,Synthetic,True
+MOB_BEN_0047,Bengaluru,Karnataka,North Public Transport Platform 47,Public Transport Platform,12.926585,77.506119,2400,Synthetic,True
+MOB_BEN_0048,Bengaluru,Karnataka,Junction Railway Station 48,Railway Station,13.029609,77.554341,3584,Synthetic,True
+MOB_BEN_0049,Bengaluru,Karnataka,Market Public Transport Platform 49,Public Transport Platform,13.0397,77.611631,1594,Synthetic,True
+MOB_BEN_0050,Bengaluru,Karnataka,South Metro Station 50,Metro Station,12.920326,77.505805,3137,Synthetic,True
+MOB_BEN_0051,Bengaluru,Karnataka,East Metro Station 51,Metro Station,12.86642,77.696278,3206,Synthetic,True
+MOB_BEN_0052,Bengaluru,Karnataka,South Metro Station 52,Metro Station,13.108722,77.441115,2470,Synthetic,True
+MOB_BEN_0053,Bengaluru,Karnataka,Junction Metro Station 53,Metro Station,12.875755,77.543827,1175,Synthetic,True
+MOB_BEN_0054,Bengaluru,Karnataka,North Railway Station 54,Railway Station,12.893294,77.452957,4266,Synthetic,True
+MOB_BEN_0055,Bengaluru,Karnataka,East Bus Stop 55,Bus Stop,13.1322,77.607941,853,Synthetic,True
+MOB_BEN_0056,Bengaluru,Karnataka,Main Road Public Transport Platform 56,Public Transport Platform,13.023815,77.653524,743,Synthetic,True
+MOB_BEN_0057,Bengaluru,Karnataka,Junction Public Transport Platform 57,Public Transport Platform,12.877211,77.595897,2011,Synthetic,True
+MOB_BEN_0058,Bengaluru,Karnataka,Junction Metro Station 58,Metro Station,13.131532,77.740938,1579,Synthetic,True
+MOB_BEN_0059,Bengaluru,Karnataka,Central Railway Station 59,Railway Station,12.927635,77.482548,2061,Synthetic,True
+MOB_BEN_0060,Bengaluru,Karnataka,Market Railway Station 60,Railway Station,13.132277,77.412157,2023,Synthetic,True
+MOB_BEN_0061,Bengaluru,Karnataka,City Bus Stop 61,Bus Stop,13.047242,77.528046,4383,Synthetic,True
+MOB_BEN_0062,Bengaluru,Karnataka,South Public Transport Platform 62,Public Transport Platform,12.809796,77.743048,2237,Synthetic,True
+MOB_BEN_0063,Bengaluru,Karnataka,East Railway Station 63,Railway Station,13.072427,77.536642,4667,Synthetic,True
+MOB_BEN_0064,Bengaluru,Karnataka,East Railway Station 64,Railway Station,12.915789,77.558736,4857,Synthetic,True
+MOB_BEN_0065,Bengaluru,Karnataka,North Railway Station 65,Railway Station,13.131446,77.526172,2015,Synthetic,True
+MOB_BEN_0066,Bengaluru,Karnataka,North Public Transport Platform 66,Public Transport Platform,12.997511,77.746895,2268,Synthetic,True
+MOB_BEN_0067,Bengaluru,Karnataka,South Public Transport Platform 67,Public Transport Platform,13.125918,77.608127,4168,Synthetic,True
+MOB_BEN_0068,Bengaluru,Karnataka,City Public Transport Platform 68,Public Transport Platform,12.950818,77.717081,1086,Synthetic,True
+MOB_BEN_0069,Bengaluru,Karnataka,Main Road Bus Stop 69,Bus Stop,12.92014,77.529479,4436,Synthetic,True
+MOB_BEN_0070,Bengaluru,Karnataka,North Bus Stop 70,Bus Stop,13.123853,77.727896,2559,Synthetic,True
+MOB_BEN_0071,Bengaluru,Karnataka,North Bus Stop 71,Bus Stop,12.864878,77.539685,1218,Synthetic,True
+MOB_BEN_0072,Bengaluru,Karnataka,North Railway Station 72,Railway Station,13.001501,77.538976,3709,Synthetic,True
+MOB_BEN_0073,Bengaluru,Karnataka,City Metro Station 73,Metro Station,13.098707,77.483835,3762,Synthetic,True
+MOB_BEN_0074,Bengaluru,Karnataka,Main Road Railway Station 74,Railway Station,12.883859,77.671922,4871,Synthetic,True
+MOB_BEN_0075,Bengaluru,Karnataka,Junction Bus Stop 75,Bus Stop,12.863557,77.442889,2392,Synthetic,True
+MOB_BEN_0076,Bengaluru,Karnataka,Junction Bus Stop 76,Bus Stop,13.027733,77.604232,2080,Synthetic,True
+MOB_BEN_0077,Bengaluru,Karnataka,South Metro Station 77,Metro Station,13.085802,77.505349,2644,Synthetic,True
+MOB_BEN_0078,Bengaluru,Karnataka,Market Railway Station 78,Railway Station,13.051438,77.419543,4691,Synthetic,True
+MOB_BEN_0079,Bengaluru,Karnataka,Market Public Transport Platform 79,Public Transport Platform,13.030225,77.560264,904,Synthetic,True
+MOB_BEN_0080,Bengaluru,Karnataka,Central Bus Stop 80,Bus Stop,12.986955,77.64019,1049,Synthetic,True
+MOB_BEN_0081,Bengaluru,Karnataka,North Public Transport Platform 81,Public Transport Platform,13.121913,77.449731,1035,Synthetic,True
+MOB_BEN_0082,Bengaluru,Karnataka,North Bus Stop 82,Bus Stop,13.055461,77.556322,4612,Synthetic,True
+MOB_BEN_0083,Bengaluru,Karnataka,North Railway Station 83,Railway Station,12.854746,77.526962,2338,Synthetic,True
+MOB_BEN_0084,Bengaluru,Karnataka,South Metro Station 84,Metro Station,13.111213,77.57692,3823,Synthetic,True
+MOB_BEN_0085,Bengaluru,Karnataka,Junction Railway Station 85,Railway Station,13.09545,77.62767,4130,Synthetic,True
+MOB_BEN_0086,Bengaluru,Karnataka,City Bus Stop 86,Bus Stop,12.974027,77.624986,1390,Synthetic,True
+MOB_BEN_0087,Bengaluru,Karnataka,South Bus Stop 87,Bus Stop,13.078821,77.706359,1259,Synthetic,True
+MOB_BEN_0088,Bengaluru,Karnataka,East Metro Station 88,Metro Station,12.96198,77.44622,3572,Synthetic,True
+MOB_BEN_0089,Bengaluru,Karnataka,North Public Transport Platform 89,Public Transport Platform,12.942358,77.468243,77,Synthetic,True
+MOB_BEN_0090,Bengaluru,Karnataka,Junction Bus Stop 90,Bus Stop,13.118859,77.625997,432,Synthetic,True
+MOB_BEN_0091,Bengaluru,Karnataka,Main Road Railway Station 91,Railway Station,13.084785,77.72635,565,Synthetic,True
+MOB_BEN_0092,Bengaluru,Karnataka,North Bus Stop 92,Bus Stop,12.913919,77.5817,423,Synthetic,True
+MOB_BEN_0093,Bengaluru,Karnataka,Central Bus Stop 93,Bus Stop,13.122271,77.569346,1509,Synthetic,True
+MOB_BEN_0094,Bengaluru,Karnataka,City Metro Station 94,Metro Station,12.908216,77.511926,1646,Synthetic,True
+MOB_BEN_0095,Bengaluru,Karnataka,South Bus Stop 95,Bus Stop,12.809264,77.505393,4749,Synthetic,True
+MOB_BEN_0096,Bengaluru,Karnataka,Market Bus Stop 96,Bus Stop,13.067072,77.58518,761,Synthetic,True
+MOB_BEN_0097,Bengaluru,Karnataka,Main Road Public Transport Platform 97,Public Transport Platform,13.117952,77.469461,1672,Synthetic,True
+MOB_BEN_0098,Bengaluru,Karnataka,North Public Transport Platform 98,Public Transport Platform,12.922873,77.453961,3251,Synthetic,True
+MOB_BEN_0099,Bengaluru,Karnataka,Central Metro Station 99,Metro Station,13.010327,77.46527,4020,Synthetic,True
+MOB_BEN_0100,Bengaluru,Karnataka,North Metro Station 100,Metro Station,12.844737,77.530735,2935,Synthetic,True
+MOB_BEN_0101,Bengaluru,Karnataka,Market Metro Station 101,Metro Station,12.851926,77.452772,3676,Synthetic,True
+MOB_BEN_0102,Bengaluru,Karnataka,Market Metro Station 102,Metro Station,13.112768,77.611186,1477,Synthetic,True
+MOB_BEN_0103,Bengaluru,Karnataka,Junction Bus Stop 103,Bus Stop,12.927257,77.565788,1869,Synthetic,True
+MOB_BEN_0104,Bengaluru,Karnataka,Market Railway Station 104,Railway Station,12.845221,77.548129,763,Synthetic,True
+MOB_BEN_0105,Bengaluru,Karnataka,Central Railway Station 105,Railway Station,12.96434,77.432073,451,Synthetic,True
+MOB_BEN_0106,Bengaluru,Karnataka,Central Public Transport Platform 106,Public Transport Platform,12.979008,77.536181,4128,Synthetic,True
+MOB_BEN_0107,Bengaluru,Karnataka,Main Road Bus Stop 107,Bus Stop,13.090418,77.469966,366,Synthetic,True
+MOB_BEN_0108,Bengaluru,Karnataka,Central Bus Stop 108,Bus Stop,12.971987,77.45459,867,Synthetic,True
+MOB_BEN_0109,Bengaluru,Karnataka,Market Railway Station 109,Railway Station,13.112532,77.595397,4639,Synthetic,True
+MOB_BEN_0110,Bengaluru,Karnataka,City Metro Station 110,Metro Station,13.13728,77.572548,3611,Synthetic,True
+MOB_BEN_0111,Bengaluru,Karnataka,Junction Railway Station 111,Railway Station,13.072773,77.567467,2706,Synthetic,True
+MOB_BEN_0112,Bengaluru,Karnataka,Junction Public Transport Platform 112,Public Transport Platform,12.845858,77.473437,1825,Synthetic,True
+MOB_BEN_0113,Bengaluru,Karnataka,Main Road Metro Station 113,Metro Station,13.133299,77.721875,4214,Synthetic,True
+MOB_BEN_0114,Bengaluru,Karnataka,City Bus Stop 114,Bus Stop,13.064033,77.502213,1311,Synthetic,True
+MOB_BEN_0115,Bengaluru,Karnataka,Main Road Railway Station 115,Railway Station,13.051074,77.632751,1558,Synthetic,True
+MOB_BEN_0116,Bengaluru,Karnataka,North Metro Station 116,Metro Station,12.94176,77.531959,2815,Synthetic,True
+MOB_BEN_0117,Bengaluru,Karnataka,North Metro Station 117,Metro Station,13.029631,77.715076,2034,Synthetic,True
+MOB_BEN_0118,Bengaluru,Karnataka,Market Public Transport Platform 118,Public Transport Platform,12.823334,77.626714,4404,Synthetic,True
+MOB_BEN_0119,Bengaluru,Karnataka,Junction Bus Stop 119,Bus Stop,12.938887,77.677544,2309,Synthetic,True
+MOB_BEN_0120,Bengaluru,Karnataka,Market Bus Stop 120,Bus Stop,12.80221,77.634151,1926,Synthetic,True
+MOB_BEN_0121,Bengaluru,Karnataka,City Railway Station 121,Railway Station,13.02862,77.513386,161,Synthetic,True
+MOB_BEN_0122,Bengaluru,Karnataka,Market Bus Stop 122,Bus Stop,13.071169,77.46108,519,Synthetic,True
+MOB_BEN_0123,Bengaluru,Karnataka,South Railway Station 123,Railway Station,12.880234,77.68986,3929,Synthetic,True
+MOB_BEN_0124,Bengaluru,Karnataka,South Railway Station 124,Railway Station,12.82214,77.655674,3950,Synthetic,True
+MOB_BEN_0125,Bengaluru,Karnataka,North Bus Stop 125,Bus Stop,12.911447,77.599037,1477,Synthetic,True
+MOB_BEN_0126,Bengaluru,Karnataka,North Bus Stop 126,Bus Stop,12.830267,77.742074,2242,Synthetic,True
+MOB_BEN_0127,Bengaluru,Karnataka,City Bus Stop 127,Bus Stop,12.998179,77.721409,2853,Synthetic,True
+MOB_BEN_0128,Bengaluru,Karnataka,South Railway Station 128,Railway Station,12.895067,77.599351,798,Synthetic,True
+MOB_BEN_0129,Bengaluru,Karnataka,Market Public Transport Platform 129,Public Transport Platform,13.006827,77.557801,4118,Synthetic,True
+MOB_BEN_0130,Bengaluru,Karnataka,Main Road Railway Station 130,Railway Station,12.821069,77.6812,1173,Synthetic,True
+MOB_BEN_0131,Bengaluru,Karnataka,Junction Bus Stop 131,Bus Stop,12.859055,77.741738,172,Synthetic,True
+MOB_BEN_0132,Bengaluru,Karnataka,East Bus Stop 132,Bus Stop,12.833633,77.655137,785,Synthetic,True
+MOB_BEN_0133,Bengaluru,Karnataka,Junction Metro Station 133,Metro Station,12.825652,77.470625,2045,Synthetic,True
+MOB_BEN_0134,Bengaluru,Karnataka,South Public Transport Platform 134,Public Transport Platform,12.961965,77.598285,3768,Synthetic,True
+MOB_BEN_0135,Bengaluru,Karnataka,Central Public Transport Platform 135,Public Transport Platform,12.998238,77.583127,1816,Synthetic,True
+MOB_BEN_0136,Bengaluru,Karnataka,Main Road Bus Stop 136,Bus Stop,12.949227,77.712619,1945,Synthetic,True
+MOB_BEN_0137,Bengaluru,Karnataka,Main Road Bus Stop 137,Bus Stop,12.846148,77.628212,281,Synthetic,True
+MOB_BEN_0138,Bengaluru,Karnataka,North Public Transport Platform 138,Public Transport Platform,13.043409,77.737342,4430,Synthetic,True
+MOB_BEN_0139,Bengaluru,Karnataka,South Public Transport Platform 139,Public Transport Platform,12.923346,77.694231,1753,Synthetic,True
+MOB_BEN_0140,Bengaluru,Karnataka,Market Railway Station 140,Railway Station,12.840351,77.432093,3181,Synthetic,True
+MOB_BEN_0141,Bengaluru,Karnataka,Junction Railway Station 141,Railway Station,12.865932,77.733835,4786,Synthetic,True
+MOB_BEN_0142,Bengaluru,Karnataka,Main Road Railway Station 142,Railway Station,12.881611,77.450656,1348,Synthetic,True
+MOB_BEN_0143,Bengaluru,Karnataka,City Bus Stop 143,Bus Stop,12.92319,77.408232,2909,Synthetic,True
+MOB_BEN_0144,Bengaluru,Karnataka,South Public Transport Platform 144,Public Transport Platform,12.895301,77.498976,3786,Synthetic,True
+MOB_BEN_0145,Bengaluru,Karnataka,East Railway Station 145,Railway Station,12.802411,77.41748,1199,Synthetic,True
+MOB_BEN_0146,Bengaluru,Karnataka,East Public Transport Platform 146,Public Transport Platform,12.938475,77.508215,3615,Synthetic,True
+MOB_BEN_0147,Bengaluru,Karnataka,South Public Transport Platform 147,Public Transport Platform,12.90421,77.556739,3737,Synthetic,True
+MOB_BEN_0148,Bengaluru,Karnataka,City Railway Station 148,Railway Station,12.946926,77.470457,2897,Synthetic,True
+MOB_BEN_0149,Bengaluru,Karnataka,Central Public Transport Platform 149,Public Transport Platform,12.889926,77.515719,238,Synthetic,True
+MOB_BEN_0150,Bengaluru,Karnataka,Market Public Transport Platform 150,Public Transport Platform,12.923551,77.644661,3902,Synthetic,True
+MOB_CHE_0001,Chennai,Tamil Nadu,Central Metro Station 1,Metro Station,13.076659,80.19653,2281,Synthetic,True
+MOB_CHE_0002,Chennai,Tamil Nadu,Main Road Public Transport Platform 2,Public Transport Platform,13.188866,80.210345,950,Synthetic,True
+MOB_CHE_0003,Chennai,Tamil Nadu,Main Road Railway Station 3,Railway Station,13.070793,80.195039,2680,Synthetic,True
+MOB_CHE_0004,Chennai,Tamil Nadu,Central Metro Station 4,Metro Station,13.108416,80.248391,115,Synthetic,True
+MOB_CHE_0005,Chennai,Tamil Nadu,North Metro Station 5,Metro Station,13.004929,80.140378,1369,Synthetic,True
+MOB_CHE_0006,Chennai,Tamil Nadu,South Public Transport Platform 6,Public Transport Platform,13.102326,80.206642,1973,Synthetic,True
+MOB_CHE_0007,Chennai,Tamil Nadu,North Bus Stop 7,Bus Stop,13.084224,80.329041,4634,Synthetic,True
+MOB_CHE_0008,Chennai,Tamil Nadu,South Railway Station 8,Railway Station,13.004604,80.170423,3610,Synthetic,True
+MOB_CHE_0009,Chennai,Tamil Nadu,Junction Metro Station 9,Metro Station,13.191712,80.28843,2443,Synthetic,True
+MOB_CHE_0010,Chennai,Tamil Nadu,Junction Metro Station 10,Metro Station,13.112711,80.296391,2551,Synthetic,True
+MOB_CHE_0011,Chennai,Tamil Nadu,South Bus Stop 11,Bus Stop,13.070816,80.25087,2053,Synthetic,True
+MOB_CHE_0012,Chennai,Tamil Nadu,Junction Metro Station 12,Metro Station,12.982736,80.212723,1904,Synthetic,True
+MOB_CHE_0013,Chennai,Tamil Nadu,South Railway Station 13,Railway Station,12.979138,80.231456,4648,Synthetic,True
+MOB_CHE_0014,Chennai,Tamil Nadu,Main Road Metro Station 14,Metro Station,12.967359,80.24833,4150,Synthetic,True
+MOB_CHE_0015,Chennai,Tamil Nadu,Main Road Public Transport Platform 15,Public Transport Platform,13.081632,80.219257,1840,Synthetic,True
+MOB_CHE_0016,Chennai,Tamil Nadu,City Railway Station 16,Railway Station,12.974753,80.125903,115,Synthetic,True
+MOB_CHE_0017,Chennai,Tamil Nadu,Main Road Public Transport Platform 17,Public Transport Platform,12.918361,80.143334,3971,Synthetic,True
+MOB_CHE_0018,Chennai,Tamil Nadu,East Bus Stop 18,Bus Stop,12.998047,80.324809,4298,Synthetic,True
+MOB_CHE_0019,Chennai,Tamil Nadu,Market Railway Station 19,Railway Station,12.98612,80.277439,3431,Synthetic,True
+MOB_CHE_0020,Chennai,Tamil Nadu,North Railway Station 20,Railway Station,13.041785,80.246401,1079,Synthetic,True
+MOB_CHE_0021,Chennai,Tamil Nadu,Market Bus Stop 21,Bus Stop,12.903048,80.175443,4692,Synthetic,True
+MOB_CHE_0022,Chennai,Tamil Nadu,Junction Public Transport Platform 22,Public Transport Platform,13.01445,80.116022,1880,Synthetic,True
+MOB_CHE_0023,Chennai,Tamil Nadu,Central Bus Stop 23,Bus Stop,12.942431,80.284324,2964,Synthetic,True
+MOB_CHE_0024,Chennai,Tamil Nadu,Main Road Bus Stop 24,Bus Stop,13.133636,80.15101,3830,Synthetic,True
+MOB_CHE_0025,Chennai,Tamil Nadu,South Railway Station 25,Railway Station,13.159296,80.232191,4923,Synthetic,True
+MOB_CHE_0026,Chennai,Tamil Nadu,Market Public Transport Platform 26,Public Transport Platform,12.99923,80.184345,3911,Synthetic,True
+MOB_CHE_0027,Chennai,Tamil Nadu,South Bus Stop 27,Bus Stop,13.191256,80.11972,4749,Synthetic,True
+MOB_CHE_0028,Chennai,Tamil Nadu,City Metro Station 28,Metro Station,12.978327,80.190124,2494,Synthetic,True
+MOB_CHE_0029,Chennai,Tamil Nadu,Junction Metro Station 29,Metro Station,13.108729,80.199137,1862,Synthetic,True
+MOB_CHE_0030,Chennai,Tamil Nadu,City Bus Stop 30,Bus Stop,12.966847,80.23551,3089,Synthetic,True
+MOB_CHE_0031,Chennai,Tamil Nadu,Market Bus Stop 31,Bus Stop,12.988987,80.145892,3387,Synthetic,True
+MOB_CHE_0032,Chennai,Tamil Nadu,Main Road Metro Station 32,Metro Station,12.910046,80.162165,2589,Synthetic,True
+MOB_CHE_0033,Chennai,Tamil Nadu,Junction Public Transport Platform 33,Public Transport Platform,12.954933,80.201644,932,Synthetic,True
+MOB_CHE_0034,Chennai,Tamil Nadu,Junction Bus Stop 34,Bus Stop,12.969597,80.212691,4796,Synthetic,True
+MOB_CHE_0035,Chennai,Tamil Nadu,South Public Transport Platform 35,Public Transport Platform,13.134429,80.235068,279,Synthetic,True
+MOB_CHE_0036,Chennai,Tamil Nadu,North Bus Stop 36,Bus Stop,13.113227,80.324297,4711,Synthetic,True
+MOB_CHE_0037,Chennai,Tamil Nadu,South Railway Station 37,Railway Station,13.125979,80.339816,1303,Synthetic,True
+MOB_CHE_0038,Chennai,Tamil Nadu,East Bus Stop 38,Bus Stop,13.031446,80.171512,3865,Synthetic,True
+MOB_CHE_0039,Chennai,Tamil Nadu,Market Railway Station 39,Railway Station,13.198064,80.175525,2659,Synthetic,True
+MOB_CHE_0040,Chennai,Tamil Nadu,Main Road Bus Stop 40,Bus Stop,12.968514,80.298485,3053,Synthetic,True
+MOB_CHE_0041,Chennai,Tamil Nadu,Main Road Bus Stop 41,Bus Stop,12.948596,80.239771,2346,Synthetic,True
+MOB_CHE_0042,Chennai,Tamil Nadu,South Public Transport Platform 42,Public Transport Platform,13.001502,80.212114,2808,Synthetic,True
+MOB_CHE_0043,Chennai,Tamil Nadu,Market Metro Station 43,Metro Station,12.960313,80.230078,1305,Synthetic,True
+MOB_CHE_0044,Chennai,Tamil Nadu,Central Metro Station 44,Metro Station,12.940888,80.133611,3337,Synthetic,True
+MOB_CHE_0045,Chennai,Tamil Nadu,Market Bus Stop 45,Bus Stop,12.961323,80.10249,229,Synthetic,True
+MOB_CHE_0046,Chennai,Tamil Nadu,Market Metro Station 46,Metro Station,12.976092,80.217112,604,Synthetic,True
+MOB_CHE_0047,Chennai,Tamil Nadu,South Bus Stop 47,Bus Stop,13.134994,80.1913,137,Synthetic,True
+MOB_CHE_0048,Chennai,Tamil Nadu,South Public Transport Platform 48,Public Transport Platform,12.942598,80.219597,2895,Synthetic,True
+MOB_CHE_0049,Chennai,Tamil Nadu,Market Railway Station 49,Railway Station,13.169594,80.114166,2327,Synthetic,True
+MOB_CHE_0050,Chennai,Tamil Nadu,Market Railway Station 50,Railway Station,12.916815,80.335391,1467,Synthetic,True
+MOB_CHE_0051,Chennai,Tamil Nadu,Junction Metro Station 51,Metro Station,13.144819,80.142657,287,Synthetic,True
+MOB_CHE_0052,Chennai,Tamil Nadu,Junction Metro Station 52,Metro Station,13.115022,80.33769,1129,Synthetic,True
+MOB_CHE_0053,Chennai,Tamil Nadu,Main Road Bus Stop 53,Bus Stop,13.062055,80.214613,4813,Synthetic,True
+MOB_CHE_0054,Chennai,Tamil Nadu,City Bus Stop 54,Bus Stop,13.036266,80.140761,1388,Synthetic,True
+MOB_CHE_0055,Chennai,Tamil Nadu,Junction Metro Station 55,Metro Station,12.915636,80.193325,3649,Synthetic,True
+MOB_CHE_0056,Chennai,Tamil Nadu,Junction Public Transport Platform 56,Public Transport Platform,13.098166,80.236616,882,Synthetic,True
+MOB_CHE_0057,Chennai,Tamil Nadu,East Public Transport Platform 57,Public Transport Platform,12.996334,80.165113,917,Synthetic,True
+MOB_CHE_0058,Chennai,Tamil Nadu,Junction Metro Station 58,Metro Station,12.915014,80.18994,4486,Synthetic,True
+MOB_CHE_0059,Chennai,Tamil Nadu,East Metro Station 59,Metro Station,12.946226,80.26941,1265,Synthetic,True
+MOB_CHE_0060,Chennai,Tamil Nadu,City Railway Station 60,Railway Station,12.953964,80.179164,378,Synthetic,True
+MOB_CHE_0061,Chennai,Tamil Nadu,South Railway Station 61,Railway Station,13.018261,80.233444,2136,Synthetic,True
+MOB_CHE_0062,Chennai,Tamil Nadu,Market Metro Station 62,Metro Station,13.04564,80.2568,3747,Synthetic,True
+MOB_CHE_0063,Chennai,Tamil Nadu,Main Road Bus Stop 63,Bus Stop,12.929919,80.121134,436,Synthetic,True
+MOB_CHE_0064,Chennai,Tamil Nadu,East Bus Stop 64,Bus Stop,13.189803,80.110491,2889,Synthetic,True
+MOB_CHE_0065,Chennai,Tamil Nadu,Central Public Transport Platform 65,Public Transport Platform,13.100883,80.322714,655,Synthetic,True
+MOB_CHE_0066,Chennai,Tamil Nadu,Central Public Transport Platform 66,Public Transport Platform,13.158886,80.221183,345,Synthetic,True
+MOB_CHE_0067,Chennai,Tamil Nadu,Main Road Metro Station 67,Metro Station,13.005757,80.246939,2112,Synthetic,True
+MOB_CHE_0068,Chennai,Tamil Nadu,Main Road Railway Station 68,Railway Station,13.079453,80.283805,946,Synthetic,True
+MOB_CHE_0069,Chennai,Tamil Nadu,City Public Transport Platform 69,Public Transport Platform,12.951799,80.135526,4082,Synthetic,True
+MOB_CHE_0070,Chennai,Tamil Nadu,Junction Public Transport Platform 70,Public Transport Platform,12.974932,80.239389,1539,Synthetic,True
+MOB_CHE_0071,Chennai,Tamil Nadu,Central Metro Station 71,Metro Station,13.008215,80.172315,1232,Synthetic,True
+MOB_CHE_0072,Chennai,Tamil Nadu,South Bus Stop 72,Bus Stop,12.952844,80.269782,2185,Synthetic,True
+MOB_CHE_0073,Chennai,Tamil Nadu,Market Public Transport Platform 73,Public Transport Platform,13.172631,80.285009,62,Synthetic,True
+MOB_CHE_0074,Chennai,Tamil Nadu,Market Metro Station 74,Metro Station,13.192849,80.173607,3677,Synthetic,True
+MOB_CHE_0075,Chennai,Tamil Nadu,Junction Bus Stop 75,Bus Stop,13.050661,80.229641,4216,Synthetic,True
+MOB_CHE_0076,Chennai,Tamil Nadu,Central Railway Station 76,Railway Station,12.981289,80.105202,1411,Synthetic,True
+MOB_CHE_0077,Chennai,Tamil Nadu,North Bus Stop 77,Bus Stop,13.084155,80.194381,4207,Synthetic,True
+MOB_CHE_0078,Chennai,Tamil Nadu,City Railway Station 78,Railway Station,13.083623,80.318739,1602,Synthetic,True
+MOB_CHE_0079,Chennai,Tamil Nadu,East Public Transport Platform 79,Public Transport Platform,12.977214,80.275498,1538,Synthetic,True
+MOB_CHE_0080,Chennai,Tamil Nadu,South Public Transport Platform 80,Public Transport Platform,13.090398,80.152301,4946,Synthetic,True
+MOB_CHE_0081,Chennai,Tamil Nadu,South Railway Station 81,Railway Station,12.969951,80.146247,4129,Synthetic,True
+MOB_CHE_0082,Chennai,Tamil Nadu,North Public Transport Platform 82,Public Transport Platform,13.138437,80.140004,2988,Synthetic,True
+MOB_CHE_0083,Chennai,Tamil Nadu,Central Metro Station 83,Metro Station,13.025508,80.321456,2911,Synthetic,True
+MOB_CHE_0084,Chennai,Tamil Nadu,Main Road Bus Stop 84,Bus Stop,13.142856,80.133455,3071,Synthetic,True
+MOB_CHE_0085,Chennai,Tamil Nadu,Main Road Metro Station 85,Metro Station,13.077759,80.129256,2692,Synthetic,True
+MOB_CHE_0086,Chennai,Tamil Nadu,Market Public Transport Platform 86,Public Transport Platform,12.912612,80.247853,2637,Synthetic,True
+MOB_CHE_0087,Chennai,Tamil Nadu,Market Public Transport Platform 87,Public Transport Platform,13.030767,80.215818,1312,Synthetic,True
+MOB_CHE_0088,Chennai,Tamil Nadu,Main Road Public Transport Platform 88,Public Transport Platform,13.148,80.28068,1523,Synthetic,True
+MOB_CHE_0089,Chennai,Tamil Nadu,South Bus Stop 89,Bus Stop,13.013095,80.183806,2173,Synthetic,True
+MOB_CHE_0090,Chennai,Tamil Nadu,North Bus Stop 90,Bus Stop,12.929129,80.151191,926,Synthetic,True
+MOB_CHE_0091,Chennai,Tamil Nadu,Central Metro Station 91,Metro Station,12.913083,80.243474,1888,Synthetic,True
+MOB_CHE_0092,Chennai,Tamil Nadu,City Metro Station 92,Metro Station,13.145677,80.120927,1293,Synthetic,True
+MOB_CHE_0093,Chennai,Tamil Nadu,Main Road Bus Stop 93,Bus Stop,13.134633,80.193028,2475,Synthetic,True
+MOB_CHE_0094,Chennai,Tamil Nadu,North Bus Stop 94,Bus Stop,13.061498,80.317433,4501,Synthetic,True
+MOB_CHE_0095,Chennai,Tamil Nadu,East Public Transport Platform 95,Public Transport Platform,13.19743,80.174489,119,Synthetic,True
+MOB_CHE_0096,Chennai,Tamil Nadu,City Bus Stop 96,Bus Stop,13.059251,80.165536,4451,Synthetic,True
+MOB_CHE_0097,Chennai,Tamil Nadu,South Bus Stop 97,Bus Stop,12.992791,80.176399,1144,Synthetic,True
+MOB_CHE_0098,Chennai,Tamil Nadu,Central Bus Stop 98,Bus Stop,13.138384,80.144415,4166,Synthetic,True
+MOB_CHE_0099,Chennai,Tamil Nadu,East Public Transport Platform 99,Public Transport Platform,13.091484,80.22011,2619,Synthetic,True
+MOB_CHE_0100,Chennai,Tamil Nadu,South Railway Station 100,Railway Station,13.091342,80.170442,3321,Synthetic,True
+MOB_CHE_0101,Chennai,Tamil Nadu,City Railway Station 101,Railway Station,13.078738,80.281055,1833,Synthetic,True
+MOB_CHE_0102,Chennai,Tamil Nadu,Main Road Railway Station 102,Railway Station,12.933538,80.135227,3622,Synthetic,True
+MOB_CHE_0103,Chennai,Tamil Nadu,Main Road Metro Station 103,Metro Station,12.922531,80.145755,2553,Synthetic,True
+MOB_CHE_0104,Chennai,Tamil Nadu,Central Bus Stop 104,Bus Stop,12.985297,80.252934,4407,Synthetic,True
+MOB_CHE_0105,Chennai,Tamil Nadu,City Metro Station 105,Metro Station,12.984421,80.221399,4236,Synthetic,True
+MOB_CHE_0106,Chennai,Tamil Nadu,City Bus Stop 106,Bus Stop,13.041318,80.253749,1306,Synthetic,True
+MOB_CHE_0107,Chennai,Tamil Nadu,Junction Public Transport Platform 107,Public Transport Platform,13.07261,80.231711,1367,Synthetic,True
+MOB_CHE_0108,Chennai,Tamil Nadu,City Metro Station 108,Metro Station,13.120607,80.104976,1846,Synthetic,True
+MOB_CHE_0109,Chennai,Tamil Nadu,South Public Transport Platform 109,Public Transport Platform,13.022946,80.284375,1427,Synthetic,True
+MOB_CHE_0110,Chennai,Tamil Nadu,Central Bus Stop 110,Bus Stop,12.901615,80.334062,1371,Synthetic,True
+MOB_CHE_0111,Chennai,Tamil Nadu,Market Railway Station 111,Railway Station,13.063192,80.147138,839,Synthetic,True
+MOB_CHE_0112,Chennai,Tamil Nadu,North Bus Stop 112,Bus Stop,13.089542,80.181659,1520,Synthetic,True
+MOB_CHE_0113,Chennai,Tamil Nadu,Market Railway Station 113,Railway Station,13.165889,80.324786,4554,Synthetic,True
+MOB_CHE_0114,Chennai,Tamil Nadu,North Bus Stop 114,Bus Stop,13.065945,80.14046,3473,Synthetic,True
+MOB_CHE_0115,Chennai,Tamil Nadu,Central Metro Station 115,Metro Station,12.917892,80.199527,3590,Synthetic,True
+MOB_CHE_0116,Chennai,Tamil Nadu,East Metro Station 116,Metro Station,13.126886,80.333391,1910,Synthetic,True
+MOB_CHE_0117,Chennai,Tamil Nadu,Market Metro Station 117,Metro Station,13.164604,80.2254,3206,Synthetic,True
+MOB_CHE_0118,Chennai,Tamil Nadu,Market Metro Station 118,Metro Station,13.144367,80.201877,732,Synthetic,True
+MOB_CHE_0119,Chennai,Tamil Nadu,City Railway Station 119,Railway Station,13.164982,80.340869,3347,Synthetic,True
+MOB_CHE_0120,Chennai,Tamil Nadu,South Metro Station 120,Metro Station,13.036463,80.161958,4573,Synthetic,True
+MOB_CHE_0121,Chennai,Tamil Nadu,City Railway Station 121,Railway Station,12.900246,80.118596,1320,Synthetic,True
+MOB_CHE_0122,Chennai,Tamil Nadu,Market Metro Station 122,Metro Station,13.170021,80.279224,1298,Synthetic,True
+MOB_CHE_0123,Chennai,Tamil Nadu,Market Bus Stop 123,Bus Stop,13.004798,80.146709,4965,Synthetic,True
+MOB_CHE_0124,Chennai,Tamil Nadu,East Bus Stop 124,Bus Stop,12.99761,80.334474,212,Synthetic,True
+MOB_CHE_0125,Chennai,Tamil Nadu,East Public Transport Platform 125,Public Transport Platform,13.047903,80.123743,405,Synthetic,True
+MOB_CHE_0126,Chennai,Tamil Nadu,North Public Transport Platform 126,Public Transport Platform,13.147657,80.141762,4459,Synthetic,True
+MOB_CHE_0127,Chennai,Tamil Nadu,Junction Bus Stop 127,Bus Stop,12.974209,80.118765,1093,Synthetic,True
+MOB_CHE_0128,Chennai,Tamil Nadu,East Public Transport Platform 128,Public Transport Platform,13.186957,80.129195,4171,Synthetic,True
+MOB_CHE_0129,Chennai,Tamil Nadu,North Bus Stop 129,Bus Stop,13.190981,80.20475,4418,Synthetic,True
+MOB_CHE_0130,Chennai,Tamil Nadu,Junction Metro Station 130,Metro Station,13.004983,80.22437,186,Synthetic,True
+MOB_CHE_0131,Chennai,Tamil Nadu,South Metro Station 131,Metro Station,13.013061,80.273983,3320,Synthetic,True
+MOB_CHE_0132,Chennai,Tamil Nadu,Main Road Public Transport Platform 132,Public Transport Platform,13.083491,80.188475,821,Synthetic,True
+MOB_CHE_0133,Chennai,Tamil Nadu,North Metro Station 133,Metro Station,13.034465,80.177012,4205,Synthetic,True
+MOB_CHE_0134,Chennai,Tamil Nadu,North Metro Station 134,Metro Station,12.997845,80.250586,3614,Synthetic,True
+MOB_CHE_0135,Chennai,Tamil Nadu,East Bus Stop 135,Bus Stop,13.121452,80.321649,4795,Synthetic,True
+MOB_CHE_0136,Chennai,Tamil Nadu,East Bus Stop 136,Bus Stop,12.980435,80.218795,3425,Synthetic,True
+MOB_CHE_0137,Chennai,Tamil Nadu,Junction Public Transport Platform 137,Public Transport Platform,12.918879,80.209468,3296,Synthetic,True
+MOB_CHE_0138,Chennai,Tamil Nadu,Central Public Transport Platform 138,Public Transport Platform,13.068731,80.238311,4926,Synthetic,True
+MOB_CHE_0139,Chennai,Tamil Nadu,Junction Public Transport Platform 139,Public Transport Platform,13.1058,80.224508,4630,Synthetic,True
+MOB_CHE_0140,Chennai,Tamil Nadu,Junction Railway Station 140,Railway Station,13.021688,80.118817,4220,Synthetic,True
+MOB_CHE_0141,Chennai,Tamil Nadu,Junction Metro Station 141,Metro Station,12.933763,80.215511,2417,Synthetic,True
+MOB_CHE_0142,Chennai,Tamil Nadu,North Public Transport Platform 142,Public Transport Platform,12.961877,80.283269,4444,Synthetic,True
+MOB_CHE_0143,Chennai,Tamil Nadu,South Bus Stop 143,Bus Stop,12.98789,80.24607,279,Synthetic,True
+MOB_CHE_0144,Chennai,Tamil Nadu,Junction Railway Station 144,Railway Station,12.994811,80.298084,1415,Synthetic,True
+MOB_CHE_0145,Chennai,Tamil Nadu,Central Public Transport Platform 145,Public Transport Platform,12.998,80.142725,307,Synthetic,True
+MOB_CHE_0146,Chennai,Tamil Nadu,South Metro Station 146,Metro Station,12.941862,80.21467,3299,Synthetic,True
+MOB_CHE_0147,Chennai,Tamil Nadu,Junction Public Transport Platform 147,Public Transport Platform,13.065863,80.325433,198,Synthetic,True
+MOB_CHE_0148,Chennai,Tamil Nadu,Junction Metro Station 148,Metro Station,13.060392,80.163166,4310,Synthetic,True
+MOB_CHE_0149,Chennai,Tamil Nadu,Market Bus Stop 149,Bus Stop,12.900163,80.319315,4745,Synthetic,True
+MOB_CHE_0150,Chennai,Tamil Nadu,Central Metro Station 150,Metro Station,12.998964,80.17628,4480,Synthetic,True
+MOB_MUM_0001,Mumbai,Maharashtra,East Metro Station 1,Metro Station,18.991669,73.006383,918,Synthetic,True
+MOB_MUM_0002,Mumbai,Maharashtra,South Railway Station 2,Railway Station,19.244487,72.820969,1273,Synthetic,True
+MOB_MUM_0003,Mumbai,Maharashtra,North Public Transport Platform 3,Public Transport Platform,19.22032,72.764173,1793,Synthetic,True
+MOB_MUM_0004,Mumbai,Maharashtra,North Bus Stop 4,Bus Stop,19.152071,72.977932,3353,Synthetic,True
+MOB_MUM_0005,Mumbai,Maharashtra,North Bus Stop 5,Bus Stop,19.125767,72.755186,2978,Synthetic,True
+MOB_MUM_0006,Mumbai,Maharashtra,Junction Public Transport Platform 6,Public Transport Platform,18.933982,72.828318,4681,Synthetic,True
+MOB_MUM_0007,Mumbai,Maharashtra,East Metro Station 7,Metro Station,19.242562,72.94949,2460,Synthetic,True
+MOB_MUM_0008,Mumbai,Maharashtra,East Public Transport Platform 8,Public Transport Platform,19.099319,72.900796,3980,Synthetic,True
+MOB_MUM_0009,Mumbai,Maharashtra,City Bus Stop 9,Bus Stop,19.085787,72.798599,336,Synthetic,True
+MOB_MUM_0010,Mumbai,Maharashtra,City Bus Stop 10,Bus Stop,19.120858,72.811213,3100,Synthetic,True
+MOB_MUM_0011,Mumbai,Maharashtra,Central Bus Stop 11,Bus Stop,18.980824,73.02568,2532,Synthetic,True
+MOB_MUM_0012,Mumbai,Maharashtra,Main Road Railway Station 12,Railway Station,19.110509,73.031443,3272,Synthetic,True
+MOB_MUM_0013,Mumbai,Maharashtra,Junction Public Transport Platform 13,Public Transport Platform,19.132843,73.036408,4626,Synthetic,True
+MOB_MUM_0014,Mumbai,Maharashtra,North Public Transport Platform 14,Public Transport Platform,18.957692,73.032,3145,Synthetic,True
+MOB_MUM_0015,Mumbai,Maharashtra,Main Road Metro Station 15,Metro Station,18.94089,73.023048,4943,Synthetic,True
+MOB_MUM_0016,Mumbai,Maharashtra,East Public Transport Platform 16,Public Transport Platform,18.947924,73.029732,1510,Synthetic,True
+MOB_MUM_0017,Mumbai,Maharashtra,Main Road Metro Station 17,Metro Station,18.943709,72.752374,1982,Synthetic,True
+MOB_MUM_0018,Mumbai,Maharashtra,Junction Metro Station 18,Metro Station,19.053852,72.75882,4137,Synthetic,True
+MOB_MUM_0019,Mumbai,Maharashtra,East Railway Station 19,Railway Station,19.215268,72.841072,2413,Synthetic,True
+MOB_MUM_0020,Mumbai,Maharashtra,North Railway Station 20,Railway Station,19.109051,72.930235,2722,Synthetic,True
+MOB_MUM_0021,Mumbai,Maharashtra,City Metro Station 21,Metro Station,19.196836,72.995334,4427,Synthetic,True
+MOB_MUM_0022,Mumbai,Maharashtra,North Metro Station 22,Metro Station,18.902137,72.999131,1173,Synthetic,True
+MOB_MUM_0023,Mumbai,Maharashtra,North Railway Station 23,Railway Station,19.155029,72.815448,1411,Synthetic,True
+MOB_MUM_0024,Mumbai,Maharashtra,Central Bus Stop 24,Bus Stop,19.159358,72.868316,1564,Synthetic,True
+MOB_MUM_0025,Mumbai,Maharashtra,City Bus Stop 25,Bus Stop,19.225254,72.98374,1990,Synthetic,True
+MOB_MUM_0026,Mumbai,Maharashtra,East Metro Station 26,Metro Station,19.073129,72.87768,2267,Synthetic,True
+MOB_MUM_0027,Mumbai,Maharashtra,North Metro Station 27,Metro Station,19.09449,72.96371,2681,Synthetic,True
+MOB_MUM_0028,Mumbai,Maharashtra,Main Road Railway Station 28,Railway Station,18.963331,72.950578,1445,Synthetic,True
+MOB_MUM_0029,Mumbai,Maharashtra,Main Road Railway Station 29,Railway Station,19.149481,72.843788,3376,Synthetic,True
+MOB_MUM_0030,Mumbai,Maharashtra,North Bus Stop 30,Bus Stop,19.071239,72.934484,3725,Synthetic,True
+MOB_MUM_0031,Mumbai,Maharashtra,Central Bus Stop 31,Bus Stop,19.017596,72.765668,436,Synthetic,True
+MOB_MUM_0032,Mumbai,Maharashtra,Junction Railway Station 32,Railway Station,19.10975,72.827498,3770,Synthetic,True
+MOB_MUM_0033,Mumbai,Maharashtra,Junction Railway Station 33,Railway Station,19.065066,72.979406,1809,Synthetic,True
+MOB_MUM_0034,Mumbai,Maharashtra,Main Road Railway Station 34,Railway Station,19.004147,73.012154,2473,Synthetic,True
+MOB_MUM_0035,Mumbai,Maharashtra,East Bus Stop 35,Bus Stop,18.941679,72.924174,4728,Synthetic,True
+MOB_MUM_0036,Mumbai,Maharashtra,Market Public Transport Platform 36,Public Transport Platform,18.990985,73.004222,4990,Synthetic,True
+MOB_MUM_0037,Mumbai,Maharashtra,Central Metro Station 37,Metro Station,19.01668,72.896499,4427,Synthetic,True
+MOB_MUM_0038,Mumbai,Maharashtra,Market Bus Stop 38,Bus Stop,18.968333,72.908955,3501,Synthetic,True
+MOB_MUM_0039,Mumbai,Maharashtra,City Bus Stop 39,Bus Stop,19.140933,72.821894,4319,Synthetic,True
+MOB_MUM_0040,Mumbai,Maharashtra,South Metro Station 40,Metro Station,19.227719,72.903894,4195,Synthetic,True
+MOB_MUM_0041,Mumbai,Maharashtra,City Metro Station 41,Metro Station,19.023419,72.802226,4500,Synthetic,True
+MOB_MUM_0042,Mumbai,Maharashtra,Market Public Transport Platform 42,Public Transport Platform,18.903375,72.998163,3611,Synthetic,True
+MOB_MUM_0043,Mumbai,Maharashtra,North Metro Station 43,Metro Station,19.139495,72.844038,1051,Synthetic,True
+MOB_MUM_0044,Mumbai,Maharashtra,Junction Public Transport Platform 44,Public Transport Platform,19.043008,72.99952,1792,Synthetic,True
+MOB_MUM_0045,Mumbai,Maharashtra,Market Railway Station 45,Railway Station,19.068921,72.991733,4243,Synthetic,True
+MOB_MUM_0046,Mumbai,Maharashtra,City Bus Stop 46,Bus Stop,19.079159,73.009043,2968,Synthetic,True
+MOB_MUM_0047,Mumbai,Maharashtra,East Public Transport Platform 47,Public Transport Platform,18.965797,72.833765,3175,Synthetic,True
+MOB_MUM_0048,Mumbai,Maharashtra,City Public Transport Platform 48,Public Transport Platform,19.157327,72.882808,3153,Synthetic,True
+MOB_MUM_0049,Mumbai,Maharashtra,South Metro Station 49,Metro Station,19.106098,72.769591,2592,Synthetic,True
+MOB_MUM_0050,Mumbai,Maharashtra,Market Metro Station 50,Metro Station,19.184771,72.790966,4765,Synthetic,True
+MOB_MUM_0051,Mumbai,Maharashtra,South Railway Station 51,Railway Station,19.120187,72.879003,2847,Synthetic,True
+MOB_MUM_0052,Mumbai,Maharashtra,Central Bus Stop 52,Bus Stop,19.141323,72.78365,4410,Synthetic,True
+MOB_MUM_0053,Mumbai,Maharashtra,East Railway Station 53,Railway Station,18.979756,72.755089,1966,Synthetic,True
+MOB_MUM_0054,Mumbai,Maharashtra,Main Road Railway Station 54,Railway Station,18.93332,72.775495,4919,Synthetic,True
+MOB_MUM_0055,Mumbai,Maharashtra,Junction Public Transport Platform 55,Public Transport Platform,19.216611,72.80106,2465,Synthetic,True
+MOB_MUM_0056,Mumbai,Maharashtra,Junction Public Transport Platform 56,Public Transport Platform,19.157643,72.90438,4282,Synthetic,True
+MOB_MUM_0057,Mumbai,Maharashtra,East Railway Station 57,Railway Station,19.103994,72.881412,4646,Synthetic,True
+MOB_MUM_0058,Mumbai,Maharashtra,East Railway Station 58,Railway Station,19.015008,72.962994,2905,Synthetic,True
+MOB_MUM_0059,Mumbai,Maharashtra,City Metro Station 59,Metro Station,19.194905,72.765403,1225,Synthetic,True
+MOB_MUM_0060,Mumbai,Maharashtra,East Bus Stop 60,Bus Stop,19.160817,72.888828,4463,Synthetic,True
+MOB_MUM_0061,Mumbai,Maharashtra,Main Road Bus Stop 61,Bus Stop,19.004734,72.912134,3751,Synthetic,True
+MOB_MUM_0062,Mumbai,Maharashtra,East Bus Stop 62,Bus Stop,18.905036,72.84845,4806,Synthetic,True
+MOB_MUM_0063,Mumbai,Maharashtra,Junction Railway Station 63,Railway Station,19.223904,72.993266,2228,Synthetic,True
+MOB_MUM_0064,Mumbai,Maharashtra,South Metro Station 64,Metro Station,19.073719,73.012155,4335,Synthetic,True
+MOB_MUM_0065,Mumbai,Maharashtra,City Public Transport Platform 65,Public Transport Platform,18.92905,72.967836,293,Synthetic,True
+MOB_MUM_0066,Mumbai,Maharashtra,North Metro Station 66,Metro Station,19.163195,73.004676,984,Synthetic,True
+MOB_MUM_0067,Mumbai,Maharashtra,Market Bus Stop 67,Bus Stop,19.113414,73.045752,4463,Synthetic,True
+MOB_MUM_0068,Mumbai,Maharashtra,Junction Bus Stop 68,Bus Stop,19.230841,72.850968,143,Synthetic,True
+MOB_MUM_0069,Mumbai,Maharashtra,Main Road Bus Stop 69,Bus Stop,19.191688,72.883588,4777,Synthetic,True
+MOB_MUM_0070,Mumbai,Maharashtra,North Bus Stop 70,Bus Stop,19.010468,72.918082,3533,Synthetic,True
+MOB_MUM_0071,Mumbai,Maharashtra,Market Public Transport Platform 71,Public Transport Platform,18.977354,72.986796,782,Synthetic,True
+MOB_MUM_0072,Mumbai,Maharashtra,Central Railway Station 72,Railway Station,19.16409,72.889404,147,Synthetic,True
+MOB_MUM_0073,Mumbai,Maharashtra,Market Railway Station 73,Railway Station,18.944288,72.868369,1045,Synthetic,True
+MOB_MUM_0074,Mumbai,Maharashtra,Market Bus Stop 74,Bus Stop,19.175543,72.773946,2086,Synthetic,True
+MOB_MUM_0075,Mumbai,Maharashtra,East Metro Station 75,Metro Station,19.007581,72.943895,2631,Synthetic,True
+MOB_MUM_0076,Mumbai,Maharashtra,City Railway Station 76,Railway Station,18.985172,72.877978,4751,Synthetic,True
+MOB_MUM_0077,Mumbai,Maharashtra,North Bus Stop 77,Bus Stop,19.189223,72.98928,4164,Synthetic,True
+MOB_MUM_0078,Mumbai,Maharashtra,Central Bus Stop 78,Bus Stop,18.999192,72.768299,1161,Synthetic,True
+MOB_MUM_0079,Mumbai,Maharashtra,Market Railway Station 79,Railway Station,19.150122,72.811975,620,Synthetic,True
+MOB_MUM_0080,Mumbai,Maharashtra,East Railway Station 80,Railway Station,18.971975,72.977258,1195,Synthetic,True
+MOB_MUM_0081,Mumbai,Maharashtra,City Public Transport Platform 81,Public Transport Platform,18.975962,72.854604,4961,Synthetic,True
+MOB_MUM_0082,Mumbai,Maharashtra,Market Public Transport Platform 82,Public Transport Platform,18.973145,72.822598,544,Synthetic,True
+MOB_MUM_0083,Mumbai,Maharashtra,North Bus Stop 83,Bus Stop,19.090593,73.042628,3574,Synthetic,True
+MOB_MUM_0084,Mumbai,Maharashtra,North Bus Stop 84,Bus Stop,19.121504,72.83757,2067,Synthetic,True
+MOB_MUM_0085,Mumbai,Maharashtra,North Bus Stop 85,Bus Stop,19.201271,72.996123,2011,Synthetic,True
+MOB_MUM_0086,Mumbai,Maharashtra,Main Road Public Transport Platform 86,Public Transport Platform,19.024974,72.986956,997,Synthetic,True
+MOB_MUM_0087,Mumbai,Maharashtra,South Bus Stop 87,Bus Stop,19.001562,72.867866,398,Synthetic,True
+MOB_MUM_0088,Mumbai,Maharashtra,Market Metro Station 88,Metro Station,19.065038,72.804513,280,Synthetic,True
+MOB_MUM_0089,Mumbai,Maharashtra,South Metro Station 89,Metro Station,19.248869,72.945047,3407,Synthetic,True
+MOB_MUM_0090,Mumbai,Maharashtra,North Bus Stop 90,Bus Stop,19.219939,72.838496,4319,Synthetic,True
+MOB_MUM_0091,Mumbai,Maharashtra,South Bus Stop 91,Bus Stop,19.182533,72.826927,3426,Synthetic,True
+MOB_MUM_0092,Mumbai,Maharashtra,Central Bus Stop 92,Bus Stop,19.212655,72.937036,3833,Synthetic,True
+MOB_MUM_0093,Mumbai,Maharashtra,Market Railway Station 93,Railway Station,19.017167,73.011658,2504,Synthetic,True
+MOB_MUM_0094,Mumbai,Maharashtra,Junction Public Transport Platform 94,Public Transport Platform,18.914999,72.861991,1069,Synthetic,True
+MOB_MUM_0095,Mumbai,Maharashtra,Market Bus Stop 95,Bus Stop,19.134248,72.914059,1158,Synthetic,True
+MOB_MUM_0096,Mumbai,Maharashtra,Market Public Transport Platform 96,Public Transport Platform,18.902895,72.792813,3488,Synthetic,True
+MOB_MUM_0097,Mumbai,Maharashtra,South Metro Station 97,Metro Station,18.947012,73.007165,889,Synthetic,True
+MOB_MUM_0098,Mumbai,Maharashtra,Junction Railway Station 98,Railway Station,19.136751,72.885986,4382,Synthetic,True
+MOB_MUM_0099,Mumbai,Maharashtra,North Metro Station 99,Metro Station,19.177986,73.02797,4763,Synthetic,True
+MOB_MUM_0100,Mumbai,Maharashtra,Central Public Transport Platform 100,Public Transport Platform,19.046436,72.87064,79,Synthetic,True
+MOB_MUM_0101,Mumbai,Maharashtra,Main Road Metro Station 101,Metro Station,19.07698,72.979059,2329,Synthetic,True
+MOB_MUM_0102,Mumbai,Maharashtra,Junction Public Transport Platform 102,Public Transport Platform,19.204909,72.97632,2922,Synthetic,True
+MOB_MUM_0103,Mumbai,Maharashtra,Market Bus Stop 103,Bus Stop,19.190905,72.980076,4454,Synthetic,True
+MOB_MUM_0104,Mumbai,Maharashtra,Main Road Public Transport Platform 104,Public Transport Platform,19.19605,72.786986,2228,Synthetic,True
+MOB_MUM_0105,Mumbai,Maharashtra,Central Metro Station 105,Metro Station,19.124631,72.877445,4578,Synthetic,True
+MOB_MUM_0106,Mumbai,Maharashtra,City Bus Stop 106,Bus Stop,19.165146,73.001743,2269,Synthetic,True
+MOB_MUM_0107,Mumbai,Maharashtra,Market Bus Stop 107,Bus Stop,19.006773,72.812479,4177,Synthetic,True
+MOB_MUM_0108,Mumbai,Maharashtra,East Bus Stop 108,Bus Stop,18.971941,72.890968,2992,Synthetic,True
+MOB_MUM_0109,Mumbai,Maharashtra,Market Metro Station 109,Metro Station,18.975057,72.835189,3940,Synthetic,True
+MOB_MUM_0110,Mumbai,Maharashtra,Central Public Transport Platform 110,Public Transport Platform,19.19029,72.778288,119,Synthetic,True
+MOB_MUM_0111,Mumbai,Maharashtra,City Bus Stop 111,Bus Stop,19.229728,72.854732,4249,Synthetic,True
+MOB_MUM_0112,Mumbai,Maharashtra,Central Public Transport Platform 112,Public Transport Platform,18.965201,72.788315,1141,Synthetic,True
+MOB_MUM_0113,Mumbai,Maharashtra,Junction Railway Station 113,Railway Station,19.175634,73.040967,2196,Synthetic,True
+MOB_MUM_0114,Mumbai,Maharashtra,Main Road Bus Stop 114,Bus Stop,19.201825,72.819793,746,Synthetic,True
+MOB_MUM_0115,Mumbai,Maharashtra,North Bus Stop 115,Bus Stop,19.057574,72.790185,2249,Synthetic,True
+MOB_MUM_0116,Mumbai,Maharashtra,City Railway Station 116,Railway Station,18.906888,72.962183,4102,Synthetic,True
+MOB_MUM_0117,Mumbai,Maharashtra,City Railway Station 117,Railway Station,19.097759,72.797868,3091,Synthetic,True
+MOB_MUM_0118,Mumbai,Maharashtra,City Metro Station 118,Metro Station,18.920824,72.894816,2585,Synthetic,True
+MOB_MUM_0119,Mumbai,Maharashtra,Main Road Bus Stop 119,Bus Stop,18.950469,72.833114,3864,Synthetic,True
+MOB_MUM_0120,Mumbai,Maharashtra,East Bus Stop 120,Bus Stop,18.952858,72.866932,2145,Synthetic,True
+MOB_MUM_0121,Mumbai,Maharashtra,Market Public Transport Platform 121,Public Transport Platform,18.964166,72.861958,4113,Synthetic,True
+MOB_MUM_0122,Mumbai,Maharashtra,Main Road Railway Station 122,Railway Station,18.964933,72.754197,1802,Synthetic,True
+MOB_MUM_0123,Mumbai,Maharashtra,South Metro Station 123,Metro Station,18.934888,72.910071,472,Synthetic,True
+MOB_MUM_0124,Mumbai,Maharashtra,Market Bus Stop 124,Bus Stop,19.006918,72.907752,862,Synthetic,True
+MOB_MUM_0125,Mumbai,Maharashtra,Market Public Transport Platform 125,Public Transport Platform,18.917591,72.7536,4524,Synthetic,True
+MOB_MUM_0126,Mumbai,Maharashtra,East Public Transport Platform 126,Public Transport Platform,19.143061,72.800951,1290,Synthetic,True
+MOB_MUM_0127,Mumbai,Maharashtra,Central Bus Stop 127,Bus Stop,19.108095,72.98383,1986,Synthetic,True
+MOB_MUM_0128,Mumbai,Maharashtra,South Public Transport Platform 128,Public Transport Platform,19.152505,72.771024,3002,Synthetic,True
+MOB_MUM_0129,Mumbai,Maharashtra,South Metro Station 129,Metro Station,19.235453,72.925018,131,Synthetic,True
+MOB_MUM_0130,Mumbai,Maharashtra,East Railway Station 130,Railway Station,19.066529,72.843897,540,Synthetic,True
+MOB_MUM_0131,Mumbai,Maharashtra,East Bus Stop 131,Bus Stop,18.985188,72.850062,4662,Synthetic,True
+MOB_MUM_0132,Mumbai,Maharashtra,Central Bus Stop 132,Bus Stop,19.179486,72.814856,3830,Synthetic,True
+MOB_MUM_0133,Mumbai,Maharashtra,Market Bus Stop 133,Bus Stop,19.163422,72.760382,3748,Synthetic,True
+MOB_MUM_0134,Mumbai,Maharashtra,Main Road Metro Station 134,Metro Station,18.932733,72.811258,3168,Synthetic,True
+MOB_MUM_0135,Mumbai,Maharashtra,East Bus Stop 135,Bus Stop,19.20961,72.946526,4110,Synthetic,True
+MOB_MUM_0136,Mumbai,Maharashtra,Main Road Metro Station 136,Metro Station,18.941983,72.991279,2129,Synthetic,True
+MOB_MUM_0137,Mumbai,Maharashtra,Junction Railway Station 137,Railway Station,19.160219,72.987704,4113,Synthetic,True
+MOB_MUM_0138,Mumbai,Maharashtra,Main Road Bus Stop 138,Bus Stop,19.091505,73.047843,610,Synthetic,True
+MOB_MUM_0139,Mumbai,Maharashtra,Central Public Transport Platform 139,Public Transport Platform,19.059176,72.841918,3384,Synthetic,True
+MOB_MUM_0140,Mumbai,Maharashtra,Main Road Bus Stop 140,Bus Stop,19.188768,72.977873,2451,Synthetic,True
+MOB_MUM_0141,Mumbai,Maharashtra,Main Road Metro Station 141,Metro Station,19.026191,72.777853,3304,Synthetic,True
+MOB_MUM_0142,Mumbai,Maharashtra,Main Road Bus Stop 142,Bus Stop,19.019812,72.814402,4864,Synthetic,True
+MOB_MUM_0143,Mumbai,Maharashtra,City Railway Station 143,Railway Station,18.949671,72.969771,189,Synthetic,True
+MOB_MUM_0144,Mumbai,Maharashtra,Junction Railway Station 144,Railway Station,19.159668,72.883823,3936,Synthetic,True
+MOB_MUM_0145,Mumbai,Maharashtra,South Metro Station 145,Metro Station,19.115958,72.812473,1546,Synthetic,True
+MOB_MUM_0146,Mumbai,Maharashtra,North Public Transport Platform 146,Public Transport Platform,19.010532,72.817395,1119,Synthetic,True
+MOB_MUM_0147,Mumbai,Maharashtra,South Public Transport Platform 147,Public Transport Platform,18.927616,72.889686,2508,Synthetic,True
+MOB_MUM_0148,Mumbai,Maharashtra,Main Road Bus Stop 148,Bus Stop,18.994622,72.853484,2991,Synthetic,True
+MOB_MUM_0149,Mumbai,Maharashtra,City Railway Station 149,Railway Station,19.033793,72.789424,920,Synthetic,True
+MOB_MUM_0150,Mumbai,Maharashtra,North Bus Stop 150,Bus Stop,19.234279,72.911107,794,Synthetic,True
+MOB_DEL_0001,Delhi,Delhi,South Metro Station 1,Metro Station,28.612148,77.111841,2389,Synthetic,True
+MOB_DEL_0002,Delhi,Delhi,Junction Public Transport Platform 2,Public Transport Platform,28.593691,77.121184,4258,Synthetic,True
+MOB_DEL_0003,Delhi,Delhi,Main Road Public Transport Platform 3,Public Transport Platform,28.514168,77.101748,531,Synthetic,True
+MOB_DEL_0004,Delhi,Delhi,Junction Bus Stop 4,Bus Stop,28.543588,77.053527,4237,Synthetic,True
+MOB_DEL_0005,Delhi,Delhi,East Metro Station 5,Metro Station,28.696259,77.172996,775,Synthetic,True
+MOB_DEL_0006,Delhi,Delhi,Central Bus Stop 6,Bus Stop,28.597209,77.197884,4696,Synthetic,True
+MOB_DEL_0007,Delhi,Delhi,City Metro Station 7,Metro Station,28.581155,76.967445,3356,Synthetic,True
+MOB_DEL_0008,Delhi,Delhi,South Metro Station 8,Metro Station,28.632379,77.242145,1097,Synthetic,True
+MOB_DEL_0009,Delhi,Delhi,North Metro Station 9,Metro Station,28.743894,77.061441,2253,Synthetic,True
+MOB_DEL_0010,Delhi,Delhi,Junction Public Transport Platform 10,Public Transport Platform,28.584714,77.330234,4180,Synthetic,True
+MOB_DEL_0011,Delhi,Delhi,City Metro Station 11,Metro Station,28.5172,77.336186,3410,Synthetic,True
+MOB_DEL_0012,Delhi,Delhi,Junction Railway Station 12,Railway Station,28.579508,77.009214,129,Synthetic,True
+MOB_DEL_0013,Delhi,Delhi,City Metro Station 13,Metro Station,28.749361,77.029721,4077,Synthetic,True
+MOB_DEL_0014,Delhi,Delhi,Central Metro Station 14,Metro Station,28.557784,77.081541,1755,Synthetic,True
+MOB_DEL_0015,Delhi,Delhi,Central Metro Station 15,Metro Station,28.468288,76.957269,4301,Synthetic,True
+MOB_DEL_0016,Delhi,Delhi,Market Public Transport Platform 16,Public Transport Platform,28.687984,77.247511,3353,Synthetic,True
+MOB_DEL_0017,Delhi,Delhi,Market Public Transport Platform 17,Public Transport Platform,28.628123,77.194875,77,Synthetic,True
+MOB_DEL_0018,Delhi,Delhi,City Bus Stop 18,Bus Stop,28.525637,77.112478,71,Synthetic,True
+MOB_DEL_0019,Delhi,Delhi,City Bus Stop 19,Bus Stop,28.565345,77.251187,1297,Synthetic,True
+MOB_DEL_0020,Delhi,Delhi,Main Road Metro Station 20,Metro Station,28.655653,77.030617,3791,Synthetic,True
+MOB_DEL_0021,Delhi,Delhi,Central Public Transport Platform 21,Public Transport Platform,28.566461,77.166711,2809,Synthetic,True
+MOB_DEL_0022,Delhi,Delhi,City Railway Station 22,Railway Station,28.732841,77.29664,4536,Synthetic,True
+MOB_DEL_0023,Delhi,Delhi,East Public Transport Platform 23,Public Transport Platform,28.749992,77.105403,382,Synthetic,True
+MOB_DEL_0024,Delhi,Delhi,Central Bus Stop 24,Bus Stop,28.726408,77.276374,4879,Synthetic,True
+MOB_DEL_0025,Delhi,Delhi,Market Railway Station 25,Railway Station,28.524712,76.997496,842,Synthetic,True
+MOB_DEL_0026,Delhi,Delhi,East Metro Station 26,Metro Station,28.474745,76.988449,747,Synthetic,True
+MOB_DEL_0027,Delhi,Delhi,City Railway Station 27,Railway Station,28.648646,77.172118,3075,Synthetic,True
+MOB_DEL_0028,Delhi,Delhi,North Railway Station 28,Railway Station,28.600375,77.253692,2581,Synthetic,True
+MOB_DEL_0029,Delhi,Delhi,Central Metro Station 29,Metro Station,28.506734,77.05391,148,Synthetic,True
+MOB_DEL_0030,Delhi,Delhi,North Bus Stop 30,Bus Stop,28.511036,77.255056,2325,Synthetic,True
+MOB_DEL_0031,Delhi,Delhi,South Public Transport Platform 31,Public Transport Platform,28.458991,77.078661,4758,Synthetic,True
+MOB_DEL_0032,Delhi,Delhi,Junction Railway Station 32,Railway Station,28.624601,77.231621,3363,Synthetic,True
+MOB_DEL_0033,Delhi,Delhi,East Public Transport Platform 33,Public Transport Platform,28.494481,76.971467,529,Synthetic,True
+MOB_DEL_0034,Delhi,Delhi,Junction Metro Station 34,Metro Station,28.71437,77.238407,1190,Synthetic,True
+MOB_DEL_0035,Delhi,Delhi,Main Road Bus Stop 35,Bus Stop,28.726195,77.211047,4255,Synthetic,True
+MOB_DEL_0036,Delhi,Delhi,Junction Public Transport Platform 36,Public Transport Platform,28.740444,77.009717,3253,Synthetic,True
+MOB_DEL_0037,Delhi,Delhi,Central Metro Station 37,Metro Station,28.609264,77.150319,623,Synthetic,True
+MOB_DEL_0038,Delhi,Delhi,Junction Public Transport Platform 38,Public Transport Platform,28.656648,77.311934,3880,Synthetic,True
+MOB_DEL_0039,Delhi,Delhi,North Metro Station 39,Metro Station,28.641152,77.027061,2602,Synthetic,True
+MOB_DEL_0040,Delhi,Delhi,Market Metro Station 40,Metro Station,28.553332,77.131774,118,Synthetic,True
+MOB_DEL_0041,Delhi,Delhi,City Railway Station 41,Railway Station,28.497841,76.98788,4637,Synthetic,True
+MOB_DEL_0042,Delhi,Delhi,North Metro Station 42,Metro Station,28.482155,76.996478,3479,Synthetic,True
+MOB_DEL_0043,Delhi,Delhi,Main Road Bus Stop 43,Bus Stop,28.685891,77.339821,2884,Synthetic,True
+MOB_DEL_0044,Delhi,Delhi,Junction Bus Stop 44,Bus Stop,28.649668,77.306902,987,Synthetic,True
+MOB_DEL_0045,Delhi,Delhi,Central Bus Stop 45,Bus Stop,28.589394,77.019157,503,Synthetic,True
+MOB_DEL_0046,Delhi,Delhi,South Railway Station 46,Railway Station,28.57252,76.971513,1096,Synthetic,True
+MOB_DEL_0047,Delhi,Delhi,Main Road Metro Station 47,Metro Station,28.587484,76.96185,1489,Synthetic,True
+MOB_DEL_0048,Delhi,Delhi,Main Road Metro Station 48,Metro Station,28.620339,77.346082,3549,Synthetic,True
+MOB_DEL_0049,Delhi,Delhi,North Bus Stop 49,Bus Stop,28.476871,76.961746,2216,Synthetic,True
+MOB_DEL_0050,Delhi,Delhi,Central Railway Station 50,Railway Station,28.599328,77.121753,2713,Synthetic,True
+MOB_DEL_0051,Delhi,Delhi,Junction Metro Station 51,Metro Station,28.543617,77.240162,2552,Synthetic,True
+MOB_DEL_0052,Delhi,Delhi,Main Road Metro Station 52,Metro Station,28.743541,77.117585,1842,Synthetic,True
+MOB_DEL_0053,Delhi,Delhi,South Railway Station 53,Railway Station,28.697565,76.960061,771,Synthetic,True
+MOB_DEL_0054,Delhi,Delhi,Market Railway Station 54,Railway Station,28.452053,77.149688,1729,Synthetic,True
+MOB_DEL_0055,Delhi,Delhi,East Railway Station 55,Railway Station,28.703603,77.053789,2914,Synthetic,True
+MOB_DEL_0056,Delhi,Delhi,City Public Transport Platform 56,Public Transport Platform,28.597351,77.113933,1435,Synthetic,True
+MOB_DEL_0057,Delhi,Delhi,North Metro Station 57,Metro Station,28.677059,77.249781,1083,Synthetic,True
+MOB_DEL_0058,Delhi,Delhi,Main Road Public Transport Platform 58,Public Transport Platform,28.568272,77.344746,4222,Synthetic,True
+MOB_DEL_0059,Delhi,Delhi,South Public Transport Platform 59,Public Transport Platform,28.661078,77.104971,2926,Synthetic,True
+MOB_DEL_0060,Delhi,Delhi,Main Road Public Transport Platform 60,Public Transport Platform,28.706778,77.060425,677,Synthetic,True
+MOB_DEL_0061,Delhi,Delhi,South Public Transport Platform 61,Public Transport Platform,28.70569,77.126799,2258,Synthetic,True
+MOB_DEL_0062,Delhi,Delhi,East Railway Station 62,Railway Station,28.590124,76.982208,1357,Synthetic,True
+MOB_DEL_0063,Delhi,Delhi,Market Bus Stop 63,Bus Stop,28.558482,76.9646,941,Synthetic,True
+MOB_DEL_0064,Delhi,Delhi,East Railway Station 64,Railway Station,28.748027,77.339422,1078,Synthetic,True
+MOB_DEL_0065,Delhi,Delhi,North Metro Station 65,Metro Station,28.709228,77.274678,2569,Synthetic,True
+MOB_DEL_0066,Delhi,Delhi,Junction Bus Stop 66,Bus Stop,28.667817,77.301482,3149,Synthetic,True
+MOB_DEL_0067,Delhi,Delhi,City Metro Station 67,Metro Station,28.495245,77.084511,3595,Synthetic,True
+MOB_DEL_0068,Delhi,Delhi,North Railway Station 68,Railway Station,28.499088,77.052711,1459,Synthetic,True
+MOB_DEL_0069,Delhi,Delhi,South Bus Stop 69,Bus Stop,28.647977,77.060565,2368,Synthetic,True
+MOB_DEL_0070,Delhi,Delhi,City Bus Stop 70,Bus Stop,28.480323,77.234103,4089,Synthetic,True
+MOB_DEL_0071,Delhi,Delhi,City Metro Station 71,Metro Station,28.609359,77.13544,70,Synthetic,True
+MOB_DEL_0072,Delhi,Delhi,Market Public Transport Platform 72,Public Transport Platform,28.542017,77.084945,4856,Synthetic,True
+MOB_DEL_0073,Delhi,Delhi,Main Road Railway Station 73,Railway Station,28.667205,77.161294,2321,Synthetic,True
+MOB_DEL_0074,Delhi,Delhi,Central Public Transport Platform 74,Public Transport Platform,28.747922,77.112061,199,Synthetic,True
+MOB_DEL_0075,Delhi,Delhi,City Railway Station 75,Railway Station,28.694968,77.347185,1538,Synthetic,True
+MOB_DEL_0076,Delhi,Delhi,Main Road Bus Stop 76,Bus Stop,28.694553,77.098428,1656,Synthetic,True
+MOB_DEL_0077,Delhi,Delhi,City Railway Station 77,Railway Station,28.690644,77.024595,290,Synthetic,True
+MOB_DEL_0078,Delhi,Delhi,South Bus Stop 78,Bus Stop,28.465287,77.19452,4374,Synthetic,True
+MOB_DEL_0079,Delhi,Delhi,Central Public Transport Platform 79,Public Transport Platform,28.697139,77.045887,1215,Synthetic,True
+MOB_DEL_0080,Delhi,Delhi,South Bus Stop 80,Bus Stop,28.465861,76.973382,1386,Synthetic,True
+MOB_DEL_0081,Delhi,Delhi,Market Bus Stop 81,Bus Stop,28.48151,77.128689,4901,Synthetic,True
+MOB_DEL_0082,Delhi,Delhi,City Bus Stop 82,Bus Stop,28.47684,77.060409,158,Synthetic,True
+MOB_DEL_0083,Delhi,Delhi,Junction Metro Station 83,Metro Station,28.725695,77.139938,1006,Synthetic,True
+MOB_DEL_0084,Delhi,Delhi,City Metro Station 84,Metro Station,28.675064,77.148553,860,Synthetic,True
+MOB_DEL_0085,Delhi,Delhi,South Public Transport Platform 85,Public Transport Platform,28.463676,77.249686,3228,Synthetic,True
+MOB_DEL_0086,Delhi,Delhi,North Metro Station 86,Metro Station,28.655123,77.196736,467,Synthetic,True
+MOB_DEL_0087,Delhi,Delhi,City Railway Station 87,Railway Station,28.62455,77.063958,3872,Synthetic,True
+MOB_DEL_0088,Delhi,Delhi,North Railway Station 88,Railway Station,28.726379,77.201475,681,Synthetic,True
+MOB_DEL_0089,Delhi,Delhi,East Metro Station 89,Metro Station,28.552218,77.085079,1406,Synthetic,True
+MOB_DEL_0090,Delhi,Delhi,Central Bus Stop 90,Bus Stop,28.591764,77.016587,4379,Synthetic,True
+MOB_DEL_0091,Delhi,Delhi,Central Public Transport Platform 91,Public Transport Platform,28.591502,77.261756,4954,Synthetic,True
+MOB_DEL_0092,Delhi,Delhi,Market Bus Stop 92,Bus Stop,28.590384,77.328197,916,Synthetic,True
+MOB_DEL_0093,Delhi,Delhi,Central Public Transport Platform 93,Public Transport Platform,28.615757,77.154794,3900,Synthetic,True
+MOB_DEL_0094,Delhi,Delhi,Main Road Metro Station 94,Metro Station,28.718127,77.220738,4867,Synthetic,True
+MOB_DEL_0095,Delhi,Delhi,Junction Public Transport Platform 95,Public Transport Platform,28.594337,77.259958,4436,Synthetic,True
+MOB_DEL_0096,Delhi,Delhi,East Metro Station 96,Metro Station,28.551654,77.040674,3715,Synthetic,True
+MOB_DEL_0097,Delhi,Delhi,City Public Transport Platform 97,Public Transport Platform,28.719901,76.95279,2399,Synthetic,True
+MOB_DEL_0098,Delhi,Delhi,North Bus Stop 98,Bus Stop,28.685313,77.136209,4150,Synthetic,True
+MOB_DEL_0099,Delhi,Delhi,Central Bus Stop 99,Bus Stop,28.500915,77.052757,2451,Synthetic,True
+MOB_DEL_0100,Delhi,Delhi,Main Road Metro Station 100,Metro Station,28.513986,77.108105,1575,Synthetic,True
+MOB_DEL_0101,Delhi,Delhi,City Metro Station 101,Metro Station,28.567211,76.965221,3199,Synthetic,True
+MOB_DEL_0102,Delhi,Delhi,North Public Transport Platform 102,Public Transport Platform,28.704075,77.053833,3917,Synthetic,True
+MOB_DEL_0103,Delhi,Delhi,South Bus Stop 103,Bus Stop,28.690254,77.222896,2970,Synthetic,True
+MOB_DEL_0104,Delhi,Delhi,South Bus Stop 104,Bus Stop,28.635923,76.997358,4785,Synthetic,True
+MOB_DEL_0105,Delhi,Delhi,Main Road Railway Station 105,Railway Station,28.476833,76.971967,995,Synthetic,True
+MOB_DEL_0106,Delhi,Delhi,Junction Public Transport Platform 106,Public Transport Platform,28.697035,77.105358,86,Synthetic,True
+MOB_DEL_0107,Delhi,Delhi,Central Public Transport Platform 107,Public Transport Platform,28.515276,77.095591,4331,Synthetic,True
+MOB_DEL_0108,Delhi,Delhi,Main Road Railway Station 108,Railway Station,28.534621,77.034753,971,Synthetic,True
+MOB_DEL_0109,Delhi,Delhi,Main Road Metro Station 109,Metro Station,28.536568,77.292112,4173,Synthetic,True
+MOB_DEL_0110,Delhi,Delhi,Market Bus Stop 110,Bus Stop,28.457076,77.070571,927,Synthetic,True
+MOB_DEL_0111,Delhi,Delhi,City Public Transport Platform 111,Public Transport Platform,28.694214,77.076557,1922,Synthetic,True
+MOB_DEL_0112,Delhi,Delhi,Main Road Bus Stop 112,Bus Stop,28.48028,77.314637,3138,Synthetic,True
+MOB_DEL_0113,Delhi,Delhi,North Public Transport Platform 113,Public Transport Platform,28.679095,77.235723,3229,Synthetic,True
+MOB_DEL_0114,Delhi,Delhi,South Railway Station 114,Railway Station,28.663875,77.048027,2753,Synthetic,True
+MOB_DEL_0115,Delhi,Delhi,Junction Metro Station 115,Metro Station,28.614985,76.987389,2719,Synthetic,True
+MOB_DEL_0116,Delhi,Delhi,City Bus Stop 116,Bus Stop,28.714139,77.060455,4135,Synthetic,True
+MOB_DEL_0117,Delhi,Delhi,Junction Public Transport Platform 117,Public Transport Platform,28.680612,77.012187,4191,Synthetic,True
+MOB_DEL_0118,Delhi,Delhi,City Public Transport Platform 118,Public Transport Platform,28.546017,77.048713,2810,Synthetic,True
+MOB_DEL_0119,Delhi,Delhi,City Railway Station 119,Railway Station,28.491045,77.258171,3728,Synthetic,True
+MOB_DEL_0120,Delhi,Delhi,North Public Transport Platform 120,Public Transport Platform,28.692154,77.003595,4901,Synthetic,True
+MOB_DEL_0121,Delhi,Delhi,East Railway Station 121,Railway Station,28.602007,77.086546,2176,Synthetic,True
+MOB_DEL_0122,Delhi,Delhi,South Metro Station 122,Metro Station,28.706225,77.205797,4953,Synthetic,True
+MOB_DEL_0123,Delhi,Delhi,Main Road Public Transport Platform 123,Public Transport Platform,28.518125,77.103341,1307,Synthetic,True
+MOB_DEL_0124,Delhi,Delhi,Junction Railway Station 124,Railway Station,28.58054,77.245258,3079,Synthetic,True
+MOB_DEL_0125,Delhi,Delhi,South Railway Station 125,Railway Station,28.681949,77.137426,350,Synthetic,True
+MOB_DEL_0126,Delhi,Delhi,City Railway Station 126,Railway Station,28.582463,76.960927,1717,Synthetic,True
+MOB_DEL_0127,Delhi,Delhi,East Bus Stop 127,Bus Stop,28.486751,77.10371,2209,Synthetic,True
+MOB_DEL_0128,Delhi,Delhi,Market Public Transport Platform 128,Public Transport Platform,28.594346,77.239064,1823,Synthetic,True
+MOB_DEL_0129,Delhi,Delhi,East Bus Stop 129,Bus Stop,28.545415,77.34148,4392,Synthetic,True
+MOB_DEL_0130,Delhi,Delhi,Main Road Bus Stop 130,Bus Stop,28.7166,77.068603,647,Synthetic,True
+MOB_DEL_0131,Delhi,Delhi,North Railway Station 131,Railway Station,28.661703,77.218688,3190,Synthetic,True
+MOB_DEL_0132,Delhi,Delhi,Main Road Bus Stop 132,Bus Stop,28.618787,77.082932,3281,Synthetic,True
+MOB_DEL_0133,Delhi,Delhi,Main Road Public Transport Platform 133,Public Transport Platform,28.718051,77.024375,4278,Synthetic,True
+MOB_DEL_0134,Delhi,Delhi,Central Railway Station 134,Railway Station,28.584608,77.121444,1164,Synthetic,True
+MOB_DEL_0135,Delhi,Delhi,East Bus Stop 135,Bus Stop,28.645811,77.100899,1744,Synthetic,True
+MOB_DEL_0136,Delhi,Delhi,East Metro Station 136,Metro Station,28.733679,77.293867,1741,Synthetic,True
+MOB_DEL_0137,Delhi,Delhi,Market Railway Station 137,Railway Station,28.667989,77.336758,3334,Synthetic,True
+MOB_DEL_0138,Delhi,Delhi,South Public Transport Platform 138,Public Transport Platform,28.657489,77.093254,1077,Synthetic,True
+MOB_DEL_0139,Delhi,Delhi,South Metro Station 139,Metro Station,28.666611,77.284358,476,Synthetic,True
+MOB_DEL_0140,Delhi,Delhi,Central Public Transport Platform 140,Public Transport Platform,28.689199,77.156805,4337,Synthetic,True
+MOB_DEL_0141,Delhi,Delhi,Market Public Transport Platform 141,Public Transport Platform,28.502909,77.227569,3085,Synthetic,True
+MOB_DEL_0142,Delhi,Delhi,Junction Metro Station 142,Metro Station,28.451808,77.265283,4349,Synthetic,True
+MOB_DEL_0143,Delhi,Delhi,East Metro Station 143,Metro Station,28.510004,77.117248,736,Synthetic,True
+MOB_DEL_0144,Delhi,Delhi,East Railway Station 144,Railway Station,28.578719,77.052949,122,Synthetic,True
+MOB_DEL_0145,Delhi,Delhi,Market Railway Station 145,Railway Station,28.654543,77.245147,3420,Synthetic,True
+MOB_DEL_0146,Delhi,Delhi,Central Public Transport Platform 146,Public Transport Platform,28.671024,77.150077,3845,Synthetic,True
+MOB_DEL_0147,Delhi,Delhi,North Public Transport Platform 147,Public Transport Platform,28.553279,77.013514,680,Synthetic,True
+MOB_DEL_0148,Delhi,Delhi,Market Bus Stop 148,Bus Stop,28.699352,77.160787,1255,Synthetic,True
+MOB_DEL_0149,Delhi,Delhi,East Metro Station 149,Metro Station,28.513017,77.110976,1116,Synthetic,True
+MOB_DEL_0150,Delhi,Delhi,Market Public Transport Platform 150,Public Transport Platform,28.504079,77.232467,1487,Synthetic,True
+MOB_KOL_0001,Kolkata,West Bengal,East Metro Station 1,Metro Station,22.475822,88.402315,3857,Synthetic,True
+MOB_KOL_0002,Kolkata,West Bengal,East Railway Station 2,Railway Station,22.556482,88.274138,4078,Synthetic,True
+MOB_KOL_0003,Kolkata,West Bengal,South Bus Stop 3,Bus Stop,22.491095,88.405888,1341,Synthetic,True
+MOB_KOL_0004,Kolkata,West Bengal,City Railway Station 4,Railway Station,22.522238,88.41743,3360,Synthetic,True
+MOB_KOL_0005,Kolkata,West Bengal,Central Metro Station 5,Metro Station,22.543699,88.437999,3530,Synthetic,True
+MOB_KOL_0006,Kolkata,West Bengal,Market Bus Stop 6,Bus Stop,22.596129,88.411294,1583,Synthetic,True
+MOB_KOL_0007,Kolkata,West Bengal,Main Road Bus Stop 7,Bus Stop,22.636719,88.44898,4708,Synthetic,True
+MOB_KOL_0008,Kolkata,West Bengal,City Bus Stop 8,Bus Stop,22.699221,88.428097,1560,Synthetic,True
+MOB_KOL_0009,Kolkata,West Bengal,Junction Public Transport Platform 9,Public Transport Platform,22.573864,88.265486,3509,Synthetic,True
+MOB_KOL_0010,Kolkata,West Bengal,City Bus Stop 10,Bus Stop,22.562644,88.426708,208,Synthetic,True
+MOB_KOL_0011,Kolkata,West Bengal,City Metro Station 11,Metro Station,22.550016,88.288804,372,Synthetic,True
+MOB_KOL_0012,Kolkata,West Bengal,Central Railway Station 12,Railway Station,22.685341,88.308241,1674,Synthetic,True
+MOB_KOL_0013,Kolkata,West Bengal,Main Road Metro Station 13,Metro Station,22.553317,88.341768,2129,Synthetic,True
+MOB_KOL_0014,Kolkata,West Bengal,South Railway Station 14,Railway Station,22.594393,88.420562,3659,Synthetic,True
+MOB_KOL_0015,Kolkata,West Bengal,Junction Metro Station 15,Metro Station,22.64563,88.336646,2029,Synthetic,True
+MOB_KOL_0016,Kolkata,West Bengal,Market Bus Stop 16,Bus Stop,22.689476,88.256502,3307,Synthetic,True
+MOB_KOL_0017,Kolkata,West Bengal,Junction Railway Station 17,Railway Station,22.465216,88.426195,4555,Synthetic,True
+MOB_KOL_0018,Kolkata,West Bengal,City Railway Station 18,Railway Station,22.62472,88.293797,1892,Synthetic,True
+MOB_KOL_0019,Kolkata,West Bengal,East Metro Station 19,Metro Station,22.625179,88.448261,4090,Synthetic,True
+MOB_KOL_0020,Kolkata,West Bengal,City Metro Station 20,Metro Station,22.490016,88.364518,3225,Synthetic,True
+MOB_KOL_0021,Kolkata,West Bengal,North Metro Station 21,Metro Station,22.613054,88.309693,4663,Synthetic,True
+MOB_KOL_0022,Kolkata,West Bengal,Central Public Transport Platform 22,Public Transport Platform,22.48136,88.336089,3488,Synthetic,True
+MOB_KOL_0023,Kolkata,West Bengal,South Public Transport Platform 23,Public Transport Platform,22.61147,88.414813,3766,Synthetic,True
+MOB_KOL_0024,Kolkata,West Bengal,Junction Metro Station 24,Metro Station,22.538974,88.291082,4057,Synthetic,True
+MOB_KOL_0025,Kolkata,West Bengal,North Railway Station 25,Railway Station,22.455849,88.394557,4192,Synthetic,True
+MOB_KOL_0026,Kolkata,West Bengal,Junction Public Transport Platform 26,Public Transport Platform,22.654016,88.333739,4106,Synthetic,True
+MOB_KOL_0027,Kolkata,West Bengal,South Railway Station 27,Railway Station,22.661622,88.25434,415,Synthetic,True
+MOB_KOL_0028,Kolkata,West Bengal,City Bus Stop 28,Bus Stop,22.591261,88.418481,1457,Synthetic,True
+MOB_KOL_0029,Kolkata,West Bengal,Main Road Bus Stop 29,Bus Stop,22.496543,88.265551,3092,Synthetic,True
+MOB_KOL_0030,Kolkata,West Bengal,Market Railway Station 30,Railway Station,22.604924,88.305899,4491,Synthetic,True
+MOB_KOL_0031,Kolkata,West Bengal,Market Bus Stop 31,Bus Stop,22.493338,88.281375,1626,Synthetic,True
+MOB_KOL_0032,Kolkata,West Bengal,Market Metro Station 32,Metro Station,22.493328,88.441481,2054,Synthetic,True
+MOB_KOL_0033,Kolkata,West Bengal,City Railway Station 33,Railway Station,22.460184,88.411917,2764,Synthetic,True
+MOB_KOL_0034,Kolkata,West Bengal,Central Railway Station 34,Railway Station,22.478381,88.426947,1903,Synthetic,True
+MOB_KOL_0035,Kolkata,West Bengal,Junction Railway Station 35,Railway Station,22.53214,88.393583,323,Synthetic,True
+MOB_KOL_0036,Kolkata,West Bengal,South Metro Station 36,Metro Station,22.595224,88.412632,4639,Synthetic,True
+MOB_KOL_0037,Kolkata,West Bengal,Market Railway Station 37,Railway Station,22.605945,88.401011,2061,Synthetic,True
+MOB_KOL_0038,Kolkata,West Bengal,Main Road Metro Station 38,Metro Station,22.523636,88.299258,1387,Synthetic,True
+MOB_KOL_0039,Kolkata,West Bengal,Main Road Public Transport Platform 39,Public Transport Platform,22.451811,88.357481,2891,Synthetic,True
+MOB_KOL_0040,Kolkata,West Bengal,City Metro Station 40,Metro Station,22.481581,88.443184,2257,Synthetic,True
+MOB_KOL_0041,Kolkata,West Bengal,City Railway Station 41,Railway Station,22.490423,88.365958,3689,Synthetic,True
+MOB_KOL_0042,Kolkata,West Bengal,South Railway Station 42,Railway Station,22.528264,88.424913,4974,Synthetic,True
+MOB_KOL_0043,Kolkata,West Bengal,Central Metro Station 43,Metro Station,22.479476,88.298545,4116,Synthetic,True
+MOB_KOL_0044,Kolkata,West Bengal,Market Public Transport Platform 44,Public Transport Platform,22.468813,88.341957,4866,Synthetic,True
+MOB_KOL_0045,Kolkata,West Bengal,Junction Railway Station 45,Railway Station,22.490013,88.431283,3195,Synthetic,True
+MOB_KOL_0046,Kolkata,West Bengal,Junction Metro Station 46,Metro Station,22.610229,88.363271,3721,Synthetic,True
+MOB_KOL_0047,Kolkata,West Bengal,City Railway Station 47,Railway Station,22.596489,88.286162,3706,Synthetic,True
+MOB_KOL_0048,Kolkata,West Bengal,Market Bus Stop 48,Bus Stop,22.474969,88.324475,3333,Synthetic,True
+MOB_KOL_0049,Kolkata,West Bengal,South Metro Station 49,Metro Station,22.663743,88.304814,2659,Synthetic,True
+MOB_KOL_0050,Kolkata,West Bengal,South Metro Station 50,Metro Station,22.512969,88.270577,1212,Synthetic,True
+MOB_KOL_0051,Kolkata,West Bengal,South Bus Stop 51,Bus Stop,22.480116,88.41173,1922,Synthetic,True
+MOB_KOL_0052,Kolkata,West Bengal,Central Bus Stop 52,Bus Stop,22.59277,88.281668,4416,Synthetic,True
+MOB_KOL_0053,Kolkata,West Bengal,North Railway Station 53,Railway Station,22.66864,88.304096,1615,Synthetic,True
+MOB_KOL_0054,Kolkata,West Bengal,City Metro Station 54,Metro Station,22.465699,88.388217,2768,Synthetic,True
+MOB_KOL_0055,Kolkata,West Bengal,Central Railway Station 55,Railway Station,22.529449,88.304181,1193,Synthetic,True
+MOB_KOL_0056,Kolkata,West Bengal,City Bus Stop 56,Bus Stop,22.524878,88.383238,454,Synthetic,True
+MOB_KOL_0057,Kolkata,West Bengal,East Public Transport Platform 57,Public Transport Platform,22.679331,88.342199,1194,Synthetic,True
+MOB_KOL_0058,Kolkata,West Bengal,East Railway Station 58,Railway Station,22.601366,88.27537,2108,Synthetic,True
+MOB_KOL_0059,Kolkata,West Bengal,Main Road Metro Station 59,Metro Station,22.692687,88.350344,1985,Synthetic,True
+MOB_KOL_0060,Kolkata,West Bengal,North Railway Station 60,Railway Station,22.625103,88.35794,946,Synthetic,True
+MOB_KOL_0061,Kolkata,West Bengal,Central Metro Station 61,Metro Station,22.525628,88.358546,4085,Synthetic,True
+MOB_KOL_0062,Kolkata,West Bengal,South Bus Stop 62,Bus Stop,22.573177,88.326441,4756,Synthetic,True
+MOB_KOL_0063,Kolkata,West Bengal,Market Metro Station 63,Metro Station,22.670157,88.401511,4874,Synthetic,True
+MOB_KOL_0064,Kolkata,West Bengal,North Public Transport Platform 64,Public Transport Platform,22.473819,88.424521,518,Synthetic,True
+MOB_KOL_0065,Kolkata,West Bengal,North Metro Station 65,Metro Station,22.566817,88.35858,2424,Synthetic,True
+MOB_KOL_0066,Kolkata,West Bengal,Junction Public Transport Platform 66,Public Transport Platform,22.464333,88.353953,4174,Synthetic,True
+MOB_KOL_0067,Kolkata,West Bengal,Market Railway Station 67,Railway Station,22.657386,88.358297,2676,Synthetic,True
+MOB_KOL_0068,Kolkata,West Bengal,East Public Transport Platform 68,Public Transport Platform,22.483744,88.407707,197,Synthetic,True
+MOB_KOL_0069,Kolkata,West Bengal,South Railway Station 69,Railway Station,22.570564,88.381692,1428,Synthetic,True
+MOB_KOL_0070,Kolkata,West Bengal,Junction Railway Station 70,Railway Station,22.680994,88.422453,2662,Synthetic,True
+MOB_KOL_0071,Kolkata,West Bengal,City Railway Station 71,Railway Station,22.646434,88.328358,4600,Synthetic,True
+MOB_KOL_0072,Kolkata,West Bengal,Main Road Metro Station 72,Metro Station,22.495892,88.320073,920,Synthetic,True
+MOB_KOL_0073,Kolkata,West Bengal,North Metro Station 73,Metro Station,22.632334,88.382738,3373,Synthetic,True
+MOB_KOL_0074,Kolkata,West Bengal,Junction Metro Station 74,Metro Station,22.561806,88.360494,1595,Synthetic,True
+MOB_KOL_0075,Kolkata,West Bengal,Main Road Railway Station 75,Railway Station,22.61153,88.268128,1438,Synthetic,True
+MOB_KOL_0076,Kolkata,West Bengal,Market Metro Station 76,Metro Station,22.680515,88.267438,4717,Synthetic,True
+MOB_KOL_0077,Kolkata,West Bengal,Central Metro Station 77,Metro Station,22.647015,88.371097,3470,Synthetic,True
+MOB_KOL_0078,Kolkata,West Bengal,Main Road Public Transport Platform 78,Public Transport Platform,22.657869,88.338677,1150,Synthetic,True
+MOB_KOL_0079,Kolkata,West Bengal,South Public Transport Platform 79,Public Transport Platform,22.450062,88.433712,2857,Synthetic,True
+MOB_KOL_0080,Kolkata,West Bengal,North Bus Stop 80,Bus Stop,22.557577,88.287022,3959,Synthetic,True
+MOB_KOL_0081,Kolkata,West Bengal,Central Railway Station 81,Railway Station,22.454691,88.29632,663,Synthetic,True
+MOB_KOL_0082,Kolkata,West Bengal,City Bus Stop 82,Bus Stop,22.59373,88.299122,1694,Synthetic,True
+MOB_KOL_0083,Kolkata,West Bengal,Main Road Metro Station 83,Metro Station,22.490081,88.417271,817,Synthetic,True
+MOB_KOL_0084,Kolkata,West Bengal,Market Bus Stop 84,Bus Stop,22.54558,88.251158,433,Synthetic,True
+MOB_KOL_0085,Kolkata,West Bengal,Central Public Transport Platform 85,Public Transport Platform,22.682941,88.278713,4030,Synthetic,True
+MOB_KOL_0086,Kolkata,West Bengal,North Bus Stop 86,Bus Stop,22.549994,88.330047,3474,Synthetic,True
+MOB_KOL_0087,Kolkata,West Bengal,East Bus Stop 87,Bus Stop,22.693904,88.424062,3252,Synthetic,True
+MOB_KOL_0088,Kolkata,West Bengal,Market Railway Station 88,Railway Station,22.627178,88.392646,2949,Synthetic,True
+MOB_KOL_0089,Kolkata,West Bengal,Central Bus Stop 89,Bus Stop,22.593111,88.295654,1471,Synthetic,True
+MOB_KOL_0090,Kolkata,West Bengal,Junction Metro Station 90,Metro Station,22.555915,88.338939,3536,Synthetic,True
+MOB_KOL_0091,Kolkata,West Bengal,Market Metro Station 91,Metro Station,22.618324,88.291117,1673,Synthetic,True
+MOB_KOL_0092,Kolkata,West Bengal,City Public Transport Platform 92,Public Transport Platform,22.453108,88.437371,2171,Synthetic,True
+MOB_KOL_0093,Kolkata,West Bengal,City Railway Station 93,Railway Station,22.691249,88.309934,1688,Synthetic,True
+MOB_KOL_0094,Kolkata,West Bengal,South Bus Stop 94,Bus Stop,22.537242,88.429986,2406,Synthetic,True
+MOB_KOL_0095,Kolkata,West Bengal,Market Bus Stop 95,Bus Stop,22.564942,88.342784,3231,Synthetic,True
+MOB_KOL_0096,Kolkata,West Bengal,East Railway Station 96,Railway Station,22.687755,88.428859,309,Synthetic,True
+MOB_KOL_0097,Kolkata,West Bengal,Market Public Transport Platform 97,Public Transport Platform,22.64751,88.370881,1525,Synthetic,True
+MOB_KOL_0098,Kolkata,West Bengal,Junction Bus Stop 98,Bus Stop,22.67,88.41177,3927,Synthetic,True
+MOB_KOL_0099,Kolkata,West Bengal,North Railway Station 99,Railway Station,22.475022,88.360096,211,Synthetic,True
+MOB_KOL_0100,Kolkata,West Bengal,East Bus Stop 100,Bus Stop,22.604931,88.362926,1462,Synthetic,True
+MOB_KOL_0101,Kolkata,West Bengal,Main Road Railway Station 101,Railway Station,22.460294,88.28374,4640,Synthetic,True
+MOB_KOL_0102,Kolkata,West Bengal,East Metro Station 102,Metro Station,22.526913,88.404299,687,Synthetic,True
+MOB_KOL_0103,Kolkata,West Bengal,Main Road Public Transport Platform 103,Public Transport Platform,22.504756,88.31907,2796,Synthetic,True
+MOB_KOL_0104,Kolkata,West Bengal,South Metro Station 104,Metro Station,22.59315,88.339727,138,Synthetic,True
+MOB_KOL_0105,Kolkata,West Bengal,North Metro Station 105,Metro Station,22.668537,88.404542,3078,Synthetic,True
+MOB_KOL_0106,Kolkata,West Bengal,South Metro Station 106,Metro Station,22.660517,88.277363,4632,Synthetic,True
+MOB_KOL_0107,Kolkata,West Bengal,Junction Bus Stop 107,Bus Stop,22.622054,88.284591,4274,Synthetic,True
+MOB_KOL_0108,Kolkata,West Bengal,Junction Public Transport Platform 108,Public Transport Platform,22.465805,88.252418,76,Synthetic,True
+MOB_KOL_0109,Kolkata,West Bengal,Market Railway Station 109,Railway Station,22.575215,88.317443,2613,Synthetic,True
+MOB_KOL_0110,Kolkata,West Bengal,Junction Public Transport Platform 110,Public Transport Platform,22.493595,88.328163,2331,Synthetic,True
+MOB_KOL_0111,Kolkata,West Bengal,North Metro Station 111,Metro Station,22.645057,88.370681,316,Synthetic,True
+MOB_KOL_0112,Kolkata,West Bengal,East Metro Station 112,Metro Station,22.583408,88.30237,3550,Synthetic,True
+MOB_KOL_0113,Kolkata,West Bengal,Junction Bus Stop 113,Bus Stop,22.572182,88.379509,3413,Synthetic,True
+MOB_KOL_0114,Kolkata,West Bengal,Junction Bus Stop 114,Bus Stop,22.505532,88.351038,4330,Synthetic,True
+MOB_KOL_0115,Kolkata,West Bengal,Junction Railway Station 115,Railway Station,22.50307,88.260246,3123,Synthetic,True
+MOB_KOL_0116,Kolkata,West Bengal,East Bus Stop 116,Bus Stop,22.66081,88.442604,2928,Synthetic,True
+MOB_KOL_0117,Kolkata,West Bengal,Junction Public Transport Platform 117,Public Transport Platform,22.674024,88.419816,1126,Synthetic,True
+MOB_KOL_0118,Kolkata,West Bengal,Market Public Transport Platform 118,Public Transport Platform,22.551033,88.434923,600,Synthetic,True
+MOB_KOL_0119,Kolkata,West Bengal,Junction Railway Station 119,Railway Station,22.670567,88.267426,3103,Synthetic,True
+MOB_KOL_0120,Kolkata,West Bengal,Central Bus Stop 120,Bus Stop,22.487288,88.345076,1417,Synthetic,True
+MOB_KOL_0121,Kolkata,West Bengal,Central Bus Stop 121,Bus Stop,22.644268,88.311613,385,Synthetic,True
+MOB_KOL_0122,Kolkata,West Bengal,South Public Transport Platform 122,Public Transport Platform,22.455108,88.445259,3026,Synthetic,True
+MOB_KOL_0123,Kolkata,West Bengal,South Public Transport Platform 123,Public Transport Platform,22.458317,88.429885,1916,Synthetic,True
+MOB_KOL_0124,Kolkata,West Bengal,East Metro Station 124,Metro Station,22.516752,88.334961,4221,Synthetic,True
+MOB_KOL_0125,Kolkata,West Bengal,Market Metro Station 125,Metro Station,22.456762,88.346609,3654,Synthetic,True
+MOB_KOL_0126,Kolkata,West Bengal,Central Metro Station 126,Metro Station,22.654356,88.344201,1035,Synthetic,True
+MOB_KOL_0127,Kolkata,West Bengal,Main Road Metro Station 127,Metro Station,22.633724,88.334126,3944,Synthetic,True
+MOB_KOL_0128,Kolkata,West Bengal,City Railway Station 128,Railway Station,22.603577,88.404219,3753,Synthetic,True
+MOB_KOL_0129,Kolkata,West Bengal,North Public Transport Platform 129,Public Transport Platform,22.504507,88.401986,4947,Synthetic,True
+MOB_KOL_0130,Kolkata,West Bengal,South Bus Stop 130,Bus Stop,22.567682,88.291049,3447,Synthetic,True
+MOB_KOL_0131,Kolkata,West Bengal,Junction Metro Station 131,Metro Station,22.619934,88.283832,4269,Synthetic,True
+MOB_KOL_0132,Kolkata,West Bengal,South Public Transport Platform 132,Public Transport Platform,22.456018,88.418767,2693,Synthetic,True
+MOB_KOL_0133,Kolkata,West Bengal,Junction Bus Stop 133,Bus Stop,22.59275,88.2778,1016,Synthetic,True
+MOB_KOL_0134,Kolkata,West Bengal,Central Public Transport Platform 134,Public Transport Platform,22.51559,88.42129,3511,Synthetic,True
+MOB_KOL_0135,Kolkata,West Bengal,South Bus Stop 135,Bus Stop,22.620698,88.338556,3385,Synthetic,True
+MOB_KOL_0136,Kolkata,West Bengal,Market Public Transport Platform 136,Public Transport Platform,22.496705,88.262238,621,Synthetic,True
+MOB_KOL_0137,Kolkata,West Bengal,Main Road Public Transport Platform 137,Public Transport Platform,22.59447,88.442431,171,Synthetic,True
+MOB_KOL_0138,Kolkata,West Bengal,Market Public Transport Platform 138,Public Transport Platform,22.685876,88.366043,1502,Synthetic,True
+MOB_KOL_0139,Kolkata,West Bengal,Main Road Bus Stop 139,Bus Stop,22.572635,88.36237,3479,Synthetic,True
+MOB_KOL_0140,Kolkata,West Bengal,Market Railway Station 140,Railway Station,22.643154,88.296676,790,Synthetic,True
+MOB_KOL_0141,Kolkata,West Bengal,Central Public Transport Platform 141,Public Transport Platform,22.583473,88.414472,2572,Synthetic,True
+MOB_KOL_0142,Kolkata,West Bengal,Main Road Railway Station 142,Railway Station,22.551306,88.308387,297,Synthetic,True
+MOB_KOL_0143,Kolkata,West Bengal,Market Metro Station 143,Metro Station,22.693119,88.26742,1994,Synthetic,True
+MOB_KOL_0144,Kolkata,West Bengal,Junction Railway Station 144,Railway Station,22.621772,88.377947,207,Synthetic,True
+MOB_KOL_0145,Kolkata,West Bengal,Junction Bus Stop 145,Bus Stop,22.539698,88.363116,3478,Synthetic,True
+MOB_KOL_0146,Kolkata,West Bengal,Central Public Transport Platform 146,Public Transport Platform,22.698471,88.369763,570,Synthetic,True
+MOB_KOL_0147,Kolkata,West Bengal,East Railway Station 147,Railway Station,22.497463,88.323573,4395,Synthetic,True
+MOB_KOL_0148,Kolkata,West Bengal,Junction Metro Station 148,Metro Station,22.508,88.432493,2326,Synthetic,True
+MOB_KOL_0149,Kolkata,West Bengal,Central Metro Station 149,Metro Station,22.624344,88.406562,667,Synthetic,True
+MOB_KOL_0150,Kolkata,West Bengal,City Public Transport Platform 150,Public Transport Platform,22.553571,88.3504,95,Synthetic,True
+MOB_PUN_0001,Pune,Maharashtra,South Public Transport Platform 1,Public Transport Platform,18.638462,73.81777,1866,Synthetic,True
+MOB_PUN_0002,Pune,Maharashtra,North Bus Stop 2,Bus Stop,18.620757,73.881926,474,Synthetic,True
+MOB_PUN_0003,Pune,Maharashtra,South Bus Stop 3,Bus Stop,18.562623,73.813149,4808,Synthetic,True
+MOB_PUN_0004,Pune,Maharashtra,City Metro Station 4,Metro Station,18.482142,73.799928,3726,Synthetic,True
+MOB_PUN_0005,Pune,Maharashtra,City Bus Stop 5,Bus Stop,18.518988,73.984229,1328,Synthetic,True
+MOB_PUN_0006,Pune,Maharashtra,Junction Public Transport Platform 6,Public Transport Platform,18.410633,73.969959,1717,Synthetic,True
+MOB_PUN_0007,Pune,Maharashtra,Central Bus Stop 7,Bus Stop,18.529395,73.974564,587,Synthetic,True
+MOB_PUN_0008,Pune,Maharashtra,Main Road Public Transport Platform 8,Public Transport Platform,18.500528,73.882173,4970,Synthetic,True
+MOB_PUN_0009,Pune,Maharashtra,Main Road Public Transport Platform 9,Public Transport Platform,18.56282,73.942599,2500,Synthetic,True
+MOB_PUN_0010,Pune,Maharashtra,Central Railway Station 10,Railway Station,18.565128,73.75481,1256,Synthetic,True
+MOB_PUN_0011,Pune,Maharashtra,Main Road Railway Station 11,Railway Station,18.560396,73.866732,2307,Synthetic,True
+MOB_PUN_0012,Pune,Maharashtra,City Bus Stop 12,Bus Stop,18.504737,73.750546,4902,Synthetic,True
+MOB_PUN_0013,Pune,Maharashtra,South Bus Stop 13,Bus Stop,18.614645,73.792873,3918,Synthetic,True
+MOB_PUN_0014,Pune,Maharashtra,South Public Transport Platform 14,Public Transport Platform,18.433108,73.889367,4394,Synthetic,True
+MOB_PUN_0015,Pune,Maharashtra,Central Metro Station 15,Metro Station,18.460027,73.780012,515,Synthetic,True
+MOB_PUN_0016,Pune,Maharashtra,South Metro Station 16,Metro Station,18.448655,73.975339,2217,Synthetic,True
+MOB_PUN_0017,Pune,Maharashtra,Junction Railway Station 17,Railway Station,18.454586,73.950767,3175,Synthetic,True
+MOB_PUN_0018,Pune,Maharashtra,Junction Metro Station 18,Metro Station,18.483502,73.88048,4019,Synthetic,True
+MOB_PUN_0019,Pune,Maharashtra,City Bus Stop 19,Bus Stop,18.444661,73.933946,2468,Synthetic,True
+MOB_PUN_0020,Pune,Maharashtra,Junction Metro Station 20,Metro Station,18.440577,73.969226,1810,Synthetic,True
+MOB_PUN_0021,Pune,Maharashtra,Central Public Transport Platform 21,Public Transport Platform,18.546392,73.984697,1329,Synthetic,True
+MOB_PUN_0022,Pune,Maharashtra,East Metro Station 22,Metro Station,18.491058,73.752239,4566,Synthetic,True
+MOB_PUN_0023,Pune,Maharashtra,East Railway Station 23,Railway Station,18.501267,73.954091,531,Synthetic,True
+MOB_PUN_0024,Pune,Maharashtra,South Metro Station 24,Metro Station,18.562256,73.862215,1130,Synthetic,True
+MOB_PUN_0025,Pune,Maharashtra,Market Railway Station 25,Railway Station,18.493858,73.783239,2575,Synthetic,True
+MOB_PUN_0026,Pune,Maharashtra,North Bus Stop 26,Bus Stop,18.488715,73.9246,3530,Synthetic,True
+MOB_PUN_0027,Pune,Maharashtra,City Railway Station 27,Railway Station,18.574978,73.953788,3058,Synthetic,True
+MOB_PUN_0028,Pune,Maharashtra,Central Railway Station 28,Railway Station,18.642724,73.968426,2278,Synthetic,True
+MOB_PUN_0029,Pune,Maharashtra,City Metro Station 29,Metro Station,18.48807,73.929212,3750,Synthetic,True
+MOB_PUN_0030,Pune,Maharashtra,Market Public Transport Platform 30,Public Transport Platform,18.529443,73.819111,3327,Synthetic,True
+MOB_PUN_0031,Pune,Maharashtra,Main Road Public Transport Platform 31,Public Transport Platform,18.649766,73.990183,1940,Synthetic,True
+MOB_PUN_0032,Pune,Maharashtra,Central Public Transport Platform 32,Public Transport Platform,18.49529,73.951699,5000,Synthetic,True
+MOB_PUN_0033,Pune,Maharashtra,Junction Public Transport Platform 33,Public Transport Platform,18.546327,73.782337,4813,Synthetic,True
+MOB_PUN_0034,Pune,Maharashtra,East Railway Station 34,Railway Station,18.641948,73.96383,1476,Synthetic,True
+MOB_PUN_0035,Pune,Maharashtra,Central Metro Station 35,Metro Station,18.637829,73.796499,4346,Synthetic,True
+MOB_PUN_0036,Pune,Maharashtra,Main Road Public Transport Platform 36,Public Transport Platform,18.441446,73.852682,1105,Synthetic,True
+MOB_PUN_0037,Pune,Maharashtra,South Bus Stop 37,Bus Stop,18.504238,73.768168,3766,Synthetic,True
+MOB_PUN_0038,Pune,Maharashtra,Main Road Public Transport Platform 38,Public Transport Platform,18.447286,73.836188,4883,Synthetic,True
+MOB_PUN_0039,Pune,Maharashtra,Market Metro Station 39,Metro Station,18.453834,73.937874,3961,Synthetic,True
+MOB_PUN_0040,Pune,Maharashtra,East Public Transport Platform 40,Public Transport Platform,18.577529,73.862735,1584,Synthetic,True
+MOB_PUN_0041,Pune,Maharashtra,South Railway Station 41,Railway Station,18.403089,73.780355,2137,Synthetic,True
+MOB_PUN_0042,Pune,Maharashtra,Central Metro Station 42,Metro Station,18.530814,73.966733,2110,Synthetic,True
+MOB_PUN_0043,Pune,Maharashtra,City Metro Station 43,Metro Station,18.481843,73.900781,1603,Synthetic,True
+MOB_PUN_0044,Pune,Maharashtra,Main Road Bus Stop 44,Bus Stop,18.647761,73.850613,290,Synthetic,True
+MOB_PUN_0045,Pune,Maharashtra,City Bus Stop 45,Bus Stop,18.472398,73.762418,3870,Synthetic,True
+MOB_PUN_0046,Pune,Maharashtra,Main Road Public Transport Platform 46,Public Transport Platform,18.610019,73.931094,601,Synthetic,True
+MOB_PUN_0047,Pune,Maharashtra,Market Railway Station 47,Railway Station,18.613227,73.967679,4670,Synthetic,True
+MOB_PUN_0048,Pune,Maharashtra,Market Bus Stop 48,Bus Stop,18.47513,73.754171,4281,Synthetic,True
+MOB_PUN_0049,Pune,Maharashtra,North Public Transport Platform 49,Public Transport Platform,18.438076,73.908892,4502,Synthetic,True
+MOB_PUN_0050,Pune,Maharashtra,Main Road Public Transport Platform 50,Public Transport Platform,18.408293,73.903224,3611,Synthetic,True
+MOB_PUN_0051,Pune,Maharashtra,South Railway Station 51,Railway Station,18.474281,73.935571,1159,Synthetic,True
+MOB_PUN_0052,Pune,Maharashtra,Central Railway Station 52,Railway Station,18.482377,73.992405,1289,Synthetic,True
+MOB_PUN_0053,Pune,Maharashtra,Main Road Bus Stop 53,Bus Stop,18.458383,73.957913,303,Synthetic,True
+MOB_PUN_0054,Pune,Maharashtra,South Public Transport Platform 54,Public Transport Platform,18.507027,73.985602,888,Synthetic,True
+MOB_PUN_0055,Pune,Maharashtra,South Railway Station 55,Railway Station,18.431276,73.984423,4516,Synthetic,True
+MOB_PUN_0056,Pune,Maharashtra,North Bus Stop 56,Bus Stop,18.500575,73.782927,85,Synthetic,True
+MOB_PUN_0057,Pune,Maharashtra,East Bus Stop 57,Bus Stop,18.56472,73.811501,72,Synthetic,True
+MOB_PUN_0058,Pune,Maharashtra,South Public Transport Platform 58,Public Transport Platform,18.50226,73.984112,3577,Synthetic,True
+MOB_PUN_0059,Pune,Maharashtra,East Railway Station 59,Railway Station,18.438234,73.94112,2428,Synthetic,True
+MOB_PUN_0060,Pune,Maharashtra,Junction Bus Stop 60,Bus Stop,18.461977,73.984844,4070,Synthetic,True
+MOB_PUN_0061,Pune,Maharashtra,City Railway Station 61,Railway Station,18.577705,73.829497,644,Synthetic,True
+MOB_PUN_0062,Pune,Maharashtra,East Metro Station 62,Metro Station,18.565119,73.828937,3365,Synthetic,True
+MOB_PUN_0063,Pune,Maharashtra,Central Bus Stop 63,Bus Stop,18.412957,73.872548,1659,Synthetic,True
+MOB_PUN_0064,Pune,Maharashtra,City Metro Station 64,Metro Station,18.524082,73.99267,558,Synthetic,True
+MOB_PUN_0065,Pune,Maharashtra,South Metro Station 65,Metro Station,18.42154,73.8939,1519,Synthetic,True
+MOB_PUN_0066,Pune,Maharashtra,Main Road Bus Stop 66,Bus Stop,18.573752,73.958331,4832,Synthetic,True
+MOB_PUN_0067,Pune,Maharashtra,Market Bus Stop 67,Bus Stop,18.528909,73.798344,3815,Synthetic,True
+MOB_PUN_0068,Pune,Maharashtra,Market Bus Stop 68,Bus Stop,18.474567,73.795962,2457,Synthetic,True
+MOB_PUN_0069,Pune,Maharashtra,Junction Railway Station 69,Railway Station,18.611657,73.821653,50,Synthetic,True
+MOB_PUN_0070,Pune,Maharashtra,East Railway Station 70,Railway Station,18.507813,73.860983,4428,Synthetic,True
+MOB_PUN_0071,Pune,Maharashtra,Main Road Public Transport Platform 71,Public Transport Platform,18.593617,73.828803,588,Synthetic,True
+MOB_PUN_0072,Pune,Maharashtra,East Bus Stop 72,Bus Stop,18.503385,73.769054,634,Synthetic,True
+MOB_PUN_0073,Pune,Maharashtra,Central Public Transport Platform 73,Public Transport Platform,18.644364,73.922015,2976,Synthetic,True
+MOB_PUN_0074,Pune,Maharashtra,East Bus Stop 74,Bus Stop,18.573769,73.990253,1413,Synthetic,True
+MOB_PUN_0075,Pune,Maharashtra,City Railway Station 75,Railway Station,18.466996,73.845882,2145,Synthetic,True
+MOB_PUN_0076,Pune,Maharashtra,City Bus Stop 76,Bus Stop,18.539586,73.838504,61,Synthetic,True
+MOB_PUN_0077,Pune,Maharashtra,North Railway Station 77,Railway Station,18.536152,73.769763,831,Synthetic,True
+MOB_PUN_0078,Pune,Maharashtra,East Railway Station 78,Railway Station,18.465143,73.929578,3264,Synthetic,True
+MOB_PUN_0079,Pune,Maharashtra,Market Railway Station 79,Railway Station,18.550569,73.779243,3313,Synthetic,True
+MOB_PUN_0080,Pune,Maharashtra,East Bus Stop 80,Bus Stop,18.605315,73.750673,2385,Synthetic,True
+MOB_PUN_0081,Pune,Maharashtra,Market Bus Stop 81,Bus Stop,18.623065,73.95029,2601,Synthetic,True
+MOB_PUN_0082,Pune,Maharashtra,Junction Railway Station 82,Railway Station,18.429307,73.819073,200,Synthetic,True
+MOB_PUN_0083,Pune,Maharashtra,Main Road Metro Station 83,Metro Station,18.444553,73.951068,247,Synthetic,True
+MOB_PUN_0084,Pune,Maharashtra,South Metro Station 84,Metro Station,18.498414,73.79008,376,Synthetic,True
+MOB_PUN_0085,Pune,Maharashtra,North Metro Station 85,Metro Station,18.628835,73.885997,3321,Synthetic,True
+MOB_PUN_0086,Pune,Maharashtra,Central Railway Station 86,Railway Station,18.565018,73.883545,151,Synthetic,True
+MOB_PUN_0087,Pune,Maharashtra,South Metro Station 87,Metro Station,18.480424,73.90202,2818,Synthetic,True
+MOB_PUN_0088,Pune,Maharashtra,South Bus Stop 88,Bus Stop,18.470621,73.859332,4967,Synthetic,True
+MOB_PUN_0089,Pune,Maharashtra,Market Metro Station 89,Metro Station,18.580594,73.835636,3470,Synthetic,True
+MOB_PUN_0090,Pune,Maharashtra,Market Metro Station 90,Metro Station,18.413873,73.797468,3887,Synthetic,True
+MOB_PUN_0091,Pune,Maharashtra,Junction Railway Station 91,Railway Station,18.612501,73.875784,4205,Synthetic,True
+MOB_PUN_0092,Pune,Maharashtra,South Bus Stop 92,Bus Stop,18.521846,73.876397,4624,Synthetic,True
+MOB_PUN_0093,Pune,Maharashtra,Central Public Transport Platform 93,Public Transport Platform,18.549145,73.760257,1012,Synthetic,True
+MOB_PUN_0094,Pune,Maharashtra,Junction Bus Stop 94,Bus Stop,18.616413,73.769715,1685,Synthetic,True
+MOB_PUN_0095,Pune,Maharashtra,South Metro Station 95,Metro Station,18.494643,73.774062,4450,Synthetic,True
+MOB_PUN_0096,Pune,Maharashtra,North Railway Station 96,Railway Station,18.540219,73.835728,3321,Synthetic,True
+MOB_PUN_0097,Pune,Maharashtra,Main Road Metro Station 97,Metro Station,18.564535,73.77786,3353,Synthetic,True
+MOB_PUN_0098,Pune,Maharashtra,Junction Bus Stop 98,Bus Stop,18.648549,73.94968,1351,Synthetic,True
+MOB_PUN_0099,Pune,Maharashtra,Central Metro Station 99,Metro Station,18.478385,73.900155,3903,Synthetic,True
+MOB_PUN_0100,Pune,Maharashtra,East Bus Stop 100,Bus Stop,18.519352,73.818159,2331,Synthetic,True
+MOB_PUN_0101,Pune,Maharashtra,East Railway Station 101,Railway Station,18.581602,73.989645,514,Synthetic,True
+MOB_PUN_0102,Pune,Maharashtra,Market Metro Station 102,Metro Station,18.419982,73.937679,2419,Synthetic,True
+MOB_PUN_0103,Pune,Maharashtra,City Public Transport Platform 103,Public Transport Platform,18.605719,73.893074,2047,Synthetic,True
+MOB_PUN_0104,Pune,Maharashtra,South Railway Station 104,Railway Station,18.6191,73.871479,3224,Synthetic,True
+MOB_PUN_0105,Pune,Maharashtra,Main Road Public Transport Platform 105,Public Transport Platform,18.618195,73.79495,2726,Synthetic,True
+MOB_PUN_0106,Pune,Maharashtra,Central Public Transport Platform 106,Public Transport Platform,18.490826,73.994056,1179,Synthetic,True
+MOB_PUN_0107,Pune,Maharashtra,City Public Transport Platform 107,Public Transport Platform,18.584966,73.825302,1112,Synthetic,True
+MOB_PUN_0108,Pune,Maharashtra,East Railway Station 108,Railway Station,18.603239,73.976804,98,Synthetic,True
+MOB_PUN_0109,Pune,Maharashtra,South Metro Station 109,Metro Station,18.529234,73.762105,474,Synthetic,True
+MOB_PUN_0110,Pune,Maharashtra,Market Public Transport Platform 110,Public Transport Platform,18.410382,73.848952,3605,Synthetic,True
+MOB_PUN_0111,Pune,Maharashtra,North Bus Stop 111,Bus Stop,18.411004,73.932734,768,Synthetic,True
+MOB_PUN_0112,Pune,Maharashtra,Junction Public Transport Platform 112,Public Transport Platform,18.609355,73.905961,4864,Synthetic,True
+MOB_PUN_0113,Pune,Maharashtra,Central Bus Stop 113,Bus Stop,18.614895,73.89666,4902,Synthetic,True
+MOB_PUN_0114,Pune,Maharashtra,Main Road Bus Stop 114,Bus Stop,18.414676,73.935195,286,Synthetic,True
+MOB_PUN_0115,Pune,Maharashtra,North Metro Station 115,Metro Station,18.433814,73.902078,2826,Synthetic,True
+MOB_PUN_0116,Pune,Maharashtra,Market Metro Station 116,Metro Station,18.591848,73.865017,3089,Synthetic,True
+MOB_PUN_0117,Pune,Maharashtra,North Public Transport Platform 117,Public Transport Platform,18.457816,73.778028,1579,Synthetic,True
+MOB_PUN_0118,Pune,Maharashtra,Central Public Transport Platform 118,Public Transport Platform,18.412385,73.929152,3575,Synthetic,True
+MOB_PUN_0119,Pune,Maharashtra,Main Road Bus Stop 119,Bus Stop,18.61576,73.865867,4088,Synthetic,True
+MOB_PUN_0120,Pune,Maharashtra,North Railway Station 120,Railway Station,18.464447,73.818339,4887,Synthetic,True
+MOB_PUN_0121,Pune,Maharashtra,Central Metro Station 121,Metro Station,18.479756,73.936792,2356,Synthetic,True
+MOB_PUN_0122,Pune,Maharashtra,North Railway Station 122,Railway Station,18.456282,73.772641,4616,Synthetic,True
+MOB_PUN_0123,Pune,Maharashtra,City Bus Stop 123,Bus Stop,18.579592,73.898811,2899,Synthetic,True
+MOB_PUN_0124,Pune,Maharashtra,Market Railway Station 124,Railway Station,18.470848,73.959742,2368,Synthetic,True
+MOB_PUN_0125,Pune,Maharashtra,South Railway Station 125,Railway Station,18.645088,73.789225,1425,Synthetic,True
+MOB_PUN_0126,Pune,Maharashtra,Main Road Railway Station 126,Railway Station,18.430837,73.904133,478,Synthetic,True
+MOB_PUN_0127,Pune,Maharashtra,South Railway Station 127,Railway Station,18.494972,73.808683,3395,Synthetic,True
+MOB_PUN_0128,Pune,Maharashtra,South Bus Stop 128,Bus Stop,18.610089,73.827399,3515,Synthetic,True
+MOB_PUN_0129,Pune,Maharashtra,East Bus Stop 129,Bus Stop,18.402621,73.862227,1313,Synthetic,True
+MOB_PUN_0130,Pune,Maharashtra,South Public Transport Platform 130,Public Transport Platform,18.404009,73.799185,565,Synthetic,True
+MOB_PUN_0131,Pune,Maharashtra,North Railway Station 131,Railway Station,18.406793,73.843615,1680,Synthetic,True
+MOB_PUN_0132,Pune,Maharashtra,City Bus Stop 132,Bus Stop,18.510305,73.919848,788,Synthetic,True
+MOB_PUN_0133,Pune,Maharashtra,East Public Transport Platform 133,Public Transport Platform,18.602241,73.829008,492,Synthetic,True
+MOB_PUN_0134,Pune,Maharashtra,East Railway Station 134,Railway Station,18.54302,73.843355,1518,Synthetic,True
+MOB_PUN_0135,Pune,Maharashtra,Junction Railway Station 135,Railway Station,18.418763,73.811324,2723,Synthetic,True
+MOB_PUN_0136,Pune,Maharashtra,East Railway Station 136,Railway Station,18.541792,73.764154,3125,Synthetic,True
+MOB_PUN_0137,Pune,Maharashtra,North Railway Station 137,Railway Station,18.453449,73.920002,2670,Synthetic,True
+MOB_PUN_0138,Pune,Maharashtra,Central Public Transport Platform 138,Public Transport Platform,18.479829,73.865059,4741,Synthetic,True
+MOB_PUN_0139,Pune,Maharashtra,South Bus Stop 139,Bus Stop,18.508682,73.935899,2510,Synthetic,True
+MOB_PUN_0140,Pune,Maharashtra,Market Public Transport Platform 140,Public Transport Platform,18.507421,73.847086,1058,Synthetic,True
+MOB_PUN_0141,Pune,Maharashtra,Market Metro Station 141,Metro Station,18.620277,73.928371,4104,Synthetic,True
+MOB_PUN_0142,Pune,Maharashtra,East Railway Station 142,Railway Station,18.498997,73.988711,3115,Synthetic,True
+MOB_PUN_0143,Pune,Maharashtra,Central Public Transport Platform 143,Public Transport Platform,18.592999,73.992642,3967,Synthetic,True
+MOB_PUN_0144,Pune,Maharashtra,City Public Transport Platform 144,Public Transport Platform,18.535515,73.81109,98,Synthetic,True
+MOB_PUN_0145,Pune,Maharashtra,Main Road Bus Stop 145,Bus Stop,18.440986,73.900867,3592,Synthetic,True
+MOB_PUN_0146,Pune,Maharashtra,Market Public Transport Platform 146,Public Transport Platform,18.454253,73.962577,1226,Synthetic,True
+MOB_PUN_0147,Pune,Maharashtra,Market Public Transport Platform 147,Public Transport Platform,18.596533,73.783315,4682,Synthetic,True
+MOB_PUN_0148,Pune,Maharashtra,Junction Public Transport Platform 148,Public Transport Platform,18.464769,73.796511,4643,Synthetic,True
+MOB_PUN_0149,Pune,Maharashtra,North Metro Station 149,Metro Station,18.460018,73.790966,3284,Synthetic,True
+MOB_PUN_0150,Pune,Maharashtra,South Public Transport Platform 150,Public Transport Platform,18.554328,73.898435,1580,Synthetic,True
+MOB_AHM_0001,Ahmedabad,Gujarat,Main Road Railway Station 1,Railway Station,23.037859,72.679612,1356,Synthetic,True
+MOB_AHM_0002,Ahmedabad,Gujarat,North Metro Station 2,Metro Station,23.080341,72.461684,2002,Synthetic,True
+MOB_AHM_0003,Ahmedabad,Gujarat,Central Metro Station 3,Metro Station,23.065046,72.512841,51,Synthetic,True
+MOB_AHM_0004,Ahmedabad,Gujarat,South Bus Stop 4,Bus Stop,23.073369,72.506988,1485,Synthetic,True
+MOB_AHM_0005,Ahmedabad,Gujarat,Junction Railway Station 5,Railway Station,22.97766,72.690382,4102,Synthetic,True
+MOB_AHM_0006,Ahmedabad,Gujarat,Main Road Bus Stop 6,Bus Stop,23.127892,72.452273,4008,Synthetic,True
+MOB_AHM_0007,Ahmedabad,Gujarat,North Railway Station 7,Railway Station,23.122404,72.532064,2251,Synthetic,True
+MOB_AHM_0008,Ahmedabad,Gujarat,Main Road Railway Station 8,Railway Station,23.12934,72.464395,3675,Synthetic,True
+MOB_AHM_0009,Ahmedabad,Gujarat,South Railway Station 9,Railway Station,23.063679,72.602338,618,Synthetic,True
+MOB_AHM_0010,Ahmedabad,Gujarat,Market Metro Station 10,Metro Station,22.974863,72.450945,3272,Synthetic,True
+MOB_AHM_0011,Ahmedabad,Gujarat,Market Railway Station 11,Railway Station,22.992689,72.488681,3593,Synthetic,True
+MOB_AHM_0012,Ahmedabad,Gujarat,Main Road Metro Station 12,Metro Station,23.048553,72.56686,1838,Synthetic,True
+MOB_AHM_0013,Ahmedabad,Gujarat,City Metro Station 13,Metro Station,23.032833,72.631494,326,Synthetic,True
+MOB_AHM_0014,Ahmedabad,Gujarat,South Public Transport Platform 14,Public Transport Platform,23.135716,72.632528,281,Synthetic,True
+MOB_AHM_0015,Ahmedabad,Gujarat,Central Public Transport Platform 15,Public Transport Platform,22.991467,72.540377,2000,Synthetic,True
+MOB_AHM_0016,Ahmedabad,Gujarat,Central Public Transport Platform 16,Public Transport Platform,23.017012,72.528298,4174,Synthetic,True
+MOB_AHM_0017,Ahmedabad,Gujarat,Main Road Railway Station 17,Railway Station,23.076035,72.471204,357,Synthetic,True
+MOB_AHM_0018,Ahmedabad,Gujarat,Junction Public Transport Platform 18,Public Transport Platform,23.095585,72.483069,4113,Synthetic,True
+MOB_AHM_0019,Ahmedabad,Gujarat,Central Railway Station 19,Railway Station,23.08508,72.667136,3926,Synthetic,True
+MOB_AHM_0020,Ahmedabad,Gujarat,Main Road Railway Station 20,Railway Station,23.035606,72.555062,3091,Synthetic,True
+MOB_AHM_0021,Ahmedabad,Gujarat,South Bus Stop 21,Bus Stop,23.116081,72.453448,377,Synthetic,True
+MOB_AHM_0022,Ahmedabad,Gujarat,South Metro Station 22,Metro Station,22.988182,72.577089,2973,Synthetic,True
+MOB_AHM_0023,Ahmedabad,Gujarat,Junction Public Transport Platform 23,Public Transport Platform,23.139173,72.632232,2366,Synthetic,True
+MOB_AHM_0024,Ahmedabad,Gujarat,Junction Public Transport Platform 24,Public Transport Platform,23.013012,72.571425,4852,Synthetic,True
+MOB_AHM_0025,Ahmedabad,Gujarat,City Metro Station 25,Metro Station,23.054544,72.504397,4859,Synthetic,True
+MOB_AHM_0026,Ahmedabad,Gujarat,Junction Public Transport Platform 26,Public Transport Platform,23.118423,72.599539,683,Synthetic,True
+MOB_AHM_0027,Ahmedabad,Gujarat,South Railway Station 27,Railway Station,22.956876,72.635023,2630,Synthetic,True
+MOB_AHM_0028,Ahmedabad,Gujarat,Central Railway Station 28,Railway Station,23.123355,72.599304,1750,Synthetic,True
+MOB_AHM_0029,Ahmedabad,Gujarat,South Metro Station 29,Metro Station,23.105016,72.55913,1823,Synthetic,True
+MOB_AHM_0030,Ahmedabad,Gujarat,Main Road Metro Station 30,Metro Station,23.09906,72.69384,2157,Synthetic,True
+MOB_AHM_0031,Ahmedabad,Gujarat,City Public Transport Platform 31,Public Transport Platform,22.976152,72.489237,4539,Synthetic,True
+MOB_AHM_0032,Ahmedabad,Gujarat,City Bus Stop 32,Bus Stop,23.015909,72.522079,2830,Synthetic,True
+MOB_AHM_0033,Ahmedabad,Gujarat,Junction Metro Station 33,Metro Station,22.953257,72.624951,1544,Synthetic,True
+MOB_AHM_0034,Ahmedabad,Gujarat,South Public Transport Platform 34,Public Transport Platform,23.098263,72.696928,1388,Synthetic,True
+MOB_AHM_0035,Ahmedabad,Gujarat,Market Metro Station 35,Metro Station,23.113324,72.693042,2541,Synthetic,True
+MOB_AHM_0036,Ahmedabad,Gujarat,Junction Public Transport Platform 36,Public Transport Platform,22.984525,72.672376,1373,Synthetic,True
+MOB_AHM_0037,Ahmedabad,Gujarat,South Railway Station 37,Railway Station,23.093026,72.636631,4077,Synthetic,True
+MOB_AHM_0038,Ahmedabad,Gujarat,Main Road Bus Stop 38,Bus Stop,23.131799,72.482192,3738,Synthetic,True
+MOB_AHM_0039,Ahmedabad,Gujarat,Central Public Transport Platform 39,Public Transport Platform,23.015966,72.586664,2426,Synthetic,True
+MOB_AHM_0040,Ahmedabad,Gujarat,South Bus Stop 40,Bus Stop,23.054431,72.546105,681,Synthetic,True
+MOB_AHM_0041,Ahmedabad,Gujarat,Junction Metro Station 41,Metro Station,23.065107,72.542519,2556,Synthetic,True
+MOB_AHM_0042,Ahmedabad,Gujarat,Junction Public Transport Platform 42,Public Transport Platform,23.028283,72.63826,2708,Synthetic,True
+MOB_AHM_0043,Ahmedabad,Gujarat,East Public Transport Platform 43,Public Transport Platform,23.074706,72.591842,3218,Synthetic,True
+MOB_AHM_0044,Ahmedabad,Gujarat,Market Metro Station 44,Metro Station,23.144213,72.664079,3693,Synthetic,True
+MOB_AHM_0045,Ahmedabad,Gujarat,Market Metro Station 45,Metro Station,23.028994,72.479833,4498,Synthetic,True
+MOB_AHM_0046,Ahmedabad,Gujarat,Main Road Bus Stop 46,Bus Stop,23.033436,72.546048,1134,Synthetic,True
+MOB_AHM_0047,Ahmedabad,Gujarat,City Bus Stop 47,Bus Stop,23.033739,72.539082,2660,Synthetic,True
+MOB_AHM_0048,Ahmedabad,Gujarat,South Public Transport Platform 48,Public Transport Platform,23.140217,72.532636,4332,Synthetic,True
+MOB_AHM_0049,Ahmedabad,Gujarat,North Public Transport Platform 49,Public Transport Platform,23.015556,72.639662,4093,Synthetic,True
+MOB_AHM_0050,Ahmedabad,Gujarat,City Railway Station 50,Railway Station,23.14824,72.493037,3902,Synthetic,True
+MOB_AHM_0051,Ahmedabad,Gujarat,Junction Public Transport Platform 51,Public Transport Platform,22.951144,72.463076,4340,Synthetic,True
+MOB_AHM_0052,Ahmedabad,Gujarat,North Public Transport Platform 52,Public Transport Platform,23.054204,72.652324,4399,Synthetic,True
+MOB_AHM_0053,Ahmedabad,Gujarat,Junction Metro Station 53,Metro Station,23.086659,72.539353,3447,Synthetic,True
+MOB_AHM_0054,Ahmedabad,Gujarat,North Public Transport Platform 54,Public Transport Platform,23.001071,72.476628,1484,Synthetic,True
+MOB_AHM_0055,Ahmedabad,Gujarat,Junction Railway Station 55,Railway Station,23.002002,72.64246,4872,Synthetic,True
+MOB_AHM_0056,Ahmedabad,Gujarat,Junction Public Transport Platform 56,Public Transport Platform,22.950988,72.650419,1702,Synthetic,True
+MOB_AHM_0057,Ahmedabad,Gujarat,South Metro Station 57,Metro Station,23.13243,72.699528,189,Synthetic,True
+MOB_AHM_0058,Ahmedabad,Gujarat,North Metro Station 58,Metro Station,23.114116,72.666816,570,Synthetic,True
+MOB_AHM_0059,Ahmedabad,Gujarat,Central Public Transport Platform 59,Public Transport Platform,23.141666,72.552052,423,Synthetic,True
+MOB_AHM_0060,Ahmedabad,Gujarat,Junction Railway Station 60,Railway Station,22.980777,72.50304,3418,Synthetic,True
+MOB_AHM_0061,Ahmedabad,Gujarat,Main Road Bus Stop 61,Bus Stop,22.959044,72.623422,447,Synthetic,True
+MOB_AHM_0062,Ahmedabad,Gujarat,Central Metro Station 62,Metro Station,23.146624,72.644215,2327,Synthetic,True
+MOB_AHM_0063,Ahmedabad,Gujarat,Market Bus Stop 63,Bus Stop,23.003823,72.594597,4833,Synthetic,True
+MOB_AHM_0064,Ahmedabad,Gujarat,City Public Transport Platform 64,Public Transport Platform,23.114735,72.568908,4021,Synthetic,True
+MOB_AHM_0065,Ahmedabad,Gujarat,Main Road Public Transport Platform 65,Public Transport Platform,23.11814,72.534159,1302,Synthetic,True
+MOB_AHM_0066,Ahmedabad,Gujarat,City Railway Station 66,Railway Station,22.991949,72.54731,2264,Synthetic,True
+MOB_AHM_0067,Ahmedabad,Gujarat,Junction Bus Stop 67,Bus Stop,23.013555,72.460559,1726,Synthetic,True
+MOB_AHM_0068,Ahmedabad,Gujarat,South Railway Station 68,Railway Station,23.100358,72.573036,4223,Synthetic,True
+MOB_AHM_0069,Ahmedabad,Gujarat,North Bus Stop 69,Bus Stop,23.049653,72.60979,1874,Synthetic,True
+MOB_AHM_0070,Ahmedabad,Gujarat,Central Railway Station 70,Railway Station,23.127654,72.596119,4543,Synthetic,True
+MOB_AHM_0071,Ahmedabad,Gujarat,Main Road Bus Stop 71,Bus Stop,23.081572,72.558049,1431,Synthetic,True
+MOB_AHM_0072,Ahmedabad,Gujarat,Junction Railway Station 72,Railway Station,22.979428,72.667978,412,Synthetic,True
+MOB_AHM_0073,Ahmedabad,Gujarat,City Metro Station 73,Metro Station,23.020755,72.582612,1196,Synthetic,True
+MOB_AHM_0074,Ahmedabad,Gujarat,Junction Railway Station 74,Railway Station,23.072105,72.667751,3889,Synthetic,True
+MOB_AHM_0075,Ahmedabad,Gujarat,Junction Metro Station 75,Metro Station,22.980713,72.506839,4666,Synthetic,True
+MOB_AHM_0076,Ahmedabad,Gujarat,East Public Transport Platform 76,Public Transport Platform,23.044233,72.583148,3820,Synthetic,True
+MOB_AHM_0077,Ahmedabad,Gujarat,North Railway Station 77,Railway Station,23.141134,72.47842,2579,Synthetic,True
+MOB_AHM_0078,Ahmedabad,Gujarat,South Bus Stop 78,Bus Stop,23.097563,72.698357,4331,Synthetic,True
+MOB_AHM_0079,Ahmedabad,Gujarat,Market Metro Station 79,Metro Station,22.950739,72.580496,1107,Synthetic,True
+MOB_AHM_0080,Ahmedabad,Gujarat,South Railway Station 80,Railway Station,23.089266,72.651495,2314,Synthetic,True
+MOB_AHM_0081,Ahmedabad,Gujarat,South Bus Stop 81,Bus Stop,22.981835,72.611676,1850,Synthetic,True
+MOB_AHM_0082,Ahmedabad,Gujarat,South Metro Station 82,Metro Station,22.956226,72.610706,4544,Synthetic,True
+MOB_AHM_0083,Ahmedabad,Gujarat,Junction Public Transport Platform 83,Public Transport Platform,22.983149,72.554998,3986,Synthetic,True
+MOB_AHM_0084,Ahmedabad,Gujarat,Market Railway Station 84,Railway Station,22.969731,72.695548,1626,Synthetic,True
+MOB_AHM_0085,Ahmedabad,Gujarat,South Bus Stop 85,Bus Stop,23.030571,72.660856,1800,Synthetic,True
+MOB_AHM_0086,Ahmedabad,Gujarat,North Bus Stop 86,Bus Stop,22.968455,72.652991,789,Synthetic,True
+MOB_AHM_0087,Ahmedabad,Gujarat,Main Road Public Transport Platform 87,Public Transport Platform,23.00898,72.48667,3175,Synthetic,True
+MOB_AHM_0088,Ahmedabad,Gujarat,North Railway Station 88,Railway Station,23.062625,72.55358,4545,Synthetic,True
+MOB_AHM_0089,Ahmedabad,Gujarat,South Bus Stop 89,Bus Stop,23.13557,72.508892,3819,Synthetic,True
+MOB_AHM_0090,Ahmedabad,Gujarat,Market Metro Station 90,Metro Station,23.080753,72.479762,4167,Synthetic,True
+MOB_AHM_0091,Ahmedabad,Gujarat,Main Road Bus Stop 91,Bus Stop,23.126781,72.507,4745,Synthetic,True
+MOB_AHM_0092,Ahmedabad,Gujarat,Central Bus Stop 92,Bus Stop,23.091686,72.649144,3559,Synthetic,True
+MOB_AHM_0093,Ahmedabad,Gujarat,Junction Railway Station 93,Railway Station,23.124584,72.628617,3720,Synthetic,True
+MOB_AHM_0094,Ahmedabad,Gujarat,Junction Bus Stop 94,Bus Stop,23.111984,72.696108,4808,Synthetic,True
+MOB_AHM_0095,Ahmedabad,Gujarat,Junction Railway Station 95,Railway Station,22.96412,72.647765,3496,Synthetic,True
+MOB_AHM_0096,Ahmedabad,Gujarat,North Public Transport Platform 96,Public Transport Platform,23.012775,72.598337,684,Synthetic,True
+MOB_AHM_0097,Ahmedabad,Gujarat,East Bus Stop 97,Bus Stop,23.099789,72.565692,593,Synthetic,True
+MOB_AHM_0098,Ahmedabad,Gujarat,City Railway Station 98,Railway Station,23.014081,72.600632,4619,Synthetic,True
+MOB_AHM_0099,Ahmedabad,Gujarat,North Railway Station 99,Railway Station,23.051986,72.602131,3249,Synthetic,True
+MOB_AHM_0100,Ahmedabad,Gujarat,South Metro Station 100,Metro Station,23.115355,72.502524,2209,Synthetic,True
+MOB_AHM_0101,Ahmedabad,Gujarat,South Public Transport Platform 101,Public Transport Platform,22.991073,72.455714,1324,Synthetic,True
+MOB_AHM_0102,Ahmedabad,Gujarat,East Bus Stop 102,Bus Stop,23.029719,72.487734,4913,Synthetic,True
+MOB_AHM_0103,Ahmedabad,Gujarat,City Public Transport Platform 103,Public Transport Platform,22.986081,72.683914,4986,Synthetic,True
+MOB_AHM_0104,Ahmedabad,Gujarat,North Bus Stop 104,Bus Stop,23.097646,72.586796,4529,Synthetic,True
+MOB_AHM_0105,Ahmedabad,Gujarat,Main Road Bus Stop 105,Bus Stop,23.13568,72.61176,4473,Synthetic,True
+MOB_AHM_0106,Ahmedabad,Gujarat,City Public Transport Platform 106,Public Transport Platform,23.052149,72.483454,267,Synthetic,True
+MOB_AHM_0107,Ahmedabad,Gujarat,Central Public Transport Platform 107,Public Transport Platform,23.133082,72.547006,4932,Synthetic,True
+MOB_AHM_0108,Ahmedabad,Gujarat,City Bus Stop 108,Bus Stop,22.959415,72.596534,1847,Synthetic,True
+MOB_AHM_0109,Ahmedabad,Gujarat,Main Road Public Transport Platform 109,Public Transport Platform,23.067896,72.485995,4582,Synthetic,True
+MOB_AHM_0110,Ahmedabad,Gujarat,Market Metro Station 110,Metro Station,23.00498,72.62661,3627,Synthetic,True
+MOB_AHM_0111,Ahmedabad,Gujarat,East Railway Station 111,Railway Station,23.134264,72.510653,2640,Synthetic,True
+MOB_AHM_0112,Ahmedabad,Gujarat,South Bus Stop 112,Bus Stop,23.048166,72.56506,3439,Synthetic,True
+MOB_AHM_0113,Ahmedabad,Gujarat,Market Metro Station 113,Metro Station,23.017664,72.622629,158,Synthetic,True
+MOB_AHM_0114,Ahmedabad,Gujarat,East Public Transport Platform 114,Public Transport Platform,22.997225,72.47539,1449,Synthetic,True
+MOB_AHM_0115,Ahmedabad,Gujarat,City Metro Station 115,Metro Station,23.014581,72.535066,399,Synthetic,True
+MOB_AHM_0116,Ahmedabad,Gujarat,East Railway Station 116,Railway Station,23.085224,72.458184,1090,Synthetic,True
+MOB_AHM_0117,Ahmedabad,Gujarat,East Bus Stop 117,Bus Stop,23.073573,72.618875,1873,Synthetic,True
+MOB_AHM_0118,Ahmedabad,Gujarat,Junction Railway Station 118,Railway Station,23.002682,72.527795,4220,Synthetic,True
+MOB_AHM_0119,Ahmedabad,Gujarat,City Metro Station 119,Metro Station,23.144372,72.527841,2577,Synthetic,True
+MOB_AHM_0120,Ahmedabad,Gujarat,Central Public Transport Platform 120,Public Transport Platform,23.08028,72.62539,1298,Synthetic,True
+MOB_AHM_0121,Ahmedabad,Gujarat,North Metro Station 121,Metro Station,23.120166,72.499613,4438,Synthetic,True
+MOB_AHM_0122,Ahmedabad,Gujarat,City Public Transport Platform 122,Public Transport Platform,23.01486,72.637513,4423,Synthetic,True
+MOB_AHM_0123,Ahmedabad,Gujarat,Central Bus Stop 123,Bus Stop,23.066556,72.559478,3739,Synthetic,True
+MOB_AHM_0124,Ahmedabad,Gujarat,Central Public Transport Platform 124,Public Transport Platform,23.124742,72.485531,2528,Synthetic,True
+MOB_AHM_0125,Ahmedabad,Gujarat,North Railway Station 125,Railway Station,23.03527,72.522981,3425,Synthetic,True
+MOB_AHM_0126,Ahmedabad,Gujarat,Junction Public Transport Platform 126,Public Transport Platform,22.954948,72.640321,1949,Synthetic,True
+MOB_AHM_0127,Ahmedabad,Gujarat,South Public Transport Platform 127,Public Transport Platform,23.140756,72.653601,593,Synthetic,True
+MOB_AHM_0128,Ahmedabad,Gujarat,Market Public Transport Platform 128,Public Transport Platform,23.137526,72.603289,3980,Synthetic,True
+MOB_AHM_0129,Ahmedabad,Gujarat,East Metro Station 129,Metro Station,23.051206,72.502078,1025,Synthetic,True
+MOB_AHM_0130,Ahmedabad,Gujarat,East Railway Station 130,Railway Station,23.02321,72.626605,1362,Synthetic,True
+MOB_AHM_0131,Ahmedabad,Gujarat,East Metro Station 131,Metro Station,22.996704,72.577261,4633,Synthetic,True
+MOB_AHM_0132,Ahmedabad,Gujarat,Central Metro Station 132,Metro Station,22.977341,72.657467,2765,Synthetic,True
+MOB_AHM_0133,Ahmedabad,Gujarat,Junction Railway Station 133,Railway Station,23.078507,72.698982,1907,Synthetic,True
+MOB_AHM_0134,Ahmedabad,Gujarat,Main Road Metro Station 134,Metro Station,23.010017,72.543979,3104,Synthetic,True
+MOB_AHM_0135,Ahmedabad,Gujarat,North Bus Stop 135,Bus Stop,23.075366,72.513572,2077,Synthetic,True
+MOB_AHM_0136,Ahmedabad,Gujarat,South Public Transport Platform 136,Public Transport Platform,22.954793,72.566641,1748,Synthetic,True
+MOB_AHM_0137,Ahmedabad,Gujarat,Junction Railway Station 137,Railway Station,23.108942,72.66164,2135,Synthetic,True
+MOB_AHM_0138,Ahmedabad,Gujarat,Main Road Public Transport Platform 138,Public Transport Platform,23.095431,72.536344,4738,Synthetic,True
+MOB_AHM_0139,Ahmedabad,Gujarat,Junction Railway Station 139,Railway Station,23.08006,72.680395,4039,Synthetic,True
+MOB_AHM_0140,Ahmedabad,Gujarat,City Railway Station 140,Railway Station,23.034939,72.560488,2808,Synthetic,True
+MOB_AHM_0141,Ahmedabad,Gujarat,Main Road Bus Stop 141,Bus Stop,23.129512,72.469231,820,Synthetic,True
+MOB_AHM_0142,Ahmedabad,Gujarat,City Public Transport Platform 142,Public Transport Platform,23.079106,72.685698,860,Synthetic,True
+MOB_AHM_0143,Ahmedabad,Gujarat,Junction Metro Station 143,Metro Station,23.117555,72.616912,3217,Synthetic,True
+MOB_AHM_0144,Ahmedabad,Gujarat,Junction Bus Stop 144,Bus Stop,23.11346,72.500849,4038,Synthetic,True
+MOB_AHM_0145,Ahmedabad,Gujarat,Junction Public Transport Platform 145,Public Transport Platform,22.955166,72.699056,4895,Synthetic,True
+MOB_AHM_0146,Ahmedabad,Gujarat,South Metro Station 146,Metro Station,23.007723,72.60923,2027,Synthetic,True
+MOB_AHM_0147,Ahmedabad,Gujarat,Central Metro Station 147,Metro Station,23.112382,72.556188,2899,Synthetic,True
+MOB_AHM_0148,Ahmedabad,Gujarat,South Bus Stop 148,Bus Stop,23.091416,72.496791,4619,Synthetic,True
+MOB_AHM_0149,Ahmedabad,Gujarat,South Metro Station 149,Metro Station,23.025422,72.56492,4963,Synthetic,True
+MOB_AHM_0150,Ahmedabad,Gujarat,South Public Transport Platform 150,Public Transport Platform,23.032773,72.688137,62,Synthetic,True
+MOB_JAI_0001,Jaipur,Rajasthan,North Metro Station 1,Metro Station,26.986651,75.974581,2326,Synthetic,True
+MOB_JAI_0002,Jaipur,Rajasthan,Central Metro Station 2,Metro Station,26.833607,75.954709,1098,Synthetic,True
+MOB_JAI_0003,Jaipur,Rajasthan,Market Metro Station 3,Metro Station,26.867166,75.876515,374,Synthetic,True
+MOB_JAI_0004,Jaipur,Rajasthan,Market Bus Stop 4,Bus Stop,26.9813,75.991585,4586,Synthetic,True
+MOB_JAI_0005,Jaipur,Rajasthan,South Metro Station 5,Metro Station,26.922056,75.885159,182,Synthetic,True
+MOB_JAI_0006,Jaipur,Rajasthan,East Bus Stop 6,Bus Stop,27.016061,75.88428,2732,Synthetic,True
+MOB_JAI_0007,Jaipur,Rajasthan,Junction Metro Station 7,Metro Station,26.86902,75.821082,2297,Synthetic,True
+MOB_JAI_0008,Jaipur,Rajasthan,Central Railway Station 8,Railway Station,26.954195,75.763387,2920,Synthetic,True
+MOB_JAI_0009,Jaipur,Rajasthan,East Bus Stop 9,Bus Stop,26.876011,75.818636,3003,Synthetic,True
+MOB_JAI_0010,Jaipur,Rajasthan,Junction Public Transport Platform 10,Public Transport Platform,26.835028,75.942701,480,Synthetic,True
+MOB_JAI_0011,Jaipur,Rajasthan,South Bus Stop 11,Bus Stop,26.861583,75.925482,3159,Synthetic,True
+MOB_JAI_0012,Jaipur,Rajasthan,City Metro Station 12,Metro Station,26.941903,75.934688,2972,Synthetic,True
+MOB_JAI_0013,Jaipur,Rajasthan,North Public Transport Platform 13,Public Transport Platform,26.889004,75.92738,1546,Synthetic,True
+MOB_JAI_0014,Jaipur,Rajasthan,East Public Transport Platform 14,Public Transport Platform,26.893907,75.96424,809,Synthetic,True
+MOB_JAI_0015,Jaipur,Rajasthan,Central Railway Station 15,Railway Station,26.806581,75.978188,4535,Synthetic,True
+MOB_JAI_0016,Jaipur,Rajasthan,Central Railway Station 16,Railway Station,27.043201,75.922885,2790,Synthetic,True
+MOB_JAI_0017,Jaipur,Rajasthan,City Railway Station 17,Railway Station,26.982152,75.993631,2270,Synthetic,True
+MOB_JAI_0018,Jaipur,Rajasthan,Junction Railway Station 18,Railway Station,27.018751,75.819799,1202,Synthetic,True
+MOB_JAI_0019,Jaipur,Rajasthan,Market Metro Station 19,Metro Station,26.943166,75.790207,2025,Synthetic,True
+MOB_JAI_0020,Jaipur,Rajasthan,City Metro Station 20,Metro Station,26.863173,75.808359,3146,Synthetic,True
+MOB_JAI_0021,Jaipur,Rajasthan,North Bus Stop 21,Bus Stop,26.971659,75.787723,1671,Synthetic,True
+MOB_JAI_0022,Jaipur,Rajasthan,North Metro Station 22,Metro Station,26.823199,75.778214,4869,Synthetic,True
+MOB_JAI_0023,Jaipur,Rajasthan,East Public Transport Platform 23,Public Transport Platform,26.947411,75.795045,570,Synthetic,True
+MOB_JAI_0024,Jaipur,Rajasthan,Central Metro Station 24,Metro Station,26.872378,75.874949,2388,Synthetic,True
+MOB_JAI_0025,Jaipur,Rajasthan,East Metro Station 25,Metro Station,26.923887,75.830634,826,Synthetic,True
+MOB_JAI_0026,Jaipur,Rajasthan,Central Metro Station 26,Metro Station,26.974591,75.941317,4162,Synthetic,True
+MOB_JAI_0027,Jaipur,Rajasthan,Central Bus Stop 27,Bus Stop,26.824976,75.909013,3985,Synthetic,True
+MOB_JAI_0028,Jaipur,Rajasthan,City Metro Station 28,Metro Station,26.878005,75.874689,2708,Synthetic,True
+MOB_JAI_0029,Jaipur,Rajasthan,City Bus Stop 29,Bus Stop,26.862543,75.82994,4431,Synthetic,True
+MOB_JAI_0030,Jaipur,Rajasthan,Main Road Public Transport Platform 30,Public Transport Platform,26.957827,75.983587,171,Synthetic,True
+MOB_JAI_0031,Jaipur,Rajasthan,City Public Transport Platform 31,Public Transport Platform,26.937198,75.729195,3370,Synthetic,True
+MOB_JAI_0032,Jaipur,Rajasthan,South Railway Station 32,Railway Station,26.875298,75.799201,3770,Synthetic,True
+MOB_JAI_0033,Jaipur,Rajasthan,South Bus Stop 33,Bus Stop,26.960579,75.895509,68,Synthetic,True
+MOB_JAI_0034,Jaipur,Rajasthan,South Metro Station 34,Metro Station,27.005492,75.896964,2052,Synthetic,True
+MOB_JAI_0035,Jaipur,Rajasthan,North Bus Stop 35,Bus Stop,27.035516,75.753762,1657,Synthetic,True
+MOB_JAI_0036,Jaipur,Rajasthan,South Bus Stop 36,Bus Stop,26.80831,75.755406,494,Synthetic,True
+MOB_JAI_0037,Jaipur,Rajasthan,South Metro Station 37,Metro Station,27.01857,75.993042,2795,Synthetic,True
+MOB_JAI_0038,Jaipur,Rajasthan,North Bus Stop 38,Bus Stop,27.028878,75.741432,2411,Synthetic,True
+MOB_JAI_0039,Jaipur,Rajasthan,City Bus Stop 39,Bus Stop,26.872319,75.746021,3357,Synthetic,True
+MOB_JAI_0040,Jaipur,Rajasthan,East Public Transport Platform 40,Public Transport Platform,26.809167,75.794511,2147,Synthetic,True
+MOB_JAI_0041,Jaipur,Rajasthan,Main Road Railway Station 41,Railway Station,26.804773,75.994931,3341,Synthetic,True
+MOB_JAI_0042,Jaipur,Rajasthan,Market Public Transport Platform 42,Public Transport Platform,26.851452,75.922057,1202,Synthetic,True
+MOB_JAI_0043,Jaipur,Rajasthan,Main Road Metro Station 43,Metro Station,27.01322,75.783363,308,Synthetic,True
+MOB_JAI_0044,Jaipur,Rajasthan,Market Railway Station 44,Railway Station,27.017265,75.876132,1558,Synthetic,True
+MOB_JAI_0045,Jaipur,Rajasthan,Central Metro Station 45,Metro Station,26.89311,75.741951,275,Synthetic,True
+MOB_JAI_0046,Jaipur,Rajasthan,Central Bus Stop 46,Bus Stop,27.012584,75.734162,1751,Synthetic,True
+MOB_JAI_0047,Jaipur,Rajasthan,Junction Railway Station 47,Railway Station,26.852269,75.872763,1626,Synthetic,True
+MOB_JAI_0048,Jaipur,Rajasthan,Main Road Metro Station 48,Metro Station,26.890904,75.855107,1006,Synthetic,True
+MOB_JAI_0049,Jaipur,Rajasthan,Main Road Metro Station 49,Metro Station,26.860814,75.879311,2798,Synthetic,True
+MOB_JAI_0050,Jaipur,Rajasthan,Junction Public Transport Platform 50,Public Transport Platform,26.883314,75.764974,1571,Synthetic,True
+MOB_JAI_0051,Jaipur,Rajasthan,Junction Public Transport Platform 51,Public Transport Platform,26.993129,75.789385,3676,Synthetic,True
+MOB_JAI_0052,Jaipur,Rajasthan,Central Public Transport Platform 52,Public Transport Platform,26.843316,75.875095,3572,Synthetic,True
+MOB_JAI_0053,Jaipur,Rajasthan,Market Public Transport Platform 53,Public Transport Platform,26.866906,75.923627,4828,Synthetic,True
+MOB_JAI_0054,Jaipur,Rajasthan,Market Railway Station 54,Railway Station,26.909316,75.836145,3929,Synthetic,True
+MOB_JAI_0055,Jaipur,Rajasthan,Junction Metro Station 55,Metro Station,26.965468,75.865044,3003,Synthetic,True
+MOB_JAI_0056,Jaipur,Rajasthan,East Metro Station 56,Metro Station,27.007594,75.806863,804,Synthetic,True
+MOB_JAI_0057,Jaipur,Rajasthan,Main Road Railway Station 57,Railway Station,27.04932,75.994551,3361,Synthetic,True
+MOB_JAI_0058,Jaipur,Rajasthan,North Railway Station 58,Railway Station,26.94068,75.719901,4047,Synthetic,True
+MOB_JAI_0059,Jaipur,Rajasthan,Main Road Public Transport Platform 59,Public Transport Platform,26.892433,75.773886,4235,Synthetic,True
+MOB_JAI_0060,Jaipur,Rajasthan,South Bus Stop 60,Bus Stop,26.904122,75.731568,3922,Synthetic,True
+MOB_JAI_0061,Jaipur,Rajasthan,Market Railway Station 61,Railway Station,26.862303,75.954699,3088,Synthetic,True
+MOB_JAI_0062,Jaipur,Rajasthan,Junction Metro Station 62,Metro Station,27.019539,75.933236,2268,Synthetic,True
+MOB_JAI_0063,Jaipur,Rajasthan,South Public Transport Platform 63,Public Transport Platform,26.97992,75.900077,2819,Synthetic,True
+MOB_JAI_0064,Jaipur,Rajasthan,South Metro Station 64,Metro Station,26.83182,75.890137,4773,Synthetic,True
+MOB_JAI_0065,Jaipur,Rajasthan,Market Railway Station 65,Railway Station,26.838524,75.760764,3230,Synthetic,True
+MOB_JAI_0066,Jaipur,Rajasthan,Main Road Public Transport Platform 66,Public Transport Platform,26.874453,75.801626,720,Synthetic,True
+MOB_JAI_0067,Jaipur,Rajasthan,East Metro Station 67,Metro Station,27.015853,75.909353,3477,Synthetic,True
+MOB_JAI_0068,Jaipur,Rajasthan,Market Metro Station 68,Metro Station,26.880995,75.763751,2397,Synthetic,True
+MOB_JAI_0069,Jaipur,Rajasthan,North Public Transport Platform 69,Public Transport Platform,26.925053,75.82875,4782,Synthetic,True
+MOB_JAI_0070,Jaipur,Rajasthan,South Bus Stop 70,Bus Stop,26.996198,75.817989,4460,Synthetic,True
+MOB_JAI_0071,Jaipur,Rajasthan,Junction Metro Station 71,Metro Station,26.941377,75.877071,1986,Synthetic,True
+MOB_JAI_0072,Jaipur,Rajasthan,South Bus Stop 72,Bus Stop,26.824045,75.958133,4146,Synthetic,True
+MOB_JAI_0073,Jaipur,Rajasthan,City Bus Stop 73,Bus Stop,26.898413,75.934483,1661,Synthetic,True
+MOB_JAI_0074,Jaipur,Rajasthan,City Public Transport Platform 74,Public Transport Platform,26.807307,75.706936,1755,Synthetic,True
+MOB_JAI_0075,Jaipur,Rajasthan,Main Road Public Transport Platform 75,Public Transport Platform,26.894885,75.841459,1410,Synthetic,True
+MOB_JAI_0076,Jaipur,Rajasthan,City Bus Stop 76,Bus Stop,26.868467,75.884063,3998,Synthetic,True
+MOB_JAI_0077,Jaipur,Rajasthan,Main Road Bus Stop 77,Bus Stop,26.896649,75.78253,1753,Synthetic,True
+MOB_JAI_0078,Jaipur,Rajasthan,Main Road Bus Stop 78,Bus Stop,27.044803,75.993714,3312,Synthetic,True
+MOB_JAI_0079,Jaipur,Rajasthan,Junction Metro Station 79,Metro Station,26.995749,75.832606,1556,Synthetic,True
+MOB_JAI_0080,Jaipur,Rajasthan,Junction Railway Station 80,Railway Station,27.009582,75.9246,1397,Synthetic,True
+MOB_JAI_0081,Jaipur,Rajasthan,Junction Public Transport Platform 81,Public Transport Platform,26.886118,75.821638,1616,Synthetic,True
+MOB_JAI_0082,Jaipur,Rajasthan,East Bus Stop 82,Bus Stop,26.834674,75.979224,4872,Synthetic,True
+MOB_JAI_0083,Jaipur,Rajasthan,Central Railway Station 83,Railway Station,26.853808,75.946198,2198,Synthetic,True
+MOB_JAI_0084,Jaipur,Rajasthan,City Bus Stop 84,Bus Stop,26.845381,75.824083,3189,Synthetic,True
+MOB_JAI_0085,Jaipur,Rajasthan,East Railway Station 85,Railway Station,26.822108,75.822999,259,Synthetic,True
+MOB_JAI_0086,Jaipur,Rajasthan,Market Public Transport Platform 86,Public Transport Platform,26.854613,75.766202,958,Synthetic,True
+MOB_JAI_0087,Jaipur,Rajasthan,City Bus Stop 87,Bus Stop,27.038983,75.732231,2916,Synthetic,True
+MOB_JAI_0088,Jaipur,Rajasthan,City Bus Stop 88,Bus Stop,26.900338,75.915525,4700,Synthetic,True
+MOB_JAI_0089,Jaipur,Rajasthan,Central Railway Station 89,Railway Station,26.990355,75.724391,1904,Synthetic,True
+MOB_JAI_0090,Jaipur,Rajasthan,Junction Metro Station 90,Metro Station,27.043016,75.764633,3484,Synthetic,True
+MOB_JAI_0091,Jaipur,Rajasthan,Market Public Transport Platform 91,Public Transport Platform,27.039249,75.78209,872,Synthetic,True
+MOB_JAI_0092,Jaipur,Rajasthan,Central Railway Station 92,Railway Station,27.006381,75.863649,2223,Synthetic,True
+MOB_JAI_0093,Jaipur,Rajasthan,Central Bus Stop 93,Bus Stop,27.038753,75.959493,4093,Synthetic,True
+MOB_JAI_0094,Jaipur,Rajasthan,Central Metro Station 94,Metro Station,26.818478,75.775314,4509,Synthetic,True
+MOB_JAI_0095,Jaipur,Rajasthan,City Bus Stop 95,Bus Stop,26.900114,75.992596,4787,Synthetic,True
+MOB_JAI_0096,Jaipur,Rajasthan,Central Bus Stop 96,Bus Stop,26.81189,75.793465,1373,Synthetic,True
+MOB_JAI_0097,Jaipur,Rajasthan,Main Road Bus Stop 97,Bus Stop,26.932409,75.949238,3467,Synthetic,True
+MOB_JAI_0098,Jaipur,Rajasthan,City Public Transport Platform 98,Public Transport Platform,26.90105,75.863287,320,Synthetic,True
+MOB_JAI_0099,Jaipur,Rajasthan,Central Bus Stop 99,Bus Stop,26.861612,75.743314,1693,Synthetic,True
+MOB_JAI_0100,Jaipur,Rajasthan,North Railway Station 100,Railway Station,26.875591,75.77834,1327,Synthetic,True
+MOB_JAI_0101,Jaipur,Rajasthan,Market Bus Stop 101,Bus Stop,26.879813,75.722406,552,Synthetic,True
+MOB_JAI_0102,Jaipur,Rajasthan,City Public Transport Platform 102,Public Transport Platform,26.921416,75.981763,4897,Synthetic,True
+MOB_JAI_0103,Jaipur,Rajasthan,Market Bus Stop 103,Bus Stop,27.030195,75.814647,704,Synthetic,True
+MOB_JAI_0104,Jaipur,Rajasthan,East Railway Station 104,Railway Station,26.824721,75.910567,757,Synthetic,True
+MOB_JAI_0105,Jaipur,Rajasthan,City Public Transport Platform 105,Public Transport Platform,26.85082,75.740569,850,Synthetic,True
+MOB_JAI_0106,Jaipur,Rajasthan,Central Railway Station 106,Railway Station,27.04909,75.791037,3850,Synthetic,True
+MOB_JAI_0107,Jaipur,Rajasthan,Main Road Bus Stop 107,Bus Stop,27.042662,75.856226,773,Synthetic,True
+MOB_JAI_0108,Jaipur,Rajasthan,City Railway Station 108,Railway Station,26.829808,75.952115,3813,Synthetic,True
+MOB_JAI_0109,Jaipur,Rajasthan,North Railway Station 109,Railway Station,26.834179,75.845374,665,Synthetic,True
+MOB_JAI_0110,Jaipur,Rajasthan,South Metro Station 110,Metro Station,26.919109,75.853023,4071,Synthetic,True
+MOB_JAI_0111,Jaipur,Rajasthan,Junction Public Transport Platform 111,Public Transport Platform,27.015047,75.756257,637,Synthetic,True
+MOB_JAI_0112,Jaipur,Rajasthan,City Metro Station 112,Metro Station,26.809377,75.891146,2521,Synthetic,True
+MOB_JAI_0113,Jaipur,Rajasthan,South Bus Stop 113,Bus Stop,26.830529,75.873279,2395,Synthetic,True
+MOB_JAI_0114,Jaipur,Rajasthan,Market Metro Station 114,Metro Station,26.960354,75.735691,2376,Synthetic,True
+MOB_JAI_0115,Jaipur,Rajasthan,City Bus Stop 115,Bus Stop,26.977497,75.72472,2798,Synthetic,True
+MOB_JAI_0116,Jaipur,Rajasthan,North Metro Station 116,Metro Station,26.81285,75.879044,3599,Synthetic,True
+MOB_JAI_0117,Jaipur,Rajasthan,South Metro Station 117,Metro Station,26.816607,75.86436,2871,Synthetic,True
+MOB_JAI_0118,Jaipur,Rajasthan,Main Road Railway Station 118,Railway Station,27.049585,75.75265,4120,Synthetic,True
+MOB_JAI_0119,Jaipur,Rajasthan,City Railway Station 119,Railway Station,26.800504,75.889899,2368,Synthetic,True
+MOB_JAI_0120,Jaipur,Rajasthan,City Public Transport Platform 120,Public Transport Platform,27.033559,75.839963,4496,Synthetic,True
+MOB_JAI_0121,Jaipur,Rajasthan,North Railway Station 121,Railway Station,26.90648,75.881353,4200,Synthetic,True
+MOB_JAI_0122,Jaipur,Rajasthan,Central Metro Station 122,Metro Station,26.807656,75.73179,2841,Synthetic,True
+MOB_JAI_0123,Jaipur,Rajasthan,East Public Transport Platform 123,Public Transport Platform,26.886967,75.899022,3342,Synthetic,True
+MOB_JAI_0124,Jaipur,Rajasthan,North Metro Station 124,Metro Station,26.891015,75.85146,1243,Synthetic,True
+MOB_JAI_0125,Jaipur,Rajasthan,East Metro Station 125,Metro Station,26.959538,75.725927,1328,Synthetic,True
+MOB_JAI_0126,Jaipur,Rajasthan,South Public Transport Platform 126,Public Transport Platform,26.833317,75.896023,3368,Synthetic,True
+MOB_JAI_0127,Jaipur,Rajasthan,Central Railway Station 127,Railway Station,26.864748,75.962189,3952,Synthetic,True
+MOB_JAI_0128,Jaipur,Rajasthan,Central Bus Stop 128,Bus Stop,26.820751,75.957706,2298,Synthetic,True
+MOB_JAI_0129,Jaipur,Rajasthan,Market Bus Stop 129,Bus Stop,26.801273,75.945524,4221,Synthetic,True
+MOB_JAI_0130,Jaipur,Rajasthan,Main Road Public Transport Platform 130,Public Transport Platform,26.865169,75.936236,4243,Synthetic,True
+MOB_JAI_0131,Jaipur,Rajasthan,City Public Transport Platform 131,Public Transport Platform,27.019237,75.701029,3423,Synthetic,True
+MOB_JAI_0132,Jaipur,Rajasthan,Central Public Transport Platform 132,Public Transport Platform,26.968079,75.996483,871,Synthetic,True
+MOB_JAI_0133,Jaipur,Rajasthan,Main Road Public Transport Platform 133,Public Transport Platform,26.934075,75.702312,3389,Synthetic,True
+MOB_JAI_0134,Jaipur,Rajasthan,Market Metro Station 134,Metro Station,26.925376,75.733396,2926,Synthetic,True
+MOB_JAI_0135,Jaipur,Rajasthan,Main Road Metro Station 135,Metro Station,26.857342,75.865664,1532,Synthetic,True
+MOB_JAI_0136,Jaipur,Rajasthan,Main Road Metro Station 136,Metro Station,26.870977,75.860815,3908,Synthetic,True
+MOB_JAI_0137,Jaipur,Rajasthan,Main Road Railway Station 137,Railway Station,26.931502,75.807375,4891,Synthetic,True
+MOB_JAI_0138,Jaipur,Rajasthan,Central Railway Station 138,Railway Station,26.800322,75.727681,4590,Synthetic,True
+MOB_JAI_0139,Jaipur,Rajasthan,East Railway Station 139,Railway Station,26.951335,75.734747,3105,Synthetic,True
+MOB_JAI_0140,Jaipur,Rajasthan,City Bus Stop 140,Bus Stop,27.034003,75.804109,293,Synthetic,True
+MOB_JAI_0141,Jaipur,Rajasthan,Market Railway Station 141,Railway Station,26.879671,75.933931,3679,Synthetic,True
+MOB_JAI_0142,Jaipur,Rajasthan,Main Road Metro Station 142,Metro Station,26.991536,75.859184,1125,Synthetic,True
+MOB_JAI_0143,Jaipur,Rajasthan,South Bus Stop 143,Bus Stop,26.872317,75.891867,2994,Synthetic,True
+MOB_JAI_0144,Jaipur,Rajasthan,Central Public Transport Platform 144,Public Transport Platform,26.949699,75.839308,2018,Synthetic,True
+MOB_JAI_0145,Jaipur,Rajasthan,Main Road Bus Stop 145,Bus Stop,27.031659,75.705158,646,Synthetic,True
+MOB_JAI_0146,Jaipur,Rajasthan,Junction Bus Stop 146,Bus Stop,26.825582,75.78631,2748,Synthetic,True
+MOB_JAI_0147,Jaipur,Rajasthan,Junction Metro Station 147,Metro Station,26.8193,75.799875,1084,Synthetic,True
+MOB_JAI_0148,Jaipur,Rajasthan,Junction Bus Stop 148,Bus Stop,26.871978,75.866701,3770,Synthetic,True
+MOB_JAI_0149,Jaipur,Rajasthan,Main Road Railway Station 149,Railway Station,26.937651,75.752586,4227,Synthetic,True
+MOB_JAI_0150,Jaipur,Rajasthan,Central Metro Station 150,Metro Station,26.896381,75.926803,4127,Synthetic,True
+MOB_LUC_0001,Lucknow,Uttar Pradesh,Market Bus Stop 1,Bus Stop,26.866165,80.996296,995,Synthetic,True
+MOB_LUC_0002,Lucknow,Uttar Pradesh,City Metro Station 2,Metro Station,26.80548,81.015163,3692,Synthetic,True
+MOB_LUC_0003,Lucknow,Uttar Pradesh,Market Railway Station 3,Railway Station,26.955505,80.950624,4766,Synthetic,True
+MOB_LUC_0004,Lucknow,Uttar Pradesh,North Bus Stop 4,Bus Stop,26.95358,80.988137,2871,Synthetic,True
+MOB_LUC_0005,Lucknow,Uttar Pradesh,North Public Transport Platform 5,Public Transport Platform,26.898089,80.926515,220,Synthetic,True
+MOB_LUC_0006,Lucknow,Uttar Pradesh,Main Road Railway Station 6,Railway Station,26.893978,81.034143,3483,Synthetic,True
+MOB_LUC_0007,Lucknow,Uttar Pradesh,Central Public Transport Platform 7,Public Transport Platform,26.922368,80.939822,1305,Synthetic,True
+MOB_LUC_0008,Lucknow,Uttar Pradesh,Central Public Transport Platform 8,Public Transport Platform,26.844316,81.031972,3232,Synthetic,True
+MOB_LUC_0009,Lucknow,Uttar Pradesh,South Railway Station 9,Railway Station,26.864924,80.908382,2289,Synthetic,True
+MOB_LUC_0010,Lucknow,Uttar Pradesh,East Railway Station 10,Railway Station,26.97342,80.870749,2657,Synthetic,True
+MOB_LUC_0011,Lucknow,Uttar Pradesh,East Metro Station 11,Metro Station,26.853594,81.081611,3476,Synthetic,True
+MOB_LUC_0012,Lucknow,Uttar Pradesh,Junction Bus Stop 12,Bus Stop,26.896936,80.987959,1196,Synthetic,True
+MOB_LUC_0013,Lucknow,Uttar Pradesh,Market Railway Station 13,Railway Station,26.908755,80.978007,1642,Synthetic,True
+MOB_LUC_0014,Lucknow,Uttar Pradesh,South Public Transport Platform 14,Public Transport Platform,26.903991,80.890182,3308,Synthetic,True
+MOB_LUC_0015,Lucknow,Uttar Pradesh,Junction Railway Station 15,Railway Station,26.825323,81.043468,4136,Synthetic,True
+MOB_LUC_0016,Lucknow,Uttar Pradesh,North Metro Station 16,Metro Station,26.950677,81.052898,4404,Synthetic,True
+MOB_LUC_0017,Lucknow,Uttar Pradesh,Main Road Railway Station 17,Railway Station,26.810097,80.88521,2102,Synthetic,True
+MOB_LUC_0018,Lucknow,Uttar Pradesh,Market Metro Station 18,Metro Station,26.82537,80.851192,311,Synthetic,True
+MOB_LUC_0019,Lucknow,Uttar Pradesh,City Railway Station 19,Railway Station,26.863592,80.881505,956,Synthetic,True
+MOB_LUC_0020,Lucknow,Uttar Pradesh,North Railway Station 20,Railway Station,26.81165,81.068276,4968,Synthetic,True
+MOB_LUC_0021,Lucknow,Uttar Pradesh,North Bus Stop 21,Bus Stop,26.883644,80.928831,2358,Synthetic,True
+MOB_LUC_0022,Lucknow,Uttar Pradesh,South Bus Stop 22,Bus Stop,26.793529,80.974747,3153,Synthetic,True
+MOB_LUC_0023,Lucknow,Uttar Pradesh,Main Road Bus Stop 23,Bus Stop,26.819388,80.942231,553,Synthetic,True
+MOB_LUC_0024,Lucknow,Uttar Pradesh,Market Metro Station 24,Metro Station,26.805406,80.8861,2818,Synthetic,True
+MOB_LUC_0025,Lucknow,Uttar Pradesh,North Railway Station 25,Railway Station,26.795321,80.90556,726,Synthetic,True
+MOB_LUC_0026,Lucknow,Uttar Pradesh,Main Road Railway Station 26,Railway Station,26.88134,80.90659,2339,Synthetic,True
+MOB_LUC_0027,Lucknow,Uttar Pradesh,Main Road Bus Stop 27,Bus Stop,26.901275,80.948077,4965,Synthetic,True
+MOB_LUC_0028,Lucknow,Uttar Pradesh,East Bus Stop 28,Bus Stop,26.789483,80.971343,1335,Synthetic,True
+MOB_LUC_0029,Lucknow,Uttar Pradesh,Main Road Metro Station 29,Metro Station,26.756611,80.871753,3851,Synthetic,True
+MOB_LUC_0030,Lucknow,Uttar Pradesh,City Metro Station 30,Metro Station,26.839796,80.910184,1492,Synthetic,True
+MOB_LUC_0031,Lucknow,Uttar Pradesh,South Public Transport Platform 31,Public Transport Platform,26.901031,80.96871,90,Synthetic,True
+MOB_LUC_0032,Lucknow,Uttar Pradesh,Market Public Transport Platform 32,Public Transport Platform,26.996551,81.054852,320,Synthetic,True
+MOB_LUC_0033,Lucknow,Uttar Pradesh,City Metro Station 33,Metro Station,26.95975,80.996592,4146,Synthetic,True
+MOB_LUC_0034,Lucknow,Uttar Pradesh,Junction Bus Stop 34,Bus Stop,26.88291,81.084405,2985,Synthetic,True
+MOB_LUC_0035,Lucknow,Uttar Pradesh,Main Road Bus Stop 35,Bus Stop,26.787806,80.954497,4842,Synthetic,True
+MOB_LUC_0036,Lucknow,Uttar Pradesh,City Bus Stop 36,Bus Stop,26.894114,81.010747,1783,Synthetic,True
+MOB_LUC_0037,Lucknow,Uttar Pradesh,Market Railway Station 37,Railway Station,26.872352,80.971803,4995,Synthetic,True
+MOB_LUC_0038,Lucknow,Uttar Pradesh,Central Bus Stop 38,Bus Stop,26.764534,80.85542,4815,Synthetic,True
+MOB_LUC_0039,Lucknow,Uttar Pradesh,South Railway Station 39,Railway Station,26.774863,80.886556,2839,Synthetic,True
+MOB_LUC_0040,Lucknow,Uttar Pradesh,Junction Public Transport Platform 40,Public Transport Platform,26.925003,80.865998,3068,Synthetic,True
+MOB_LUC_0041,Lucknow,Uttar Pradesh,Junction Railway Station 41,Railway Station,26.750614,80.962374,1218,Synthetic,True
+MOB_LUC_0042,Lucknow,Uttar Pradesh,Central Metro Station 42,Metro Station,26.821414,81.044909,1829,Synthetic,True
+MOB_LUC_0043,Lucknow,Uttar Pradesh,Market Metro Station 43,Metro Station,26.770711,80.946268,3889,Synthetic,True
+MOB_LUC_0044,Lucknow,Uttar Pradesh,City Public Transport Platform 44,Public Transport Platform,26.821216,80.944211,3663,Synthetic,True
+MOB_LUC_0045,Lucknow,Uttar Pradesh,Market Railway Station 45,Railway Station,26.860984,81.045593,1018,Synthetic,True
+MOB_LUC_0046,Lucknow,Uttar Pradesh,North Railway Station 46,Railway Station,26.798953,81.00357,905,Synthetic,True
+MOB_LUC_0047,Lucknow,Uttar Pradesh,East Bus Stop 47,Bus Stop,26.993509,80.956977,3496,Synthetic,True
+MOB_LUC_0048,Lucknow,Uttar Pradesh,North Public Transport Platform 48,Public Transport Platform,26.764603,80.894199,3907,Synthetic,True
+MOB_LUC_0049,Lucknow,Uttar Pradesh,City Public Transport Platform 49,Public Transport Platform,26.781255,81.045938,1361,Synthetic,True
+MOB_LUC_0050,Lucknow,Uttar Pradesh,North Bus Stop 50,Bus Stop,26.869198,80.863736,657,Synthetic,True
+MOB_LUC_0051,Lucknow,Uttar Pradesh,Main Road Bus Stop 51,Bus Stop,26.783011,80.867312,982,Synthetic,True
+MOB_LUC_0052,Lucknow,Uttar Pradesh,East Public Transport Platform 52,Public Transport Platform,26.906516,81.019938,3669,Synthetic,True
+MOB_LUC_0053,Lucknow,Uttar Pradesh,South Bus Stop 53,Bus Stop,26.9073,80.969456,3552,Synthetic,True
+MOB_LUC_0054,Lucknow,Uttar Pradesh,North Metro Station 54,Metro Station,26.811519,80.887792,4033,Synthetic,True
+MOB_LUC_0055,Lucknow,Uttar Pradesh,North Bus Stop 55,Bus Stop,26.896443,80.867903,1180,Synthetic,True
+MOB_LUC_0056,Lucknow,Uttar Pradesh,Junction Public Transport Platform 56,Public Transport Platform,26.91178,80.941909,1857,Synthetic,True
+MOB_LUC_0057,Lucknow,Uttar Pradesh,City Public Transport Platform 57,Public Transport Platform,26.770782,81.061451,2602,Synthetic,True
+MOB_LUC_0058,Lucknow,Uttar Pradesh,Central Metro Station 58,Metro Station,26.760011,81.08474,2055,Synthetic,True
+MOB_LUC_0059,Lucknow,Uttar Pradesh,North Public Transport Platform 59,Public Transport Platform,26.943227,80.911415,4456,Synthetic,True
+MOB_LUC_0060,Lucknow,Uttar Pradesh,Market Metro Station 60,Metro Station,26.92576,80.868287,1223,Synthetic,True
+MOB_LUC_0061,Lucknow,Uttar Pradesh,South Railway Station 61,Railway Station,26.836145,81.014676,4164,Synthetic,True
+MOB_LUC_0062,Lucknow,Uttar Pradesh,South Public Transport Platform 62,Public Transport Platform,26.903151,80.881702,3971,Synthetic,True
+MOB_LUC_0063,Lucknow,Uttar Pradesh,City Railway Station 63,Railway Station,26.872722,80.988436,4120,Synthetic,True
+MOB_LUC_0064,Lucknow,Uttar Pradesh,North Public Transport Platform 64,Public Transport Platform,26.892531,81.070596,2842,Synthetic,True
+MOB_LUC_0065,Lucknow,Uttar Pradesh,Main Road Metro Station 65,Metro Station,26.760311,80.87459,2301,Synthetic,True
+MOB_LUC_0066,Lucknow,Uttar Pradesh,South Bus Stop 66,Bus Stop,26.950957,80.890917,3555,Synthetic,True
+MOB_LUC_0067,Lucknow,Uttar Pradesh,Junction Public Transport Platform 67,Public Transport Platform,26.795997,80.961279,1854,Synthetic,True
+MOB_LUC_0068,Lucknow,Uttar Pradesh,City Railway Station 68,Railway Station,26.951371,80.971963,2340,Synthetic,True
+MOB_LUC_0069,Lucknow,Uttar Pradesh,North Railway Station 69,Railway Station,26.805152,81.05195,2089,Synthetic,True
+MOB_LUC_0070,Lucknow,Uttar Pradesh,North Public Transport Platform 70,Public Transport Platform,26.91816,80.928504,3211,Synthetic,True
+MOB_LUC_0071,Lucknow,Uttar Pradesh,South Public Transport Platform 71,Public Transport Platform,26.815044,80.960322,2454,Synthetic,True
+MOB_LUC_0072,Lucknow,Uttar Pradesh,Main Road Public Transport Platform 72,Public Transport Platform,26.791172,81.053536,4782,Synthetic,True
+MOB_LUC_0073,Lucknow,Uttar Pradesh,North Railway Station 73,Railway Station,26.957615,80.85542,3382,Synthetic,True
+MOB_LUC_0074,Lucknow,Uttar Pradesh,North Metro Station 74,Metro Station,26.751453,80.953319,1111,Synthetic,True
+MOB_LUC_0075,Lucknow,Uttar Pradesh,North Public Transport Platform 75,Public Transport Platform,26.845769,81.082202,949,Synthetic,True
+MOB_LUC_0076,Lucknow,Uttar Pradesh,Central Metro Station 76,Metro Station,26.966592,81.041479,3714,Synthetic,True
+MOB_LUC_0077,Lucknow,Uttar Pradesh,East Public Transport Platform 77,Public Transport Platform,26.794831,81.086164,2667,Synthetic,True
+MOB_LUC_0078,Lucknow,Uttar Pradesh,East Bus Stop 78,Bus Stop,26.896077,80.903878,2256,Synthetic,True
+MOB_LUC_0079,Lucknow,Uttar Pradesh,City Metro Station 79,Metro Station,26.782748,80.877562,3630,Synthetic,True
+MOB_LUC_0080,Lucknow,Uttar Pradesh,Central Railway Station 80,Railway Station,26.796512,81.046856,2447,Synthetic,True
+MOB_LUC_0081,Lucknow,Uttar Pradesh,East Public Transport Platform 81,Public Transport Platform,26.887526,81.064258,101,Synthetic,True
+MOB_LUC_0082,Lucknow,Uttar Pradesh,North Railway Station 82,Railway Station,26.993116,81.03076,3848,Synthetic,True
+MOB_LUC_0083,Lucknow,Uttar Pradesh,North Metro Station 83,Metro Station,26.779054,80.979938,475,Synthetic,True
+MOB_LUC_0084,Lucknow,Uttar Pradesh,Central Public Transport Platform 84,Public Transport Platform,26.800903,81.012433,4389,Synthetic,True
+MOB_LUC_0085,Lucknow,Uttar Pradesh,City Metro Station 85,Metro Station,26.823151,80.988875,1229,Synthetic,True
+MOB_LUC_0086,Lucknow,Uttar Pradesh,Market Metro Station 86,Metro Station,26.861177,81.032784,1328,Synthetic,True
+MOB_LUC_0087,Lucknow,Uttar Pradesh,Junction Bus Stop 87,Bus Stop,26.829164,81.029442,3283,Synthetic,True
+MOB_LUC_0088,Lucknow,Uttar Pradesh,South Public Transport Platform 88,Public Transport Platform,26.941484,80.961317,3289,Synthetic,True
+MOB_LUC_0089,Lucknow,Uttar Pradesh,South Metro Station 89,Metro Station,26.907535,81.017726,4311,Synthetic,True
+MOB_LUC_0090,Lucknow,Uttar Pradesh,Market Public Transport Platform 90,Public Transport Platform,26.751086,80.866841,1183,Synthetic,True
+MOB_LUC_0091,Lucknow,Uttar Pradesh,Central Metro Station 91,Metro Station,26.955427,81.060253,4293,Synthetic,True
+MOB_LUC_0092,Lucknow,Uttar Pradesh,Junction Railway Station 92,Railway Station,26.781625,81.054277,4499,Synthetic,True
+MOB_LUC_0093,Lucknow,Uttar Pradesh,Market Metro Station 93,Metro Station,26.998213,80.903129,3747,Synthetic,True
+MOB_LUC_0094,Lucknow,Uttar Pradesh,Central Public Transport Platform 94,Public Transport Platform,26.986749,80.977377,4475,Synthetic,True
+MOB_LUC_0095,Lucknow,Uttar Pradesh,East Public Transport Platform 95,Public Transport Platform,26.930945,81.009534,1744,Synthetic,True
+MOB_LUC_0096,Lucknow,Uttar Pradesh,Central Public Transport Platform 96,Public Transport Platform,26.962955,81.010029,2124,Synthetic,True
+MOB_LUC_0097,Lucknow,Uttar Pradesh,South Railway Station 97,Railway Station,26.969177,80.999848,246,Synthetic,True
+MOB_LUC_0098,Lucknow,Uttar Pradesh,South Railway Station 98,Railway Station,26.819983,81.028798,475,Synthetic,True
+MOB_LUC_0099,Lucknow,Uttar Pradesh,Market Bus Stop 99,Bus Stop,26.786393,81.005408,816,Synthetic,True
+MOB_LUC_0100,Lucknow,Uttar Pradesh,North Metro Station 100,Metro Station,26.76248,81.013271,57,Synthetic,True
+MOB_LUC_0101,Lucknow,Uttar Pradesh,City Bus Stop 101,Bus Stop,26.97473,80.922943,948,Synthetic,True
+MOB_LUC_0102,Lucknow,Uttar Pradesh,North Public Transport Platform 102,Public Transport Platform,26.946771,80.982649,541,Synthetic,True
+MOB_LUC_0103,Lucknow,Uttar Pradesh,Market Bus Stop 103,Bus Stop,26.987915,81.033437,4777,Synthetic,True
+MOB_LUC_0104,Lucknow,Uttar Pradesh,Junction Bus Stop 104,Bus Stop,26.81382,80.867034,2358,Synthetic,True
+MOB_LUC_0105,Lucknow,Uttar Pradesh,Junction Bus Stop 105,Bus Stop,26.810498,80.937143,3203,Synthetic,True
+MOB_LUC_0106,Lucknow,Uttar Pradesh,City Railway Station 106,Railway Station,26.921776,81.058409,1614,Synthetic,True
+MOB_LUC_0107,Lucknow,Uttar Pradesh,Junction Bus Stop 107,Bus Stop,26.878763,80.90431,2591,Synthetic,True
+MOB_LUC_0108,Lucknow,Uttar Pradesh,North Public Transport Platform 108,Public Transport Platform,26.838066,80.862485,394,Synthetic,True
+MOB_LUC_0109,Lucknow,Uttar Pradesh,City Bus Stop 109,Bus Stop,26.980544,80.97908,2653,Synthetic,True
+MOB_LUC_0110,Lucknow,Uttar Pradesh,Junction Public Transport Platform 110,Public Transport Platform,26.861845,80.971765,3742,Synthetic,True
+MOB_LUC_0111,Lucknow,Uttar Pradesh,Central Railway Station 111,Railway Station,26.772803,81.081785,354,Synthetic,True
+MOB_LUC_0112,Lucknow,Uttar Pradesh,East Metro Station 112,Metro Station,26.947577,81.014264,3366,Synthetic,True
+MOB_LUC_0113,Lucknow,Uttar Pradesh,East Metro Station 113,Metro Station,26.925432,80.958983,924,Synthetic,True
+MOB_LUC_0114,Lucknow,Uttar Pradesh,South Railway Station 114,Railway Station,26.856073,81.049708,3510,Synthetic,True
+MOB_LUC_0115,Lucknow,Uttar Pradesh,City Bus Stop 115,Bus Stop,26.892188,80.967506,3207,Synthetic,True
+MOB_LUC_0116,Lucknow,Uttar Pradesh,North Public Transport Platform 116,Public Transport Platform,26.894786,81.028202,1704,Synthetic,True
+MOB_LUC_0117,Lucknow,Uttar Pradesh,Main Road Metro Station 117,Metro Station,26.853456,80.969123,391,Synthetic,True
+MOB_LUC_0118,Lucknow,Uttar Pradesh,Central Railway Station 118,Railway Station,26.83321,81.09476,1748,Synthetic,True
+MOB_LUC_0119,Lucknow,Uttar Pradesh,Market Railway Station 119,Railway Station,26.813896,81.010906,598,Synthetic,True
+MOB_LUC_0120,Lucknow,Uttar Pradesh,South Railway Station 120,Railway Station,26.831787,81.026397,4518,Synthetic,True
+MOB_LUC_0121,Lucknow,Uttar Pradesh,Market Railway Station 121,Railway Station,26.841187,80.909854,2077,Synthetic,True
+MOB_LUC_0122,Lucknow,Uttar Pradesh,Junction Metro Station 122,Metro Station,26.789806,80.950045,1213,Synthetic,True
+MOB_LUC_0123,Lucknow,Uttar Pradesh,East Bus Stop 123,Bus Stop,26.976355,81.0251,2795,Synthetic,True
+MOB_LUC_0124,Lucknow,Uttar Pradesh,City Bus Stop 124,Bus Stop,26.92033,80.984856,2242,Synthetic,True
+MOB_LUC_0125,Lucknow,Uttar Pradesh,South Public Transport Platform 125,Public Transport Platform,26.887013,81.001188,1754,Synthetic,True
+MOB_LUC_0126,Lucknow,Uttar Pradesh,Market Bus Stop 126,Bus Stop,26.751615,81.047173,2843,Synthetic,True
+MOB_LUC_0127,Lucknow,Uttar Pradesh,Main Road Metro Station 127,Metro Station,26.975238,80.965506,3973,Synthetic,True
+MOB_LUC_0128,Lucknow,Uttar Pradesh,South Public Transport Platform 128,Public Transport Platform,26.898132,81.05278,1868,Synthetic,True
+MOB_LUC_0129,Lucknow,Uttar Pradesh,North Railway Station 129,Railway Station,26.767408,80.942744,551,Synthetic,True
+MOB_LUC_0130,Lucknow,Uttar Pradesh,North Metro Station 130,Metro Station,26.781445,80.979465,2506,Synthetic,True
+MOB_LUC_0131,Lucknow,Uttar Pradesh,City Public Transport Platform 131,Public Transport Platform,26.99207,80.851105,4509,Synthetic,True
+MOB_LUC_0132,Lucknow,Uttar Pradesh,Market Public Transport Platform 132,Public Transport Platform,26.985344,80.851914,4672,Synthetic,True
+MOB_LUC_0133,Lucknow,Uttar Pradesh,Main Road Public Transport Platform 133,Public Transport Platform,26.9715,81.060593,3791,Synthetic,True
+MOB_LUC_0134,Lucknow,Uttar Pradesh,Main Road Metro Station 134,Metro Station,26.987533,81.04834,3893,Synthetic,True
+MOB_LUC_0135,Lucknow,Uttar Pradesh,City Public Transport Platform 135,Public Transport Platform,26.780218,81.039989,2446,Synthetic,True
+MOB_LUC_0136,Lucknow,Uttar Pradesh,North Metro Station 136,Metro Station,26.782068,81.033122,4178,Synthetic,True
+MOB_LUC_0137,Lucknow,Uttar Pradesh,Market Public Transport Platform 137,Public Transport Platform,26.750274,81.000635,120,Synthetic,True
+MOB_LUC_0138,Lucknow,Uttar Pradesh,City Public Transport Platform 138,Public Transport Platform,26.786607,80.862012,1209,Synthetic,True
+MOB_LUC_0139,Lucknow,Uttar Pradesh,Main Road Railway Station 139,Railway Station,26.798366,81.018784,4054,Synthetic,True
+MOB_LUC_0140,Lucknow,Uttar Pradesh,Central Metro Station 140,Metro Station,26.8372,81.014662,3712,Synthetic,True
+MOB_LUC_0141,Lucknow,Uttar Pradesh,City Public Transport Platform 141,Public Transport Platform,26.939348,81.058555,3549,Synthetic,True
+MOB_LUC_0142,Lucknow,Uttar Pradesh,East Bus Stop 142,Bus Stop,26.777084,80.941191,3609,Synthetic,True
+MOB_LUC_0143,Lucknow,Uttar Pradesh,South Railway Station 143,Railway Station,26.850659,80.963815,2474,Synthetic,True
+MOB_LUC_0144,Lucknow,Uttar Pradesh,South Bus Stop 144,Bus Stop,26.881004,80.908632,2405,Synthetic,True
+MOB_LUC_0145,Lucknow,Uttar Pradesh,Central Railway Station 145,Railway Station,26.754366,81.02835,1297,Synthetic,True
+MOB_LUC_0146,Lucknow,Uttar Pradesh,Junction Metro Station 146,Metro Station,26.986244,81.096603,3161,Synthetic,True
+MOB_LUC_0147,Lucknow,Uttar Pradesh,Market Railway Station 147,Railway Station,26.945083,81.006036,1543,Synthetic,True
+MOB_LUC_0148,Lucknow,Uttar Pradesh,City Metro Station 148,Metro Station,26.894864,81.04006,2047,Synthetic,True
+MOB_LUC_0149,Lucknow,Uttar Pradesh,East Bus Stop 149,Bus Stop,26.755313,81.02332,3967,Synthetic,True
+MOB_LUC_0150,Lucknow,Uttar Pradesh,South Metro Station 150,Metro Station,26.762517,80.878504,4087,Synthetic,True
