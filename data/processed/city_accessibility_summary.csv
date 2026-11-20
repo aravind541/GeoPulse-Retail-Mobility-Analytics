@@ -1,0 +1,11 @@
+city,total_stores,high_access,moderate_access,low_access,high_access_percentage,low_access_percentage
+Hyderabad,350,20,66,264,5.71,75.43
+Delhi,350,28,69,253,8.0,72.29
+Bengaluru,350,25,75,250,7.14,71.43
+Mumbai,350,28,87,235,8.0,67.14
+Chennai,350,50,96,204,14.29,58.29
+Pune,350,49,104,197,14.0,56.29
+Jaipur,350,49,107,194,14.0,55.43
+Ahmedabad,350,57,121,172,16.29,49.14
+Lucknow,350,59,122,169,16.86,48.29
+Kolkata,350,54,130,166,15.43,47.43
