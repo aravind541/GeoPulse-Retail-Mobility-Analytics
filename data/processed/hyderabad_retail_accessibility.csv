@@ -1,0 +1,351 @@
+retail_id,city,store_name,category,simulated_daily_visitors,nearest_mobility_id,nearest_mobility_name,nearest_mobility_type,distance_km,accessibility_level
+RET_HYD_0001,Hyderabad,Fresh Mart 1,Supermarket,305,MOB_HYD_0137,North Railway Station 137,Railway Station,0.718650364338197,Moderate
+RET_HYD_0002,Hyderabad,City Market 2,Supermarket,211,MOB_HYD_0078,North Public Transport Platform 78,Public Transport Platform,3.543613568695098,Low
+RET_HYD_0003,Hyderabad,Daily Needs 3,Convenience Store,427,MOB_HYD_0090,Central Railway Station 90,Railway Station,1.6593579841320147,Low
+RET_HYD_0004,Hyderabad,Daily Needs 4,Clothing Store,33,MOB_HYD_0071,Main Road Public Transport Platform 71,Public Transport Platform,2.8827946039463455,Low
+RET_HYD_0005,Hyderabad,Urban Shop 5,Convenience Store,709,MOB_HYD_0104,Junction Bus Stop 104,Bus Stop,0.3185764424428185,High
+RET_HYD_0006,Hyderabad,City Market 6,Supermarket,724,MOB_HYD_0071,Main Road Public Transport Platform 71,Public Transport Platform,2.388499932757949,Low
+RET_HYD_0007,Hyderabad,Fresh Mart 7,Grocery Store,795,MOB_HYD_0129,North Bus Stop 129,Bus Stop,2.424833180137884,Low
+RET_HYD_0008,Hyderabad,Fashion Point 8,Supermarket,760,MOB_HYD_0136,North Metro Station 136,Metro Station,1.9901661114750624,Low
+RET_HYD_0009,Hyderabad,City Market 9,Convenience Store,612,MOB_HYD_0054,City Railway Station 54,Railway Station,1.317550887559887,Low
+RET_HYD_0010,Hyderabad,Daily Needs 10,Supermarket,948,MOB_HYD_0082,Main Road Metro Station 82,Metro Station,1.0147698844613475,Low
+RET_HYD_0011,Hyderabad,Smart Store 11,Grocery Store,566,MOB_HYD_0075,Junction Public Transport Platform 75,Public Transport Platform,1.1960895109207592,Low
+RET_HYD_0012,Hyderabad,Smart Store 12,Supermarket,966,MOB_HYD_0012,Market Bus Stop 12,Bus Stop,0.7107471900041853,Moderate
+RET_HYD_0013,Hyderabad,Fashion Point 13,Clothing Store,1160,MOB_HYD_0139,South Bus Stop 139,Bus Stop,3.1578096548562273,Low
+RET_HYD_0014,Hyderabad,Mega Mart 14,Convenience Store,489,MOB_HYD_0123,East Metro Station 123,Metro Station,2.2990360671861496,Low
+RET_HYD_0015,Hyderabad,Mega Mart 15,Supermarket,1181,MOB_HYD_0107,Main Road Railway Station 107,Railway Station,0.7971402392513959,Moderate
+RET_HYD_0016,Hyderabad,Daily Needs 16,Grocery Store,1336,MOB_HYD_0003,North Metro Station 3,Metro Station,1.6574709758637984,Low
+RET_HYD_0017,Hyderabad,Smart Store 17,Clothing Store,1169,MOB_HYD_0146,North Metro Station 146,Metro Station,2.744710349261788,Low
+RET_HYD_0018,Hyderabad,Urban Shop 18,Grocery Store,469,MOB_HYD_0082,Main Road Metro Station 82,Metro Station,2.4830441196088597,Low
+RET_HYD_0019,Hyderabad,Retail Hub 19,Convenience Store,244,MOB_HYD_0058,Junction Public Transport Platform 58,Public Transport Platform,1.4482127942119776,Low
+RET_HYD_0020,Hyderabad,Smart Store 20,Convenience Store,150,MOB_HYD_0108,Central Public Transport Platform 108,Public Transport Platform,2.1198874116916513,Low
+RET_HYD_0021,Hyderabad,Urban Shop 21,Clothing Store,534,MOB_HYD_0065,South Metro Station 65,Metro Station,2.653236889023866,Low
+RET_HYD_0022,Hyderabad,City Market 22,Supermarket,566,MOB_HYD_0129,North Bus Stop 129,Bus Stop,2.4723445018038674,Low
+RET_HYD_0023,Hyderabad,City Market 23,Grocery Store,26,MOB_HYD_0063,Market Public Transport Platform 63,Public Transport Platform,0.7364253882712603,Moderate
+RET_HYD_0024,Hyderabad,Smart Store 24,Grocery Store,1300,MOB_HYD_0078,North Public Transport Platform 78,Public Transport Platform,1.3682046607698146,Low
+RET_HYD_0025,Hyderabad,Daily Needs 25,Grocery Store,1124,MOB_HYD_0001,Junction Metro Station 1,Metro Station,1.0977885914440162,Low
+RET_HYD_0026,Hyderabad,Mega Mart 26,Supermarket,763,MOB_HYD_0078,North Public Transport Platform 78,Public Transport Platform,1.8352377763839876,Low
+RET_HYD_0027,Hyderabad,Daily Needs 27,Grocery Store,181,MOB_HYD_0023,Main Road Public Transport Platform 23,Public Transport Platform,1.1478064901339922,Low
+RET_HYD_0028,Hyderabad,Retail Hub 28,Supermarket,1110,MOB_HYD_0118,East Bus Stop 118,Bus Stop,2.1200674035889837,Low
+RET_HYD_0029,Hyderabad,Smart Store 29,Convenience Store,358,MOB_HYD_0143,Main Road Railway Station 143,Railway Station,2.2515918286470544,Low
+RET_HYD_0030,Hyderabad,Urban Shop 30,Grocery Store,1432,MOB_HYD_0072,North Bus Stop 72,Bus Stop,1.2650086994408696,Low
+RET_HYD_0031,Hyderabad,Fashion Point 31,Convenience Store,784,MOB_HYD_0013,Market Railway Station 13,Railway Station,1.602514632814317,Low
+RET_HYD_0032,Hyderabad,Retail Hub 32,Clothing Store,712,MOB_HYD_0125,North Bus Stop 125,Bus Stop,0.579404370963915,Moderate
+RET_HYD_0033,Hyderabad,Daily Needs 33,Supermarket,1469,MOB_HYD_0096,North Public Transport Platform 96,Public Transport Platform,3.583938325132412,Low
+RET_HYD_0034,Hyderabad,Daily Needs 34,Supermarket,696,MOB_HYD_0058,Junction Public Transport Platform 58,Public Transport Platform,1.236022051844181,Low
+RET_HYD_0035,Hyderabad,Daily Needs 35,Supermarket,1124,MOB_HYD_0018,North Railway Station 18,Railway Station,0.81563821766177,Moderate
+RET_HYD_0036,Hyderabad,Retail Hub 36,Convenience Store,853,MOB_HYD_0018,North Railway Station 18,Railway Station,1.6607174614184745,Low
+RET_HYD_0037,Hyderabad,City Market 37,Convenience Store,887,MOB_HYD_0083,Central Bus Stop 83,Bus Stop,1.8777027761340133,Low
+RET_HYD_0038,Hyderabad,Retail Hub 38,Clothing Store,1358,MOB_HYD_0101,South Bus Stop 101,Bus Stop,1.7934059481201838,Low
+RET_HYD_0039,Hyderabad,Fresh Mart 39,Supermarket,243,MOB_HYD_0071,Main Road Public Transport Platform 71,Public Transport Platform,1.7824612304952312,Low
+RET_HYD_0040,Hyderabad,Daily Needs 40,Convenience Store,884,MOB_HYD_0035,City Metro Station 35,Metro Station,1.7114246319050153,Low
+RET_HYD_0041,Hyderabad,Fashion Point 41,Convenience Store,174,MOB_HYD_0126,Junction Railway Station 126,Railway Station,1.1103624460514152,Low
+RET_HYD_0042,Hyderabad,City Market 42,Clothing Store,50,MOB_HYD_0017,Central Railway Station 17,Railway Station,2.4409954992995857,Low
+RET_HYD_0043,Hyderabad,Daily Needs 43,Supermarket,457,MOB_HYD_0035,City Metro Station 35,Metro Station,1.4466678179583259,Low
+RET_HYD_0044,Hyderabad,Fresh Mart 44,Clothing Store,819,MOB_HYD_0095,Main Road Bus Stop 95,Bus Stop,1.8840519514870204,Low
+RET_HYD_0045,Hyderabad,Retail Hub 45,Grocery Store,1158,MOB_HYD_0131,South Bus Stop 131,Bus Stop,0.8154733068150056,Moderate
+RET_HYD_0046,Hyderabad,Smart Store 46,Clothing Store,139,MOB_HYD_0041,East Metro Station 41,Metro Station,1.2988026421276024,Low
+RET_HYD_0047,Hyderabad,Mega Mart 47,Supermarket,1049,MOB_HYD_0116,City Railway Station 116,Railway Station,1.9856718647935103,Low
+RET_HYD_0048,Hyderabad,Fresh Mart 48,Convenience Store,400,MOB_HYD_0089,Main Road Bus Stop 89,Bus Stop,1.3208286523084107,Low
+RET_HYD_0049,Hyderabad,City Market 49,Supermarket,265,MOB_HYD_0069,Central Public Transport Platform 69,Public Transport Platform,0.7036899301825119,Moderate
+RET_HYD_0050,Hyderabad,Fresh Mart 50,Convenience Store,1215,MOB_HYD_0003,North Metro Station 3,Metro Station,1.256920313872076,Low
+RET_HYD_0051,Hyderabad,Fashion Point 51,Grocery Store,508,MOB_HYD_0026,Central Metro Station 26,Metro Station,1.9728723939450847,Low
+RET_HYD_0052,Hyderabad,Urban Shop 52,Grocery Store,956,MOB_HYD_0116,City Railway Station 116,Railway Station,3.5104296265089494,Low
+RET_HYD_0053,Hyderabad,City Market 53,Grocery Store,1173,MOB_HYD_0116,City Railway Station 116,Railway Station,1.3334255296808264,Low
+RET_HYD_0054,Hyderabad,City Market 54,Supermarket,291,MOB_HYD_0005,Junction Railway Station 5,Railway Station,0.5024315756230724,Moderate
+RET_HYD_0055,Hyderabad,City Market 55,Grocery Store,343,MOB_HYD_0082,Main Road Metro Station 82,Metro Station,1.3544926393679393,Low
+RET_HYD_0056,Hyderabad,Fashion Point 56,Clothing Store,1359,MOB_HYD_0007,East Bus Stop 7,Bus Stop,0.9175222841944616,Moderate
+RET_HYD_0057,Hyderabad,Fashion Point 57,Supermarket,295,MOB_HYD_0117,City Bus Stop 117,Bus Stop,1.6533557633004845,Low
+RET_HYD_0058,Hyderabad,City Market 58,Grocery Store,338,MOB_HYD_0103,Market Bus Stop 103,Bus Stop,0.8611166845467477,Moderate
+RET_HYD_0059,Hyderabad,Fashion Point 59,Grocery Store,436,MOB_HYD_0141,City Bus Stop 141,Bus Stop,2.2610191835549345,Low
+RET_HYD_0060,Hyderabad,Retail Hub 60,Grocery Store,124,MOB_HYD_0028,Main Road Railway Station 28,Railway Station,0.8619324556362361,Moderate
+RET_HYD_0061,Hyderabad,Urban Shop 61,Supermarket,703,MOB_HYD_0025,Central Bus Stop 25,Bus Stop,1.4723325053345118,Low
+RET_HYD_0062,Hyderabad,Fashion Point 62,Convenience Store,1465,MOB_HYD_0035,City Metro Station 35,Metro Station,0.8402851192977604,Moderate
+RET_HYD_0063,Hyderabad,Fresh Mart 63,Clothing Store,1435,MOB_HYD_0019,City Metro Station 19,Metro Station,0.030889750416788767,High
+RET_HYD_0064,Hyderabad,Fresh Mart 64,Convenience Store,323,MOB_HYD_0036,South Railway Station 36,Railway Station,1.3456350112919955,Low
+RET_HYD_0065,Hyderabad,Smart Store 65,Clothing Store,101,MOB_HYD_0138,Main Road Railway Station 138,Railway Station,1.0000822328039611,Low
+RET_HYD_0066,Hyderabad,Daily Needs 66,Grocery Store,744,MOB_HYD_0022,Junction Metro Station 22,Metro Station,1.5215807292074865,Low
+RET_HYD_0067,Hyderabad,Smart Store 67,Clothing Store,352,MOB_HYD_0050,Central Railway Station 50,Railway Station,0.33668900584106287,High
+RET_HYD_0068,Hyderabad,Urban Shop 68,Convenience Store,700,MOB_HYD_0011,South Metro Station 11,Metro Station,2.015445539003198,Low
+RET_HYD_0069,Hyderabad,Daily Needs 69,Clothing Store,241,MOB_HYD_0052,East Bus Stop 52,Bus Stop,0.41505951558470355,High
+RET_HYD_0070,Hyderabad,Fresh Mart 70,Clothing Store,962,MOB_HYD_0148,Main Road Railway Station 148,Railway Station,2.271683133536226,Low
+RET_HYD_0071,Hyderabad,Fashion Point 71,Grocery Store,476,MOB_HYD_0024,Main Road Public Transport Platform 24,Public Transport Platform,1.1212277150897565,Low
+RET_HYD_0072,Hyderabad,Daily Needs 72,Supermarket,162,MOB_HYD_0071,Main Road Public Transport Platform 71,Public Transport Platform,1.248040220317749,Low
+RET_HYD_0073,Hyderabad,Mega Mart 73,Grocery Store,1118,MOB_HYD_0003,North Metro Station 3,Metro Station,1.1700277173519371,Low
+RET_HYD_0074,Hyderabad,Fresh Mart 74,Grocery Store,385,MOB_HYD_0019,City Metro Station 19,Metro Station,1.1123313446779295,Low
+RET_HYD_0075,Hyderabad,Fresh Mart 75,Grocery Store,662,MOB_HYD_0035,City Metro Station 35,Metro Station,1.7702249160907664,Low
+RET_HYD_0076,Hyderabad,City Market 76,Clothing Store,541,MOB_HYD_0113,South Bus Stop 113,Bus Stop,2.081193683909518,Low
+RET_HYD_0077,Hyderabad,Urban Shop 77,Supermarket,1122,MOB_HYD_0017,Central Railway Station 17,Railway Station,1.4111692302753696,Low
+RET_HYD_0078,Hyderabad,Mega Mart 78,Convenience Store,696,MOB_HYD_0057,South Bus Stop 57,Bus Stop,2.207905085331853,Low
+RET_HYD_0079,Hyderabad,City Market 79,Grocery Store,653,MOB_HYD_0150,Market Metro Station 150,Metro Station,2.723824589739315,Low
+RET_HYD_0080,Hyderabad,Mega Mart 80,Clothing Store,280,MOB_HYD_0071,Main Road Public Transport Platform 71,Public Transport Platform,0.9168498302302761,Moderate
+RET_HYD_0081,Hyderabad,Urban Shop 81,Convenience Store,376,MOB_HYD_0003,North Metro Station 3,Metro Station,2.0637562249487695,Low
+RET_HYD_0082,Hyderabad,Urban Shop 82,Grocery Store,607,MOB_HYD_0078,North Public Transport Platform 78,Public Transport Platform,3.4364037890407024,Low
+RET_HYD_0083,Hyderabad,Urban Shop 83,Convenience Store,679,MOB_HYD_0020,Junction Public Transport Platform 20,Public Transport Platform,0.7118238573611885,Moderate
+RET_HYD_0084,Hyderabad,Retail Hub 84,Clothing Store,989,MOB_HYD_0077,Main Road Public Transport Platform 77,Public Transport Platform,1.5769866816413913,Low
+RET_HYD_0085,Hyderabad,City Market 85,Convenience Store,1288,MOB_HYD_0131,South Bus Stop 131,Bus Stop,0.6021397459650418,Moderate
+RET_HYD_0086,Hyderabad,City Market 86,Grocery Store,1397,MOB_HYD_0062,North Bus Stop 62,Bus Stop,1.8089758477117615,Low
+RET_HYD_0087,Hyderabad,Daily Needs 87,Grocery Store,114,MOB_HYD_0081,South Railway Station 81,Railway Station,1.3776444713108402,Low
+RET_HYD_0088,Hyderabad,Retail Hub 88,Convenience Store,952,MOB_HYD_0027,South Bus Stop 27,Bus Stop,1.0369611352225132,Low
+RET_HYD_0089,Hyderabad,Daily Needs 89,Clothing Store,838,MOB_HYD_0108,Central Public Transport Platform 108,Public Transport Platform,2.904688629970326,Low
+RET_HYD_0090,Hyderabad,Smart Store 90,Convenience Store,238,MOB_HYD_0096,North Public Transport Platform 96,Public Transport Platform,0.9515575025408283,Moderate
+RET_HYD_0091,Hyderabad,Daily Needs 91,Clothing Store,1080,MOB_HYD_0019,City Metro Station 19,Metro Station,2.57424166223519,Low
+RET_HYD_0092,Hyderabad,Fresh Mart 92,Clothing Store,268,MOB_HYD_0144,Junction Railway Station 144,Railway Station,2.147302212998588,Low
+RET_HYD_0093,Hyderabad,Smart Store 93,Clothing Store,1164,MOB_HYD_0020,Junction Public Transport Platform 20,Public Transport Platform,2.556673494828903,Low
+RET_HYD_0094,Hyderabad,Retail Hub 94,Grocery Store,1053,MOB_HYD_0022,Junction Metro Station 22,Metro Station,2.140828419293665,Low
+RET_HYD_0095,Hyderabad,Retail Hub 95,Clothing Store,992,MOB_HYD_0103,Market Bus Stop 103,Bus Stop,0.7957290745273156,Moderate
+RET_HYD_0096,Hyderabad,Fashion Point 96,Clothing Store,587,MOB_HYD_0128,East Bus Stop 128,Bus Stop,1.8627089595075728,Low
+RET_HYD_0097,Hyderabad,Daily Needs 97,Clothing Store,605,MOB_HYD_0079,North Railway Station 79,Railway Station,2.332445850308931,Low
+RET_HYD_0098,Hyderabad,Fashion Point 98,Convenience Store,185,MOB_HYD_0133,Junction Bus Stop 133,Bus Stop,1.9563792924940726,Low
+RET_HYD_0099,Hyderabad,Smart Store 99,Convenience Store,1466,MOB_HYD_0026,Central Metro Station 26,Metro Station,1.2763936597004513,Low
+RET_HYD_0100,Hyderabad,City Market 100,Convenience Store,974,MOB_HYD_0071,Main Road Public Transport Platform 71,Public Transport Platform,1.804416235991629,Low
+RET_HYD_0101,Hyderabad,Fresh Mart 101,Clothing Store,1216,MOB_HYD_0049,Junction Bus Stop 49,Bus Stop,1.6901825110902986,Low
+RET_HYD_0102,Hyderabad,Urban Shop 102,Supermarket,631,MOB_HYD_0073,North Railway Station 73,Railway Station,1.786969470784741,Low
+RET_HYD_0103,Hyderabad,Urban Shop 103,Clothing Store,1255,MOB_HYD_0141,City Bus Stop 141,Bus Stop,0.8135411938399192,Moderate
+RET_HYD_0104,Hyderabad,Retail Hub 104,Convenience Store,79,MOB_HYD_0032,North Railway Station 32,Railway Station,1.6811731866838913,Low
+RET_HYD_0105,Hyderabad,Mega Mart 105,Clothing Store,358,MOB_HYD_0130,Market Bus Stop 130,Bus Stop,1.3227365313315091,Low
+RET_HYD_0106,Hyderabad,Smart Store 106,Clothing Store,826,MOB_HYD_0139,South Bus Stop 139,Bus Stop,1.635189721260144,Low
+RET_HYD_0107,Hyderabad,City Market 107,Supermarket,965,MOB_HYD_0120,Central Public Transport Platform 120,Public Transport Platform,2.4544395686216345,Low
+RET_HYD_0108,Hyderabad,Fresh Mart 108,Convenience Store,951,MOB_HYD_0102,East Metro Station 102,Metro Station,2.3624361503559785,Low
+RET_HYD_0109,Hyderabad,Mega Mart 109,Grocery Store,883,MOB_HYD_0108,Central Public Transport Platform 108,Public Transport Platform,2.9789021786320236,Low
+RET_HYD_0110,Hyderabad,City Market 110,Grocery Store,126,MOB_HYD_0021,East Bus Stop 21,Bus Stop,1.6208486871899084,Low
+RET_HYD_0111,Hyderabad,Daily Needs 111,Grocery Store,1354,MOB_HYD_0027,South Bus Stop 27,Bus Stop,1.679543961730623,Low
+RET_HYD_0112,Hyderabad,Fresh Mart 112,Supermarket,61,MOB_HYD_0015,Junction Railway Station 15,Railway Station,1.042385091515199,Low
+RET_HYD_0113,Hyderabad,Daily Needs 113,Convenience Store,1175,MOB_HYD_0011,South Metro Station 11,Metro Station,3.2420518924783903,Low
+RET_HYD_0114,Hyderabad,Retail Hub 114,Convenience Store,363,MOB_HYD_0088,Main Road Metro Station 88,Metro Station,2.154000038006676,Low
+RET_HYD_0115,Hyderabad,Smart Store 115,Supermarket,72,MOB_HYD_0089,Main Road Bus Stop 89,Bus Stop,1.8845406455374651,Low
+RET_HYD_0116,Hyderabad,Urban Shop 116,Grocery Store,175,MOB_HYD_0070,Main Road Bus Stop 70,Bus Stop,1.4759210891668897,Low
+RET_HYD_0117,Hyderabad,City Market 117,Convenience Store,1421,MOB_HYD_0069,Central Public Transport Platform 69,Public Transport Platform,2.755474926079407,Low
+RET_HYD_0118,Hyderabad,Fresh Mart 118,Supermarket,778,MOB_HYD_0053,Market Metro Station 53,Metro Station,1.5114771208152116,Low
+RET_HYD_0119,Hyderabad,Mega Mart 119,Supermarket,1023,MOB_HYD_0138,Main Road Railway Station 138,Railway Station,1.8758771807206374,Low
+RET_HYD_0120,Hyderabad,Urban Shop 120,Supermarket,961,MOB_HYD_0139,South Bus Stop 139,Bus Stop,2.809542448400231,Low
+RET_HYD_0121,Hyderabad,Urban Shop 121,Convenience Store,1352,MOB_HYD_0035,City Metro Station 35,Metro Station,2.993531956521301,Low
+RET_HYD_0122,Hyderabad,Retail Hub 122,Grocery Store,1233,MOB_HYD_0021,East Bus Stop 21,Bus Stop,2.4433443736530407,Low
+RET_HYD_0123,Hyderabad,Mega Mart 123,Grocery Store,197,MOB_HYD_0086,North Metro Station 86,Metro Station,2.706450877695526,Low
+RET_HYD_0124,Hyderabad,Retail Hub 124,Grocery Store,1269,MOB_HYD_0018,North Railway Station 18,Railway Station,1.6125386485799456,Low
+RET_HYD_0125,Hyderabad,Mega Mart 125,Clothing Store,392,MOB_HYD_0023,Main Road Public Transport Platform 23,Public Transport Platform,0.7120099329938154,Moderate
+RET_HYD_0126,Hyderabad,Daily Needs 126,Clothing Store,592,MOB_HYD_0119,Main Road Bus Stop 119,Bus Stop,1.8599750477331123,Low
+RET_HYD_0127,Hyderabad,Fresh Mart 127,Grocery Store,514,MOB_HYD_0012,Market Bus Stop 12,Bus Stop,1.670501059980442,Low
+RET_HYD_0128,Hyderabad,Retail Hub 128,Clothing Store,995,MOB_HYD_0012,Market Bus Stop 12,Bus Stop,1.138315929738324,Low
+RET_HYD_0129,Hyderabad,Retail Hub 129,Clothing Store,473,MOB_HYD_0025,Central Bus Stop 25,Bus Stop,1.1399944134504656,Low
+RET_HYD_0130,Hyderabad,Daily Needs 130,Clothing Store,989,MOB_HYD_0076,Main Road Bus Stop 76,Bus Stop,1.5258995155816824,Low
+RET_HYD_0131,Hyderabad,Urban Shop 131,Grocery Store,740,MOB_HYD_0139,South Bus Stop 139,Bus Stop,1.5122701980836515,Low
+RET_HYD_0132,Hyderabad,Fashion Point 132,Clothing Store,1497,MOB_HYD_0146,North Metro Station 146,Metro Station,0.9915180294434671,Moderate
+RET_HYD_0133,Hyderabad,Mega Mart 133,Convenience Store,1433,MOB_HYD_0087,Central Bus Stop 87,Bus Stop,1.3646382486785245,Low
+RET_HYD_0134,Hyderabad,Daily Needs 134,Convenience Store,1227,MOB_HYD_0018,North Railway Station 18,Railway Station,2.773647733961116,Low
+RET_HYD_0135,Hyderabad,City Market 135,Grocery Store,759,MOB_HYD_0150,Market Metro Station 150,Metro Station,1.7558989747716083,Low
+RET_HYD_0136,Hyderabad,Fashion Point 136,Convenience Store,581,MOB_HYD_0145,Central Metro Station 145,Metro Station,1.8945675766791588,Low
+RET_HYD_0137,Hyderabad,Fresh Mart 137,Supermarket,278,MOB_HYD_0141,City Bus Stop 141,Bus Stop,0.8755197496648449,Moderate
+RET_HYD_0138,Hyderabad,City Market 138,Clothing Store,981,MOB_HYD_0097,City Railway Station 97,Railway Station,0.17659744424889592,High
+RET_HYD_0139,Hyderabad,Retail Hub 139,Clothing Store,537,MOB_HYD_0133,Junction Bus Stop 133,Bus Stop,1.2164093406468797,Low
+RET_HYD_0140,Hyderabad,City Market 140,Clothing Store,171,MOB_HYD_0082,Main Road Metro Station 82,Metro Station,1.6695420386609874,Low
+RET_HYD_0141,Hyderabad,Smart Store 141,Supermarket,642,MOB_HYD_0087,Central Bus Stop 87,Bus Stop,2.9633312117461355,Low
+RET_HYD_0142,Hyderabad,Daily Needs 142,Supermarket,1261,MOB_HYD_0011,South Metro Station 11,Metro Station,2.1902329605833404,Low
+RET_HYD_0143,Hyderabad,Urban Shop 143,Convenience Store,1225,MOB_HYD_0140,Central Bus Stop 140,Bus Stop,2.139497823779384,Low
+RET_HYD_0144,Hyderabad,Fashion Point 144,Clothing Store,223,MOB_HYD_0078,North Public Transport Platform 78,Public Transport Platform,2.276538871763752,Low
+RET_HYD_0145,Hyderabad,Daily Needs 145,Convenience Store,511,MOB_HYD_0079,North Railway Station 79,Railway Station,2.1542882170475695,Low
+RET_HYD_0146,Hyderabad,City Market 146,Convenience Store,1431,MOB_HYD_0049,Junction Bus Stop 49,Bus Stop,1.6556915709271385,Low
+RET_HYD_0147,Hyderabad,Fashion Point 147,Clothing Store,599,MOB_HYD_0054,City Railway Station 54,Railway Station,3.8056214072212557,Low
+RET_HYD_0148,Hyderabad,City Market 148,Clothing Store,1300,MOB_HYD_0143,Main Road Railway Station 143,Railway Station,1.7889639536299589,Low
+RET_HYD_0149,Hyderabad,Urban Shop 149,Convenience Store,325,MOB_HYD_0125,North Bus Stop 125,Bus Stop,0.45802399118716497,High
+RET_HYD_0150,Hyderabad,Smart Store 150,Grocery Store,649,MOB_HYD_0054,City Railway Station 54,Railway Station,1.9860342041604782,Low
+RET_HYD_0151,Hyderabad,Retail Hub 151,Grocery Store,1453,MOB_HYD_0011,South Metro Station 11,Metro Station,2.582538500218928,Low
+RET_HYD_0152,Hyderabad,Fashion Point 152,Clothing Store,184,MOB_HYD_0044,Main Road Metro Station 44,Metro Station,1.097314342461438,Low
+RET_HYD_0153,Hyderabad,Urban Shop 153,Supermarket,72,MOB_HYD_0129,North Bus Stop 129,Bus Stop,1.177604504369736,Low
+RET_HYD_0154,Hyderabad,Daily Needs 154,Supermarket,1198,MOB_HYD_0094,Market Railway Station 94,Railway Station,1.2549529068275826,Low
+RET_HYD_0155,Hyderabad,Fashion Point 155,Supermarket,378,MOB_HYD_0027,South Bus Stop 27,Bus Stop,1.7898408632031857,Low
+RET_HYD_0156,Hyderabad,Retail Hub 156,Clothing Store,1218,MOB_HYD_0148,Main Road Railway Station 148,Railway Station,0.676706999619971,Moderate
+RET_HYD_0157,Hyderabad,Retail Hub 157,Clothing Store,856,MOB_HYD_0084,Junction Public Transport Platform 84,Public Transport Platform,0.8471700423692197,Moderate
+RET_HYD_0158,Hyderabad,Mega Mart 158,Grocery Store,695,MOB_HYD_0130,Market Bus Stop 130,Bus Stop,1.2179736223456996,Low
+RET_HYD_0159,Hyderabad,Retail Hub 159,Clothing Store,1146,MOB_HYD_0127,East Bus Stop 127,Bus Stop,0.504450383365932,Moderate
+RET_HYD_0160,Hyderabad,Retail Hub 160,Supermarket,257,MOB_HYD_0125,North Bus Stop 125,Bus Stop,1.8371668260417655,Low
+RET_HYD_0161,Hyderabad,Fresh Mart 161,Clothing Store,866,MOB_HYD_0115,Central Metro Station 115,Metro Station,2.4760906951096286,Low
+RET_HYD_0162,Hyderabad,Daily Needs 162,Supermarket,1040,MOB_HYD_0135,City Bus Stop 135,Bus Stop,0.9633308953960956,Moderate
+RET_HYD_0163,Hyderabad,Fresh Mart 163,Clothing Store,609,MOB_HYD_0076,Main Road Bus Stop 76,Bus Stop,3.9085953301612233,Low
+RET_HYD_0164,Hyderabad,Retail Hub 164,Clothing Store,1266,MOB_HYD_0019,City Metro Station 19,Metro Station,1.27933482620707,Low
+RET_HYD_0165,Hyderabad,Smart Store 165,Convenience Store,855,MOB_HYD_0095,Main Road Bus Stop 95,Bus Stop,4.401292674494558,Low
+RET_HYD_0166,Hyderabad,Daily Needs 166,Supermarket,965,MOB_HYD_0122,Main Road Bus Stop 122,Bus Stop,0.8776120677941994,Moderate
+RET_HYD_0167,Hyderabad,Smart Store 167,Supermarket,1062,MOB_HYD_0134,Central Public Transport Platform 134,Public Transport Platform,0.821672280671426,Moderate
+RET_HYD_0168,Hyderabad,Urban Shop 168,Grocery Store,519,MOB_HYD_0118,East Bus Stop 118,Bus Stop,2.726432189582376,Low
+RET_HYD_0169,Hyderabad,Smart Store 169,Clothing Store,1060,MOB_HYD_0133,Junction Bus Stop 133,Bus Stop,1.5319305130079481,Low
+RET_HYD_0170,Hyderabad,City Market 170,Convenience Store,869,MOB_HYD_0052,East Bus Stop 52,Bus Stop,0.2959193446779403,High
+RET_HYD_0171,Hyderabad,Fashion Point 171,Grocery Store,631,MOB_HYD_0150,Market Metro Station 150,Metro Station,1.610835866431915,Low
+RET_HYD_0172,Hyderabad,Smart Store 172,Clothing Store,700,MOB_HYD_0030,South Bus Stop 30,Bus Stop,0.9140492141126445,Moderate
+RET_HYD_0173,Hyderabad,Retail Hub 173,Clothing Store,1448,MOB_HYD_0094,Market Railway Station 94,Railway Station,0.634056484113842,Moderate
+RET_HYD_0174,Hyderabad,Urban Shop 174,Convenience Store,109,MOB_HYD_0039,South Railway Station 39,Railway Station,1.4733881107220594,Low
+RET_HYD_0175,Hyderabad,Retail Hub 175,Grocery Store,810,MOB_HYD_0128,East Bus Stop 128,Bus Stop,1.4057160932770747,Low
+RET_HYD_0176,Hyderabad,Retail Hub 176,Convenience Store,1228,MOB_HYD_0114,North Bus Stop 114,Bus Stop,1.4165339943186823,Low
+RET_HYD_0177,Hyderabad,City Market 177,Grocery Store,1097,MOB_HYD_0085,Junction Metro Station 85,Metro Station,1.6298976331564008,Low
+RET_HYD_0178,Hyderabad,Fresh Mart 178,Clothing Store,1360,MOB_HYD_0108,Central Public Transport Platform 108,Public Transport Platform,1.8356249496551342,Low
+RET_HYD_0179,Hyderabad,City Market 179,Convenience Store,713,MOB_HYD_0147,City Bus Stop 147,Bus Stop,1.1508699311075605,Low
+RET_HYD_0180,Hyderabad,City Market 180,Clothing Store,1112,MOB_HYD_0086,North Metro Station 86,Metro Station,1.9752385686848115,Low
+RET_HYD_0181,Hyderabad,Mega Mart 181,Clothing Store,1019,MOB_HYD_0130,Market Bus Stop 130,Bus Stop,2.9119175232857453,Low
+RET_HYD_0182,Hyderabad,City Market 182,Supermarket,608,MOB_HYD_0026,Central Metro Station 26,Metro Station,1.5091690686643926,Low
+RET_HYD_0183,Hyderabad,City Market 183,Convenience Store,1317,MOB_HYD_0056,South Railway Station 56,Railway Station,1.0244943807412004,Low
+RET_HYD_0184,Hyderabad,Retail Hub 184,Supermarket,79,MOB_HYD_0102,East Metro Station 102,Metro Station,1.47560825455411,Low
+RET_HYD_0185,Hyderabad,Mega Mart 185,Supermarket,787,MOB_HYD_0150,Market Metro Station 150,Metro Station,0.6647536117219867,Moderate
+RET_HYD_0186,Hyderabad,Smart Store 186,Clothing Store,1416,MOB_HYD_0032,North Railway Station 32,Railway Station,0.944284360901719,Moderate
+RET_HYD_0187,Hyderabad,Smart Store 187,Convenience Store,803,MOB_HYD_0098,Junction Railway Station 98,Railway Station,2.5438306411945857,Low
+RET_HYD_0188,Hyderabad,Retail Hub 188,Convenience Store,964,MOB_HYD_0092,East Metro Station 92,Metro Station,1.779440415947261,Low
+RET_HYD_0189,Hyderabad,Retail Hub 189,Grocery Store,972,MOB_HYD_0095,Main Road Bus Stop 95,Bus Stop,2.3858341859192933,Low
+RET_HYD_0190,Hyderabad,Smart Store 190,Grocery Store,1223,MOB_HYD_0019,City Metro Station 19,Metro Station,1.461356281254695,Low
+RET_HYD_0191,Hyderabad,Urban Shop 191,Grocery Store,638,MOB_HYD_0002,East Public Transport Platform 2,Public Transport Platform,0.739779203078527,Moderate
+RET_HYD_0192,Hyderabad,Urban Shop 192,Convenience Store,801,MOB_HYD_0101,South Bus Stop 101,Bus Stop,1.0285517078701711,Low
+RET_HYD_0193,Hyderabad,Fashion Point 193,Grocery Store,1368,MOB_HYD_0110,Junction Metro Station 110,Metro Station,1.3689048291908452,Low
+RET_HYD_0194,Hyderabad,Fashion Point 194,Clothing Store,120,MOB_HYD_0124,Central Railway Station 124,Railway Station,0.2385268112882693,High
+RET_HYD_0195,Hyderabad,Fashion Point 195,Clothing Store,741,MOB_HYD_0137,North Railway Station 137,Railway Station,0.8399667274336763,Moderate
+RET_HYD_0196,Hyderabad,Daily Needs 196,Convenience Store,1496,MOB_HYD_0022,Junction Metro Station 22,Metro Station,0.9413620934986678,Moderate
+RET_HYD_0197,Hyderabad,City Market 197,Convenience Store,652,MOB_HYD_0136,North Metro Station 136,Metro Station,1.5445990941571637,Low
+RET_HYD_0198,Hyderabad,Fresh Mart 198,Clothing Store,204,MOB_HYD_0141,City Bus Stop 141,Bus Stop,1.4322440656124507,Low
+RET_HYD_0199,Hyderabad,Mega Mart 199,Grocery Store,290,MOB_HYD_0120,Central Public Transport Platform 120,Public Transport Platform,2.3648693469994235,Low
+RET_HYD_0200,Hyderabad,Fashion Point 200,Grocery Store,1006,MOB_HYD_0150,Market Metro Station 150,Metro Station,2.6841549187787987,Low
+RET_HYD_0201,Hyderabad,Mega Mart 201,Grocery Store,174,MOB_HYD_0061,Junction Public Transport Platform 61,Public Transport Platform,1.2387053247459676,Low
+RET_HYD_0202,Hyderabad,Daily Needs 202,Convenience Store,833,MOB_HYD_0059,Junction Railway Station 59,Railway Station,0.7078033535743057,Moderate
+RET_HYD_0203,Hyderabad,City Market 203,Grocery Store,1118,MOB_HYD_0025,Central Bus Stop 25,Bus Stop,2.3002427253330016,Low
+RET_HYD_0204,Hyderabad,Retail Hub 204,Supermarket,556,MOB_HYD_0093,Main Road Railway Station 93,Railway Station,2.2899210392939273,Low
+RET_HYD_0205,Hyderabad,Mega Mart 205,Clothing Store,71,MOB_HYD_0125,North Bus Stop 125,Bus Stop,0.8230523736719488,Moderate
+RET_HYD_0206,Hyderabad,Daily Needs 206,Grocery Store,970,MOB_HYD_0051,North Railway Station 51,Railway Station,0.2587907532711522,High
+RET_HYD_0207,Hyderabad,Urban Shop 207,Grocery Store,96,MOB_HYD_0045,Main Road Metro Station 45,Metro Station,1.1299953567157757,Low
+RET_HYD_0208,Hyderabad,Retail Hub 208,Grocery Store,1120,MOB_HYD_0125,North Bus Stop 125,Bus Stop,0.8809724209124035,Moderate
+RET_HYD_0209,Hyderabad,Urban Shop 209,Convenience Store,1446,MOB_HYD_0013,Market Railway Station 13,Railway Station,1.4333127115435325,Low
+RET_HYD_0210,Hyderabad,Smart Store 210,Clothing Store,1022,MOB_HYD_0136,North Metro Station 136,Metro Station,1.636748964751245,Low
+RET_HYD_0211,Hyderabad,Fashion Point 211,Clothing Store,928,MOB_HYD_0138,Main Road Railway Station 138,Railway Station,0.8952895462512175,Moderate
+RET_HYD_0212,Hyderabad,Daily Needs 212,Clothing Store,1424,MOB_HYD_0101,South Bus Stop 101,Bus Stop,0.884343874884947,Moderate
+RET_HYD_0213,Hyderabad,Mega Mart 213,Grocery Store,270,MOB_HYD_0125,North Bus Stop 125,Bus Stop,3.2606187403531153,Low
+RET_HYD_0214,Hyderabad,City Market 214,Clothing Store,1242,MOB_HYD_0051,North Railway Station 51,Railway Station,0.5023701125650658,Moderate
+RET_HYD_0215,Hyderabad,Fresh Mart 215,Supermarket,277,MOB_HYD_0137,North Railway Station 137,Railway Station,1.0441234642529824,Low
+RET_HYD_0216,Hyderabad,City Market 216,Convenience Store,1220,MOB_HYD_0060,Central Railway Station 60,Railway Station,1.0100831108079658,Low
+RET_HYD_0217,Hyderabad,Daily Needs 217,Convenience Store,1240,MOB_HYD_0104,Junction Bus Stop 104,Bus Stop,0.2997332572797509,High
+RET_HYD_0218,Hyderabad,Fashion Point 218,Supermarket,286,MOB_HYD_0092,East Metro Station 92,Metro Station,1.8468054352040637,Low
+RET_HYD_0219,Hyderabad,Smart Store 219,Grocery Store,289,MOB_HYD_0038,East Metro Station 38,Metro Station,1.1527307692496467,Low
+RET_HYD_0220,Hyderabad,Mega Mart 220,Supermarket,683,MOB_HYD_0137,North Railway Station 137,Railway Station,1.1930688992288871,Low
+RET_HYD_0221,Hyderabad,Smart Store 221,Supermarket,882,MOB_HYD_0079,North Railway Station 79,Railway Station,0.22162955526240374,High
+RET_HYD_0222,Hyderabad,City Market 222,Supermarket,1071,MOB_HYD_0021,East Bus Stop 21,Bus Stop,1.4854756397686415,Low
+RET_HYD_0223,Hyderabad,Retail Hub 223,Supermarket,108,MOB_HYD_0073,North Railway Station 73,Railway Station,1.1377806348264843,Low
+RET_HYD_0224,Hyderabad,Retail Hub 224,Grocery Store,1000,MOB_HYD_0096,North Public Transport Platform 96,Public Transport Platform,1.8327598035130686,Low
+RET_HYD_0225,Hyderabad,Urban Shop 225,Clothing Store,928,MOB_HYD_0033,North Metro Station 33,Metro Station,0.6495816694655024,Moderate
+RET_HYD_0226,Hyderabad,City Market 226,Supermarket,278,MOB_HYD_0104,Junction Bus Stop 104,Bus Stop,0.4576510695144307,High
+RET_HYD_0227,Hyderabad,Mega Mart 227,Grocery Store,623,MOB_HYD_0113,South Bus Stop 113,Bus Stop,1.2516064848095383,Low
+RET_HYD_0228,Hyderabad,Urban Shop 228,Clothing Store,1360,MOB_HYD_0011,South Metro Station 11,Metro Station,1.5122761481185447,Low
+RET_HYD_0229,Hyderabad,Urban Shop 229,Convenience Store,714,MOB_HYD_0077,Main Road Public Transport Platform 77,Public Transport Platform,2.2699502299851915,Low
+RET_HYD_0230,Hyderabad,Urban Shop 230,Clothing Store,894,MOB_HYD_0056,South Railway Station 56,Railway Station,1.210144986652372,Low
+RET_HYD_0231,Hyderabad,Fashion Point 231,Grocery Store,991,MOB_HYD_0111,Junction Public Transport Platform 111,Public Transport Platform,1.3795940145722798,Low
+RET_HYD_0232,Hyderabad,City Market 232,Supermarket,217,MOB_HYD_0101,South Bus Stop 101,Bus Stop,0.28113762052046376,High
+RET_HYD_0233,Hyderabad,Smart Store 233,Grocery Store,1170,MOB_HYD_0099,South Public Transport Platform 99,Public Transport Platform,1.537980589229433,Low
+RET_HYD_0234,Hyderabad,City Market 234,Grocery Store,886,MOB_HYD_0057,South Bus Stop 57,Bus Stop,1.3087286654822983,Low
+RET_HYD_0235,Hyderabad,Fashion Point 235,Supermarket,1203,MOB_HYD_0003,North Metro Station 3,Metro Station,1.708797042832349,Low
+RET_HYD_0236,Hyderabad,Smart Store 236,Convenience Store,241,MOB_HYD_0069,Central Public Transport Platform 69,Public Transport Platform,1.5155208657432406,Low
+RET_HYD_0237,Hyderabad,Mega Mart 237,Grocery Store,483,MOB_HYD_0041,East Metro Station 41,Metro Station,2.611492385826418,Low
+RET_HYD_0238,Hyderabad,Fresh Mart 238,Clothing Store,1440,MOB_HYD_0022,Junction Metro Station 22,Metro Station,1.655757462671091,Low
+RET_HYD_0239,Hyderabad,Fresh Mart 239,Grocery Store,652,MOB_HYD_0001,Junction Metro Station 1,Metro Station,2.520436208801969,Low
+RET_HYD_0240,Hyderabad,Mega Mart 240,Grocery Store,1179,MOB_HYD_0124,Central Railway Station 124,Railway Station,0.45634447452804494,High
+RET_HYD_0241,Hyderabad,City Market 241,Clothing Store,82,MOB_HYD_0098,Junction Railway Station 98,Railway Station,3.3565935549170796,Low
+RET_HYD_0242,Hyderabad,Daily Needs 242,Supermarket,342,MOB_HYD_0064,Main Road Public Transport Platform 64,Public Transport Platform,0.5292122453968748,Moderate
+RET_HYD_0243,Hyderabad,Fashion Point 243,Grocery Store,1182,MOB_HYD_0062,North Bus Stop 62,Bus Stop,2.12143128638643,Low
+RET_HYD_0244,Hyderabad,Fresh Mart 244,Supermarket,121,MOB_HYD_0001,Junction Metro Station 1,Metro Station,1.0422553687219345,Low
+RET_HYD_0245,Hyderabad,Fashion Point 245,Supermarket,1263,MOB_HYD_0140,Central Bus Stop 140,Bus Stop,1.7743394507047572,Low
+RET_HYD_0246,Hyderabad,Urban Shop 246,Clothing Store,253,MOB_HYD_0052,East Bus Stop 52,Bus Stop,1.199572773625097,Low
+RET_HYD_0247,Hyderabad,Urban Shop 247,Grocery Store,1234,MOB_HYD_0011,South Metro Station 11,Metro Station,2.598447410915691,Low
+RET_HYD_0248,Hyderabad,Fashion Point 248,Clothing Store,1247,MOB_HYD_0138,Main Road Railway Station 138,Railway Station,0.3120433926707984,High
+RET_HYD_0249,Hyderabad,Fresh Mart 249,Supermarket,301,MOB_HYD_0132,Central Railway Station 132,Railway Station,2.041830428314438,Low
+RET_HYD_0250,Hyderabad,Fashion Point 250,Grocery Store,901,MOB_HYD_0107,Main Road Railway Station 107,Railway Station,4.241465607525962,Low
+RET_HYD_0251,Hyderabad,Smart Store 251,Convenience Store,1044,MOB_HYD_0013,Market Railway Station 13,Railway Station,1.9651901149205138,Low
+RET_HYD_0252,Hyderabad,City Market 252,Grocery Store,913,MOB_HYD_0093,Main Road Railway Station 93,Railway Station,1.2032364845635046,Low
+RET_HYD_0253,Hyderabad,Retail Hub 253,Supermarket,1199,MOB_HYD_0094,Market Railway Station 94,Railway Station,1.0056533784851933,Low
+RET_HYD_0254,Hyderabad,Urban Shop 254,Clothing Store,255,MOB_HYD_0108,Central Public Transport Platform 108,Public Transport Platform,1.8912415449716695,Low
+RET_HYD_0255,Hyderabad,Fresh Mart 255,Clothing Store,1285,MOB_HYD_0114,North Bus Stop 114,Bus Stop,0.5653048535181554,Moderate
+RET_HYD_0256,Hyderabad,Mega Mart 256,Clothing Store,518,MOB_HYD_0038,East Metro Station 38,Metro Station,0.67393604616283,Moderate
+RET_HYD_0257,Hyderabad,Urban Shop 257,Clothing Store,655,MOB_HYD_0047,South Bus Stop 47,Bus Stop,2.5354175280717923,Low
+RET_HYD_0258,Hyderabad,Daily Needs 258,Grocery Store,1065,MOB_HYD_0031,South Bus Stop 31,Bus Stop,0.5085785305582904,Moderate
+RET_HYD_0259,Hyderabad,Daily Needs 259,Supermarket,1341,MOB_HYD_0121,North Public Transport Platform 121,Public Transport Platform,1.5440950784560055,Low
+RET_HYD_0260,Hyderabad,Daily Needs 260,Convenience Store,375,MOB_HYD_0125,North Bus Stop 125,Bus Stop,1.785964337029629,Low
+RET_HYD_0261,Hyderabad,City Market 261,Convenience Store,1031,MOB_HYD_0001,Junction Metro Station 1,Metro Station,0.4835505790924637,High
+RET_HYD_0262,Hyderabad,Retail Hub 262,Clothing Store,1336,MOB_HYD_0128,East Bus Stop 128,Bus Stop,1.827533617838167,Low
+RET_HYD_0263,Hyderabad,Mega Mart 263,Grocery Store,925,MOB_HYD_0045,Main Road Metro Station 45,Metro Station,1.0191229576712346,Low
+RET_HYD_0264,Hyderabad,Fashion Point 264,Grocery Store,171,MOB_HYD_0003,North Metro Station 3,Metro Station,1.830774840750774,Low
+RET_HYD_0265,Hyderabad,Retail Hub 265,Grocery Store,607,MOB_HYD_0068,North Metro Station 68,Metro Station,0.8786926707545883,Moderate
+RET_HYD_0266,Hyderabad,City Market 266,Supermarket,967,MOB_HYD_0115,Central Metro Station 115,Metro Station,1.6489348848994096,Low
+RET_HYD_0267,Hyderabad,Retail Hub 267,Supermarket,405,MOB_HYD_0097,City Railway Station 97,Railway Station,1.241257680024057,Low
+RET_HYD_0268,Hyderabad,Retail Hub 268,Grocery Store,942,MOB_HYD_0073,North Railway Station 73,Railway Station,0.6848234857672625,Moderate
+RET_HYD_0269,Hyderabad,Mega Mart 269,Supermarket,1343,MOB_HYD_0089,Main Road Bus Stop 89,Bus Stop,0.6675572606209798,Moderate
+RET_HYD_0270,Hyderabad,Fresh Mart 270,Convenience Store,919,MOB_HYD_0032,North Railway Station 32,Railway Station,0.6948803158697671,Moderate
+RET_HYD_0271,Hyderabad,Mega Mart 271,Convenience Store,857,MOB_HYD_0071,Main Road Public Transport Platform 71,Public Transport Platform,0.8885512935994085,Moderate
+RET_HYD_0272,Hyderabad,Fresh Mart 272,Grocery Store,154,MOB_HYD_0020,Junction Public Transport Platform 20,Public Transport Platform,1.5744293847821,Low
+RET_HYD_0273,Hyderabad,City Market 273,Grocery Store,536,MOB_HYD_0003,North Metro Station 3,Metro Station,2.157970741210956,Low
+RET_HYD_0274,Hyderabad,Mega Mart 274,Convenience Store,736,MOB_HYD_0116,City Railway Station 116,Railway Station,2.1148472119701385,Low
+RET_HYD_0275,Hyderabad,Urban Shop 275,Grocery Store,193,MOB_HYD_0011,South Metro Station 11,Metro Station,2.251066098601114,Low
+RET_HYD_0276,Hyderabad,Urban Shop 276,Grocery Store,281,MOB_HYD_0100,Main Road Railway Station 100,Railway Station,2.8178150336833405,Low
+RET_HYD_0277,Hyderabad,Urban Shop 277,Supermarket,652,MOB_HYD_0090,Central Railway Station 90,Railway Station,2.022022492914896,Low
+RET_HYD_0278,Hyderabad,Daily Needs 278,Convenience Store,413,MOB_HYD_0052,East Bus Stop 52,Bus Stop,2.643108787623398,Low
+RET_HYD_0279,Hyderabad,Smart Store 279,Convenience Store,227,MOB_HYD_0102,East Metro Station 102,Metro Station,1.9466326730096046,Low
+RET_HYD_0280,Hyderabad,Mega Mart 280,Supermarket,1243,MOB_HYD_0136,North Metro Station 136,Metro Station,0.17105450905775763,High
+RET_HYD_0281,Hyderabad,Smart Store 281,Clothing Store,1299,MOB_HYD_0038,East Metro Station 38,Metro Station,2.2696901821345197,Low
+RET_HYD_0282,Hyderabad,Retail Hub 282,Convenience Store,1493,MOB_HYD_0138,Main Road Railway Station 138,Railway Station,1.0066648050984304,Low
+RET_HYD_0283,Hyderabad,Retail Hub 283,Convenience Store,939,MOB_HYD_0027,South Bus Stop 27,Bus Stop,1.717340025710843,Low
+RET_HYD_0284,Hyderabad,Daily Needs 284,Convenience Store,980,MOB_HYD_0052,East Bus Stop 52,Bus Stop,1.68542857472363,Low
+RET_HYD_0285,Hyderabad,Mega Mart 285,Convenience Store,922,MOB_HYD_0129,North Bus Stop 129,Bus Stop,1.4299514765271484,Low
+RET_HYD_0286,Hyderabad,Fashion Point 286,Clothing Store,877,MOB_HYD_0061,Junction Public Transport Platform 61,Public Transport Platform,1.4373115699706187,Low
+RET_HYD_0287,Hyderabad,Daily Needs 287,Convenience Store,532,MOB_HYD_0081,South Railway Station 81,Railway Station,0.9875193135814941,Moderate
+RET_HYD_0288,Hyderabad,Retail Hub 288,Supermarket,230,MOB_HYD_0097,City Railway Station 97,Railway Station,0.8345535306151762,Moderate
+RET_HYD_0289,Hyderabad,Fashion Point 289,Supermarket,940,MOB_HYD_0054,City Railway Station 54,Railway Station,2.5054163294108487,Low
+RET_HYD_0290,Hyderabad,Urban Shop 290,Convenience Store,943,MOB_HYD_0019,City Metro Station 19,Metro Station,1.6335088484006184,Low
+RET_HYD_0291,Hyderabad,Fresh Mart 291,Grocery Store,785,MOB_HYD_0140,Central Bus Stop 140,Bus Stop,1.5137470044829398,Low
+RET_HYD_0292,Hyderabad,Urban Shop 292,Convenience Store,77,MOB_HYD_0010,Main Road Public Transport Platform 10,Public Transport Platform,1.426449276132933,Low
+RET_HYD_0293,Hyderabad,City Market 293,Grocery Store,319,MOB_HYD_0136,North Metro Station 136,Metro Station,2.1421636016984094,Low
+RET_HYD_0294,Hyderabad,Fresh Mart 294,Convenience Store,1445,MOB_HYD_0052,East Bus Stop 52,Bus Stop,2.0260074565605417,Low
+RET_HYD_0295,Hyderabad,Retail Hub 295,Convenience Store,182,MOB_HYD_0107,Main Road Railway Station 107,Railway Station,2.5841635366111,Low
+RET_HYD_0296,Hyderabad,Fashion Point 296,Supermarket,1266,MOB_HYD_0040,Junction Public Transport Platform 40,Public Transport Platform,1.7438388793323445,Low
+RET_HYD_0297,Hyderabad,City Market 297,Clothing Store,269,MOB_HYD_0137,North Railway Station 137,Railway Station,0.6799738679596529,Moderate
+RET_HYD_0298,Hyderabad,Daily Needs 298,Supermarket,956,MOB_HYD_0021,East Bus Stop 21,Bus Stop,1.1261105101141076,Low
+RET_HYD_0299,Hyderabad,City Market 299,Supermarket,1117,MOB_HYD_0085,Junction Metro Station 85,Metro Station,1.3348723786242953,Low
+RET_HYD_0300,Hyderabad,Daily Needs 300,Supermarket,23,MOB_HYD_0069,Central Public Transport Platform 69,Public Transport Platform,2.5148774940725565,Low
+RET_HYD_0301,Hyderabad,Daily Needs 301,Grocery Store,1388,MOB_HYD_0012,Market Bus Stop 12,Bus Stop,2.4001376014397513,Low
+RET_HYD_0302,Hyderabad,Mega Mart 302,Supermarket,1059,MOB_HYD_0087,Central Bus Stop 87,Bus Stop,0.8651548703267296,Moderate
+RET_HYD_0303,Hyderabad,Urban Shop 303,Supermarket,812,MOB_HYD_0055,South Public Transport Platform 55,Public Transport Platform,2.37489660588662,Low
+RET_HYD_0304,Hyderabad,Fashion Point 304,Grocery Store,158,MOB_HYD_0150,Market Metro Station 150,Metro Station,2.6562866926823223,Low
+RET_HYD_0305,Hyderabad,Daily Needs 305,Grocery Store,1211,MOB_HYD_0020,Junction Public Transport Platform 20,Public Transport Platform,1.5425783698079603,Low
+RET_HYD_0306,Hyderabad,Smart Store 306,Grocery Store,1336,MOB_HYD_0087,Central Bus Stop 87,Bus Stop,2.0546659611994764,Low
+RET_HYD_0307,Hyderabad,Retail Hub 307,Convenience Store,393,MOB_HYD_0084,Junction Public Transport Platform 84,Public Transport Platform,1.428540986654983,Low
+RET_HYD_0308,Hyderabad,City Market 308,Convenience Store,95,MOB_HYD_0143,Main Road Railway Station 143,Railway Station,0.5441662004295432,Moderate
+RET_HYD_0309,Hyderabad,Daily Needs 309,Grocery Store,105,MOB_HYD_0054,City Railway Station 54,Railway Station,0.34998341750070305,High
+RET_HYD_0310,Hyderabad,Fashion Point 310,Grocery Store,1132,MOB_HYD_0073,North Railway Station 73,Railway Station,0.7712008658120895,Moderate
+RET_HYD_0311,Hyderabad,Fashion Point 311,Clothing Store,605,MOB_HYD_0116,City Railway Station 116,Railway Station,0.7964790800325234,Moderate
+RET_HYD_0312,Hyderabad,Fresh Mart 312,Grocery Store,274,MOB_HYD_0082,Main Road Metro Station 82,Metro Station,1.7082722196230768,Low
+RET_HYD_0313,Hyderabad,Urban Shop 313,Grocery Store,811,MOB_HYD_0103,Market Bus Stop 103,Bus Stop,0.8977024643267916,Moderate
+RET_HYD_0314,Hyderabad,Smart Store 314,Grocery Store,1083,MOB_HYD_0044,Main Road Metro Station 44,Metro Station,1.091278659793068,Low
+RET_HYD_0315,Hyderabad,City Market 315,Grocery Store,1253,MOB_HYD_0105,Market Public Transport Platform 105,Public Transport Platform,1.708932380119183,Low
+RET_HYD_0316,Hyderabad,Fashion Point 316,Convenience Store,1373,MOB_HYD_0063,Market Public Transport Platform 63,Public Transport Platform,2.785955238691643,Low
+RET_HYD_0317,Hyderabad,Fashion Point 317,Grocery Store,361,MOB_HYD_0074,East Public Transport Platform 74,Public Transport Platform,0.6523542140133318,Moderate
+RET_HYD_0318,Hyderabad,Mega Mart 318,Clothing Store,742,MOB_HYD_0074,East Public Transport Platform 74,Public Transport Platform,0.9596353226360675,Moderate
+RET_HYD_0319,Hyderabad,Fashion Point 319,Clothing Store,137,MOB_HYD_0027,South Bus Stop 27,Bus Stop,1.191825607069615,Low
+RET_HYD_0320,Hyderabad,Urban Shop 320,Supermarket,1411,MOB_HYD_0043,Central Public Transport Platform 43,Public Transport Platform,1.299498034867964,Low
+RET_HYD_0321,Hyderabad,Fresh Mart 321,Convenience Store,917,MOB_HYD_0098,Junction Railway Station 98,Railway Station,3.659043122817001,Low
+RET_HYD_0322,Hyderabad,Smart Store 322,Supermarket,770,MOB_HYD_0112,North Railway Station 112,Railway Station,1.6974178514717557,Low
+RET_HYD_0323,Hyderabad,Urban Shop 323,Grocery Store,334,MOB_HYD_0055,South Public Transport Platform 55,Public Transport Platform,1.7878530652681117,Low
+RET_HYD_0324,Hyderabad,Mega Mart 324,Clothing Store,1195,MOB_HYD_0093,Main Road Railway Station 93,Railway Station,2.254489497840599,Low
+RET_HYD_0325,Hyderabad,Mega Mart 325,Convenience Store,531,MOB_HYD_0113,South Bus Stop 113,Bus Stop,1.9409922091511458,Low
+RET_HYD_0326,Hyderabad,Fresh Mart 326,Supermarket,812,MOB_HYD_0061,Junction Public Transport Platform 61,Public Transport Platform,1.9036851504746573,Low
+RET_HYD_0327,Hyderabad,Fashion Point 327,Supermarket,459,MOB_HYD_0062,North Bus Stop 62,Bus Stop,2.3844052209900273,Low
+RET_HYD_0328,Hyderabad,Retail Hub 328,Grocery Store,171,MOB_HYD_0040,Junction Public Transport Platform 40,Public Transport Platform,0.9901391014035859,Moderate
+RET_HYD_0329,Hyderabad,Smart Store 329,Clothing Store,199,MOB_HYD_0084,Junction Public Transport Platform 84,Public Transport Platform,2.110550783826166,Low
+RET_HYD_0330,Hyderabad,Mega Mart 330,Grocery Store,614,MOB_HYD_0129,North Bus Stop 129,Bus Stop,1.6932830297686967,Low
+RET_HYD_0331,Hyderabad,Smart Store 331,Grocery Store,1326,MOB_HYD_0143,Main Road Railway Station 143,Railway Station,1.2487646086470001,Low
+RET_HYD_0332,Hyderabad,Mega Mart 332,Convenience Store,431,MOB_HYD_0078,North Public Transport Platform 78,Public Transport Platform,1.996000141175839,Low
+RET_HYD_0333,Hyderabad,Daily Needs 333,Convenience Store,1154,MOB_HYD_0025,Central Bus Stop 25,Bus Stop,1.7891575311687546,Low
+RET_HYD_0334,Hyderabad,Retail Hub 334,Grocery Store,1273,MOB_HYD_0060,Central Railway Station 60,Railway Station,0.45295383083366086,High
+RET_HYD_0335,Hyderabad,City Market 335,Supermarket,1492,MOB_HYD_0037,Central Metro Station 37,Metro Station,0.6204254350131113,Moderate
+RET_HYD_0336,Hyderabad,Urban Shop 336,Clothing Store,171,MOB_HYD_0062,North Bus Stop 62,Bus Stop,2.6825459653585972,Low
+RET_HYD_0337,Hyderabad,Mega Mart 337,Convenience Store,1412,MOB_HYD_0033,North Metro Station 33,Metro Station,2.087097641427208,Low
+RET_HYD_0338,Hyderabad,Smart Store 338,Grocery Store,1330,MOB_HYD_0123,East Metro Station 123,Metro Station,0.9227472327376364,Moderate
+RET_HYD_0339,Hyderabad,Smart Store 339,Convenience Store,133,MOB_HYD_0057,South Bus Stop 57,Bus Stop,0.5869963603678732,Moderate
+RET_HYD_0340,Hyderabad,Smart Store 340,Supermarket,1472,MOB_HYD_0063,Market Public Transport Platform 63,Public Transport Platform,0.9772892499572922,Moderate
+RET_HYD_0341,Hyderabad,Mega Mart 341,Convenience Store,601,MOB_HYD_0139,South Bus Stop 139,Bus Stop,2.2333267316182184,Low
+RET_HYD_0342,Hyderabad,Fashion Point 342,Supermarket,582,MOB_HYD_0132,Central Railway Station 132,Railway Station,2.524290459613892,Low
+RET_HYD_0343,Hyderabad,Fashion Point 343,Convenience Store,1332,MOB_HYD_0105,Market Public Transport Platform 105,Public Transport Platform,2.9254100187193326,Low
+RET_HYD_0344,Hyderabad,Smart Store 344,Convenience Store,1259,MOB_HYD_0098,Junction Railway Station 98,Railway Station,2.3539496103111515,Low
+RET_HYD_0345,Hyderabad,Fresh Mart 345,Grocery Store,113,MOB_HYD_0025,Central Bus Stop 25,Bus Stop,1.8970172848877331,Low
+RET_HYD_0346,Hyderabad,Daily Needs 346,Grocery Store,1328,MOB_HYD_0108,Central Public Transport Platform 108,Public Transport Platform,1.5693296691723475,Low
+RET_HYD_0347,Hyderabad,Retail Hub 347,Supermarket,1334,MOB_HYD_0097,City Railway Station 97,Railway Station,1.2893783045234228,Low
+RET_HYD_0348,Hyderabad,Retail Hub 348,Grocery Store,851,MOB_HYD_0039,South Railway Station 39,Railway Station,0.49499056304114,High
+RET_HYD_0349,Hyderabad,Retail Hub 349,Grocery Store,920,MOB_HYD_0058,Junction Public Transport Platform 58,Public Transport Platform,2.1247476853894516,Low
+RET_HYD_0350,Hyderabad,Retail Hub 350,Clothing Store,314,MOB_HYD_0047,South Bus Stop 47,Bus Stop,1.6689862440311387,Low
